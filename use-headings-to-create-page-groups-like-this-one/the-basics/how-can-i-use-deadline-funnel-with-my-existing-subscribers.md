@@ -11,8 +11,7 @@ example, you can use Deadline Funnel if you want to trigger a Frank Kern-style
      Use the Deadline Funnel API integration for the most flexibility. If you're using an email service provider that we have an API integration with, you can trigger the Deadline Funnel campaign at virtually any point in your automation. We currently offer API integrations with this growing list of providers:   
   
 [Current Deadline Funnel API
-Integrations](https://documentation.deadlinefunnel.com/article/613-list-of-
-api-integrations)  
+Integrations](https://documentation.deadlinefunnel.com/article/613-list-of-api-integrations)  
 
 2
 

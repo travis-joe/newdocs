@@ -8,12 +8,10 @@ campaign if you're using the Zapier integration with your email platform.
 You can verify this by going to Edit your campaign > Quick Start Guide and
 confirm that "Zapier integration" is selected at the top of the page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd13af2c7d3a7e9ae563a4/file-
-Uey9ySPWGA.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd13af2c7d3a7e9ae563a4/file-Uey9ySPWGA.png)
 
 If you're not using a direct integration, please [click
-here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-
-deadline-funnel) for a list of all our other testing guides.
+here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-deadline-funnel) for a list of all our other testing guides.
 
 We're here to help! You can contact us on live chat (bottom right corner of
 the screen) Monday - Friday, 8 am - 4 pm PST. Or shoot us an email any time at
@@ -39,16 +37,14 @@ up between your email platform and Deadline Funnel.
 Within a few minutes, that new subscriber should show up in the Event Tracking
 page for your Deadline Funnel campaign:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5205b12c7d3a66e32dd3aa/file-
-ZKfex38Nkz.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5205b12c7d3a66e32dd3aa/file-ZKfex38Nkz.png)
 
 ### 3\. Double check your deadline start date and end date
 
 On that same page in Event Tracking, you'll see when the tracking started for
 that new subscriber and when their deadline is:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c520614042863543ccc67d2/file-
-tu8aC6aL7o.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c520614042863543ccc67d2/file-tu8aC6aL7o.png)
 
 The Event Tracking page will show this information for each person going
 through your Deadline Funnel campaign. And this is a great place to double
@@ -72,8 +68,7 @@ expiration date that's in the past.
 
 Here's how to do that:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-
-UTEnwrJmch.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-UTEnwrJmch.gif)
 
 Now, refresh your email and you'll see the expired image in your email, and
 when you click the Deadline Funnel link in the email you will be redirected to

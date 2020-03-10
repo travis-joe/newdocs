@@ -6,14 +6,12 @@ information.
 **If you field your survey without personalizing the URL, your optin survey
 page will look like this:**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59106da52c7d3a057f88e4d8/file-
-TsDtjj5FkM.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59106da52c7d3a057f88e4d8/file-TsDtjj5FkM.png)
 
 **If you field the survey using a personalized link, the optin survey page
 will look like this, without the boxes for name and email:**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/590ce48a0428634b4a32e762/file-
-OHEFShO52N.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/590ce48a0428634b4a32e762/file-OHEFShO52N.png)
 
 # How to append your URL
 
@@ -42,16 +40,14 @@ The placeholders for **Aweber** look like this:
 First name:  {!firstname}  
 Email:  {!email}
 
-Source:   <https://help.aweber.com/hc/en-us/articles/204029906-What-Can-I-
-Personalize-in-My-Messages->
+Source:   <https://help.aweber.com/hc/en-us/articles/204029906-What-Can-I-Personalize-in-My-Messages->
 
 The placeholders for **MailChimp** look like this:
 
 First name:  *|FNAME|*  
 Email:  *|EMAIL|*
 
-Source:   <http://kb.mailchimp.com/merge-tags/using/getting-started-with-
-merge-tags>
+Source:   <http://kb.mailchimp.com/merge-tags/using/getting-started-with-merge-tags>
 
 Each ESP will have a different format, but they should all have the merge
 tags/placeholders available. You can ask your ESP for help in identifying the

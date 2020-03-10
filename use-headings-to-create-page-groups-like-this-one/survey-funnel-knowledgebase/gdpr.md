@@ -19,8 +19,7 @@ Funnel surveys.
 
      Navigate to 'Customize" >> 'Optin Form': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af5cb290428631126f1f520/file-
-Ysmi5XjYqi.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af5cb290428631126f1f520/file-Ysmi5XjYqi.png)
 
 2
 
@@ -32,8 +31,7 @@ Ysmi5XjYqi.png)
 
      Now this checkbox with your specific text will appear on the optin form element in your survey: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af5cd7b2c7d3a3f981f7f5c/file-
-XsuLunVuh7.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af5cd7b2c7d3a3f981f7f5c/file-XsuLunVuh7.png)
 
 If you have any questions, please let us know at
 [help@surveyfunnel.io](mailto:mailto:help@surveyfunnel.io).

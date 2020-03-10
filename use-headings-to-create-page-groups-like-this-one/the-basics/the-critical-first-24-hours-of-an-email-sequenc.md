@@ -2,8 +2,7 @@ Following are some tips for setting up your email sequence when you integrate
 Deadline Funnel with your ESP via the API integration.
 
 In the example below, we are using
-[ActiveCampaign](https://documentation.deadlinefunnel.com/article/244-how-to-
-integrate-deadline-funnel-with-activecampaign-api) which offers an API
+[ActiveCampaign](https://documentation.deadlinefunnel.com/article/244-how-to-integrate-deadline-funnel-with-activecampaign-api) which offers an API
 integration with Deadline Funnel and logic or wait conditions in their
 automations.
 
@@ -32,8 +31,7 @@ emails don't end up being sent the day 'after' your deadline has expired.
 
 ##  Here's how to solve this:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b0f03f50428632c466a5ad3/file-
-ZLfOkRFTt5.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b0f03f50428632c466a5ad3/file-ZLfOkRFTt5.png)
 
   1. As soon as someone enters the sequence trigger the http post (webhook) to sync your ESP with Deadline Funnel
   2. Add a wait condition until midnight in your deadline's time zone

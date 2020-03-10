@@ -8,12 +8,10 @@ campaign if you're using a page visit to trigger the deadline.
 You can verify this by going to Edit your campaign > Quick Start Guide and
 confirm that "a page visit" is selected at the top of the page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd136904286364bc931d93/file-
-HvTXis0oXC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd136904286364bc931d93/file-HvTXis0oXC.png)
 
 If you're not using a page trigger, please [click
-here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-
-deadline-funnel) for links to all our other testing guides.
+here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-deadline-funnel) for links to all our other testing guides.
 
 We're here to help! You can contact us on live chat (bottom right corner of
 the screen) Monday - Friday, 8 am - 4 pm PST. Or shoot us an email any time at
@@ -38,8 +36,7 @@ see the timer there.
 You should immediately see new tracking details show up under Edit your
 campaign > Testing:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5347ef2c7d3a66e32de0c1/file-
-jKhQyW9zCg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5347ef2c7d3a66e32de0c1/file-jKhQyW9zCg.png)
 
 ### 3\. Double check your deadline start date and end date
 
@@ -60,8 +57,7 @@ expiration date that's in the past.
 
 Here's how to do that:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-
-UTEnwrJmch.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-UTEnwrJmch.gif)
 
 Now try to visit your page again and you will be redirected to your expired
 page. That's what will happen as people are going through the funnel and their

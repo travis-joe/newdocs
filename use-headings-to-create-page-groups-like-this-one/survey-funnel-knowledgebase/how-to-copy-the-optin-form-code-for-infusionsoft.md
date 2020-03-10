@@ -16,6 +16,5 @@
 
      Select 'HTML Code (unstyled)' and copy your HTML code into a text editor: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59822dde2c7d3a73488b9744/file-
-iDpG9TcqrW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59822dde2c7d3a73488b9744/file-iDpG9TcqrW.png)
 

@@ -10,8 +10,7 @@ When creating evergreen timers, you can trigger your countdown when:
 
 Using the API integration is the best choice in almost every case. You can
 trigger a countdown at any point in your email sequence. [Click
-here](https://documentation.deadlinefunnel.com/article/613-list-of-api-
-integrations) to see our current list of API Integrations.
+here](https://documentation.deadlinefunnel.com/article/613-list-of-api-integrations) to see our current list of API Integrations.
 
 ###  Optin Trigger:
 
@@ -29,8 +28,7 @@ not include sending email reminders about the deadline. For example after
 someone opts in, you could present a 15-minute special offer and use a page
 trigger for the 15-minute countdown.
 
-<https://documentation.deadlinefunnel.com/article/569-how-to-use-a-page-
-trigger>
+<https://documentation.deadlinefunnel.com/article/569-how-to-use-a-page-trigger>
 
 ### Email Link:
 
@@ -49,8 +47,7 @@ campaign event tracking. Your subscribers must then click a Deadline Funnel
 email link before they reach your page with the countdown. This is necessary
 in order to make sure each subscriber is assigned the correct deadline.  
   
-<https://documentation.deadlinefunnel.com/article/407-how-to-trigger-a-
-deadline-manually>
+<https://documentation.deadlinefunnel.com/article/407-how-to-trigger-a-deadline-manually>
 
 If you have any questions, please let us know at:
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

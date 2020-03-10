@@ -86,15 +86,13 @@ who visited the page but maybe didn't complete the survey.
 
      To start, go to the Customize tab of your survey, and select General Settings: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f33a00428634b4a33960e/file-
-YoZdtd6VOg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f33a00428634b4a33960e/file-YoZdtd6VOg.png)
 
 2
 
      Then add your Facebook pixel code to the Tracking Code section: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f33ed0428634b4a339611/file-
-CFqXCObzXK.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f33ed0428634b4a339611/file-CFqXCObzXK.png)
 
 Note that when you're adding the Facebook code to this section, you  must add
 the Facebook Pixel base code; the standard event code is optional but we do
@@ -130,14 +128,12 @@ choose "The thing I need most is more traffic," and then a different
 event/custom audience for leads who choose "The thing I need most is more
 conversions:"
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59024f3a2c7d3a057f88a078/file-
-fa1oS20Ds3.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59024f3a2c7d3a057f88a078/file-fa1oS20Ds3.jpg)
 
 1
 
      The first step is to go to the 'Rules' tab and add a new rule. The rest of the steps outlined below will be done for each of the two rules we create. 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f371c0428634b4a33962b/file-
-cFyQHPNoUg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f371c0428634b4a33962b/file-cFyQHPNoUg.png)
 
 As you can see, we've set the condition to "selects this answer: The thing I
 need most is more TRAFFIC." So this rule will be triggered after the survey is
@@ -147,13 +143,11 @@ completed, for anyone who selects that specific answer.
 
      Next, click on "Add custom tracking code" under "Add a new action": 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f36fe2c7d3a074e8af6aa/file-
-lC6kt0ZjzF.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f36fe2c7d3a074e8af6aa/file-lC6kt0ZjzF.png)
 
 Here you'll add your  standard event code:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978e2d32c7d3a73488b6767/file-
-smUazexsrX.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978e2d32c7d3a73488b6767/file-smUazexsrX.jpg)
 
 Whenever someone completes the survey and answers "The thing I need the most
 is more traffic," Facebook will fire the standard event "Needs More Traffic."
@@ -170,8 +164,7 @@ catch-all rule that pixels everyone who completes the survey and fires the
 same standard event.
 
 [Click here to learn how to fire custom
-events](https://trello.com/c/SBFg0OEy/238-create-whats-this-docs-for-custom-
-answer-events-and-sending-post-data-to-thank-you-page) as people submit each
+events](https://trello.com/c/SBFg0OEy/238-create-whats-this-docs-for-custom-answer-events-and-sending-post-data-to-thank-you-page) as people submit each
 question in the survey.
 
 If you have any questions about this feature, please send us a message in

@@ -1,8 +1,7 @@
 Deadline Funnel protects your deadlines and pages based on the settings in
 your Funnel Steps:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85f8c12c7d3a4a41992be6/file-
-RSoEJnjI6i.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85f8c12c7d3a4a41992be6/file-RSoEJnjI6i.png)
 
 You cannot give Deadline Funnel 2 different sets of instructions for the same
 URL by using the same URL as the 'Before' URL in 2 different Deadline Funnel
@@ -15,8 +14,7 @@ If you try to add a URL to your Funnel Steps  as the 'Before' step, which has
 already been used in a different campaign, you will see an error message:
 "Please enter a valid before URL":
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85f9940428634376d02ee8/file-
-tM3zFpyL63.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85f9940428634376d02ee8/file-tM3zFpyL63.png)
 
 The solution is to use a different 'Before' URL in your funnel steps.
 

@@ -14,15 +14,13 @@ Zapier.
 
      Create your survey inside Survey Funnel and be sure to include a multiple choice question and optin form: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b895b2d2c7d3a03f89e567c/file-
-pb7HWVgK96.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b895b2d2c7d3a03f89e567c/file-pb7HWVgK96.png)
 
 2
 
      Create a catch-all rule with a zapier outcome: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8840322c7d3a03f89e4ce6/file-
-wz4fj7wjJO.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8840322c7d3a03f89e4ce6/file-wz4fj7wjJO.png)
 
 3
 
@@ -42,8 +40,7 @@ wz4fj7wjJO.png)
 
      Create a Zap with Survey Funnel as the Trigger and choose 'New Survey Entry': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8843130428631d7a8a8f59/file-
-ekUOf4Rw7o.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8843130428631d7a8a8f59/file-ekUOf4Rw7o.png)
 
 2
 
@@ -55,8 +52,7 @@ ekUOf4Rw7o.png)
 
     Let Zapier fetch sample data to test your integration:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b89613b2c7d3a03f89e56bd/file-
-NPQC9h4vKJ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b89613b2c7d3a03f89e56bd/file-NPQC9h4vKJ.png)
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8960760428631d7a8a98eb/file-6bn0nsrvJc.png)
 
@@ -84,36 +80,31 @@ NPQC9h4vKJ.png)
 
     Click 'Save + Continue' for your connected email service provider account:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8964992c7d3a03f89e56ed/file-
-DWO5oARkCa.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8964992c7d3a03f89e56ed/file-DWO5oARkCa.png)
 
 4
 
     Select your list and match each field you want to pass with the custom fields in your ESP and click 'Continue':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8964af0428631d7a8a992a/file-
-xnYZFHN8oC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8964af0428631d7a8a992a/file-xnYZFHN8oC.png)
 
 5
 
     Click 'Send test to MailChimp' to send your test data to your ESP:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8965792c7d3a03f89e56f4/file-
-Of4DppouYb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8965792c7d3a03f89e56f4/file-Of4DppouYb.png)
 
 6
 
     Click Finish' after your test is successful:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8967262c7d3a03f89e5709/file-
-KHHFaHb963.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8967262c7d3a03f89e5709/file-KHHFaHb963.png)
 
 7
 
     Name your Zap and turn it on:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8967520428631d7a8a994e/file-
-zdqRvSDTcw.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b8967520428631d7a8a994e/file-zdqRvSDTcw.png)
 
 ##  Confirm with your ESP:
 

@@ -13,15 +13,13 @@ Step-by-Step Instructions:
 
      Once you've completed your survey, including a **multiple-choice question** , create a new rule. 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59418e5604286305c68d14e9/file-
-jPS1StS57C.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59418e5604286305c68d14e9/file-jPS1StS57C.png)
 
 2
 
      Then add a 'question/answer' condition: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594192312c7d3a0747cde7f6/file-
-uX586idVGe.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594192312c7d3a0747cde7f6/file-uX586idVGe.png)
 
 3
 
@@ -33,8 +31,7 @@ uX586idVGe.png)
 
      Select a possible answer and click 'Finish': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941928e04286305c68d153b/file-
-WdF8Hd9jOF.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941928e04286305c68d153b/file-WdF8Hd9jOF.png)
 
 5
 
@@ -46,29 +43,25 @@ WdF8Hd9jOF.png)
 
      Add a name for the optin form and the text you want survey takers to see, then paste the HTML optin form code from your email service provider into the box: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941937304286305c68d154a/file-
-QrPU0ugJOy.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941937304286305c68d154a/file-QrPU0ugJOy.png)
 
 7
 
      Now when your survey taker answers the 'food' question with the answer, 'Burgers & Fries', they will be added to that Burger answer optin form: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941945604286305c68d155e/file-
-rolU9JSF96.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941945604286305c68d155e/file-rolU9JSF96.png)
 
 8
 
      You can add another rule and repeat these steps for the next answer to the 'Food' question: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594194ad2c7d3a0747cde820/file-
-cobC70NjAE.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594194ad2c7d3a0747cde820/file-cobC70NjAE.png)
 
 9
 
      Create a new 'integrate an optin form' action to integrate a _different_ optin form based on the new answer: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594194db2c7d3a0747cde821/file-
-zZ9qIRPHde.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/594194db2c7d3a0747cde821/file-zZ9qIRPHde.png)
 
 10
 
@@ -80,8 +73,7 @@ zZ9qIRPHde.png)
 
      Name this new optin form and add the HTML optin form code for the new list you want to integrate: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941954b2c7d3a0747cde82a/file-
-bLfus3GF7S.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941954b2c7d3a0747cde82a/file-bLfus3GF7S.png)
 
 12
 

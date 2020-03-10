@@ -8,12 +8,10 @@ campaign if you're using an email link click to trigger the deadline.
 You can verify this by going to Edit your campaign > Quick Start Guide and
 confirm that "link click" is selected at the top of the page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd140304286364bc931d9f/file-
-kGdFlXAnvR.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd140304286364bc931d9f/file-kGdFlXAnvR.png)
 
 If you're not using a direct integration, please [click
-here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-
-deadline-funnel) for links to all of our other testing guides.
+here](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-deadline-funnel) for links to all of our other testing guides.
 
 We're here to help! You can contact us on live chat (bottom right corner of
 the screen) Monday - Friday, 8 am - 4 pm PST. Or shoot us an email any time at
@@ -39,8 +37,7 @@ that link in your email and verify that it takes you to the correct page.
 Within a few minutes, your test email should show up in the Event Tracking
 page for your Deadline Funnel campaign:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5233822c7d3a66e32dd5fb/file-
-aETzyRBXKD.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5233822c7d3a66e32dd5fb/file-aETzyRBXKD.png)
 
 This means the link has successfully triggered your deadline.
 
@@ -49,8 +46,7 @@ This means the link has successfully triggered your deadline.
 On that same page in Event Tracking, you'll see when your tracking started and
 when your deadline is:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5233d52c7d3a66e32dd5fd/file-
-pSroNdipK2.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5233d52c7d3a66e32dd5fd/file-pSroNdipK2.png)
 
 The Event Tracking page will show this information for each person going
 through your Deadline Funnel campaign. So this is a great place to double
@@ -64,8 +60,7 @@ expiration date that's in the past.
 
 Here's how to do that:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-
-UTEnwrJmch.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c5234ea042863543ccc69e6/file-UTEnwrJmch.gif)
 
 Now, refresh your email and you'll see the expired image in your email, and
 when you click the Deadline Funnel link in the email you will be redirected to

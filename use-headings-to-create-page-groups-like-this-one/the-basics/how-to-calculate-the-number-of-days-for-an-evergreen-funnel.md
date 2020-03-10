@@ -18,8 +18,7 @@ Wednesday at 11am EST - exactly 48 hours later.
 Deadline Funnel makes it easy to test.
 
 [Here's how to test your Deadline Funnel
-campaign.](https://documentation.deadlinefunnel.com/article/660-how-to-test-
-your-deadline-funnel)
+campaign.](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-deadline-funnel)
 
 Our best advice is to map out the timing of your emails in a spreadsheet and
 indicate exactly what day their deadline would expire if a lead were to enter
@@ -29,8 +28,7 @@ would compare this to your tracking in Deadline Funnel.
 
 Here's an example from a client who mapped out his emails like this:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59a026782c7d3a73488c4cce/file-
-ZyD7340zYy.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59a026782c7d3a73488c4cce/file-ZyD7340zYy.jpg)
 
 As you can see, he knows that if he begins in the funnel today, his final
 email will arrive on a specific Wednesday.
@@ -38,8 +36,7 @@ email will arrive on a specific Wednesday.
 And in fact this matches exactly what he saw when he went through as a new
 lead (after deleting his tracking). See Deadline Date row below:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59a026c92c7d3a73488c4cd4/file-
-WwYE6zIGxF.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59a026c92c7d3a73488c4cd4/file-WwYE6zIGxF.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

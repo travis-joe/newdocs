@@ -13,8 +13,7 @@ within the admin). Next you'll select your email platform and landing page
 builder. You have the option to choose up to two landing page builders. Once
 you've done that, you can hit Next.  
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0006ba2c7d3a1cad5b3d81/file-
-HKfl4oiZa6.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0006ba2c7d3a1cad5b3d81/file-HKfl4oiZa6.jpg)
 
 ### Step 2. Choose A Blueprint:
 
@@ -48,8 +47,7 @@ used for campaigns where you are not integrating with an email sequence.
 
 ### Step 3. Select your deadline.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0008772c7d3a1cad5b3d95/file-
-gc0imQExgO.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0008772c7d3a1cad5b3d95/file-gc0imQExgO.jpg)
 
 ### Step 4. Add your Funnel Steps.
 

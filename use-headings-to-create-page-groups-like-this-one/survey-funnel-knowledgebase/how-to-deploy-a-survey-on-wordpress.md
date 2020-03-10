@@ -2,15 +2,13 @@
 
      Navigate to the 'Deploy' tab and focus on section 3, 'Add this code on your landing page to open the survey in a lightbox when someone clicks on a link': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd195a2c7d3a73488d3cc2/file-
-MzdR4yMe4F.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd195a2c7d3a73488d3cc2/file-MzdR4yMe4F.png)
 
 2
 
      From the landing page code box, copy the first script: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd197e042863033a1d356d/file-
-KBNOMH1b3q.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd197e042863033a1d356d/file-KBNOMH1b3q.png)
 
 3
 
@@ -22,15 +20,13 @@ KBNOMH1b3q.png)
 
      In order to have the survey pop-up when a button is clicked, add a button to your WordPress page and return to the 'Deploy' tab, Section 3, in Survey Funnel and copy your button link URL from the code box: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd1a95042863033a1d357a/file-
-pu0Lm5hnlf.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd1a95042863033a1d357a/file-pu0Lm5hnlf.png)
 
 5
 
      Add this URL as a link to the button on your WordPress page and click 'Update' to save your changes. **Note** : The code in our example is using a Genesis theme, your code may be different.: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd1ae6042863033a1d3580/file-
-PpzTDYnq2k.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cd1ae6042863033a1d3580/file-PpzTDYnq2k.png)
 
 6
 

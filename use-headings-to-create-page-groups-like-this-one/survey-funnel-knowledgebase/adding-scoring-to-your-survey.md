@@ -33,8 +33,7 @@ We’ll work with the following questions:
 
      Click on “Add Scoring and Branch Logic” for each of the two multiple-choice questions: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398b4204286305c68cef29/file-
-QaoarS3JS8.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398b4204286305c68cef29/file-QaoarS3JS8.png)
 
 2
 
@@ -62,22 +61,19 @@ QaoarS3JS8.png)
 
      Select 'add a scoring condition': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398c6b2c7d3a0747cdc311/file-
-RPjaxamLLL.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398c6b2c7d3a0747cdc311/file-RPjaxamLLL.png)
 
 3
 
      Create your scoring condition: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398d0e04286305c68cef33/file-
-zX3cj13bbR.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398d0e04286305c68cef33/file-zX3cj13bbR.png)
 
 4
 
      Then add an action based on the scoring condition: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398d6204286305c68cef34/file-
-YYBLr5PLjK.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59398d6204286305c68cef34/file-YYBLr5PLjK.png)
 
 5
 

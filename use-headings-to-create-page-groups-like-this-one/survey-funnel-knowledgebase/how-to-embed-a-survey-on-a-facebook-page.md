@@ -18,8 +18,7 @@ Page.
      While logged into Facebook visit  <https://apps.facebook.com/static_html_plus/> to add the Thunderpenny Static HTML app to your Facebook page: 
     
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59f3564604286313cffbbd16/file-
-Uo2yBW2MhZ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59f3564604286313cffbbd16/file-Uo2yBW2MhZ.png)
 
 2
 
@@ -31,15 +30,13 @@ Uo2yBW2MhZ.png)
 
      Edit your tab settings, including giving the tab a name, uploading a tab image, and editing the text, then click 'Add tab now: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dc302c7d3a055035c246/file-
-VnxSiBWwPg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dc302c7d3a055035c246/file-VnxSiBWwPg.png)
 
 4
 
      You should see a success message and click on 'Go to Tab ': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dc662c7d3a055035c24c/file-
-hX2ml6Om3O.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dc662c7d3a055035c24c/file-hX2ml6Om3O.png)
 
 ## Embed Your Survey Funnel Survey:
 
@@ -53,15 +50,13 @@ hX2ml6Om3O.png)
 
      Navigate to the Deploy tab in Survey Funnel and copy the embed code for the survey you want to embed on Facebook: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dceb2c7d3a055035c251/file-
-IhOJMHU3Un.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59e8dceb2c7d3a055035c251/file-IhOJMHU3Un.png)
 
 3
 
      Paste the Survey Funnel embed code into the index.html box for your Static HTML tab, click 'Save & Publish', then 'View on Facebook': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59f3570c04286313cffbbd24/file-
-Zul3oL7LFd.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59f3570c04286313cffbbd24/file-Zul3oL7LFd.png)
 
 4
 

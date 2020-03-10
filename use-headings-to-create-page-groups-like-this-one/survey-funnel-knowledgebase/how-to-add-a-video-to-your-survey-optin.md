@@ -8,8 +8,7 @@ feature with any rule.**
 
      After creating your condition, select 'integrate an optin form': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59849d4f2c7d3a73488ba5fd/file-
-Xtq82NIxYp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59849d4f2c7d3a73488ba5fd/file-Xtq82NIxYp.png)
 
 2
 
@@ -25,8 +24,7 @@ Xtq82NIxYp.png)
 
      When you view your survey, you will see your video above the optin: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59849fdc2c7d3a73488ba607/file-
-ajXUPFOb5c.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59849fdc2c7d3a73488ba607/file-ajXUPFOb5c.png)
 
 That's it! You can use any hosted-URL for your video.
 

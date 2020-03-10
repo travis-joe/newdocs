@@ -31,8 +31,7 @@ direction, you can do so [here](https://deadlinefunnel.com/schedule)
 Before we jump into the steps, I want to introduce you to our Quick Start
 Guide:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14a62c7d3a7e9ae563b5/file-
-ZFlSPODVsC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14a62c7d3a7e9ae563b5/file-ZFlSPODVsC.png)
 
 This is a handy tool we created for easy reference when you're setting up your
 campaign. Which tasks are included in your Quick Start Guide depend on a few
@@ -51,11 +50,9 @@ guide, so keep that in mind. :)
 ### Step 1. Create your campaign
 
 [You can find our full guide on How to Create Your Campaign
-here](https://documentation.deadlinefunnel.com/article/629-how-to-create-a-
-deadline-funnel-campaign)
+here](https://documentation.deadlinefunnel.com/article/629-how-to-create-a-deadline-funnel-campaign)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cfeaebb2c7d3a383713571a/file-
-sZATQ4zMdr.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cfeaebb2c7d3a383713571a/file-sZATQ4zMdr.jpg)
 
 ###
 
@@ -70,8 +67,7 @@ date, so if you’re setting up a Fixed Date deadline, you can skip this part.
 If you navigate to your Quick Start Guide in the Deadline Funnel Admin, you
 should see something like this:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14a62c7d3a7e9ae563b5/file-
-ZFlSPODVsC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14a62c7d3a7e9ae563b5/file-ZFlSPODVsC.png)
 
 You can see in this example that we chose the API Integration.
 
@@ -135,8 +131,7 @@ their emails. as well as on the page. To find out how to add these to your
 specific Email Provider, simply click on the Help button below this section in
 the Quick Start Guide:  
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0003772c7d3a1cad5b3d44/file-
-sbhkNjrcPq.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0003772c7d3a1cad5b3d44/file-sbhkNjrcPq.jpg)
 
 ###
 
@@ -146,8 +141,7 @@ Testing your funnel is a very important step. We have two articles that walk
 you through how to test your funnel:
 
 [How to Test Your Deadline Funnel
-Campaign](https://documentation.deadlinefunnel.com/article/660-how-to-test-
-your-deadline-funnel)
+Campaign](https://documentation.deadlinefunnel.com/article/660-how-to-test-your-deadline-funnel)
 
 You can also find links to these in your Quick Start Guide under the Test box.
 

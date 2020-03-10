@@ -3,8 +3,7 @@ enables you to send your Survey Funnel optin information to ClickFunnels.
 
 You can find the ClickFunnels article on this feature here: [How to Add
 Contacts to ClickFunnels from 3rd Party Applications Using
-Zapier](https://docs.clickfunnels.com/actionetics/contacts/how-to-add-
-contacts-to-clickfunnels-from-3rd-party-applications-using-zapier)
+Zapier](https://docs.clickfunnels.com/actionetics/contacts/how-to-add-contacts-to-clickfunnels-from-3rd-party-applications-using-zapier)
 
 ## Video Tutorial:
 
@@ -34,29 +33,25 @@ contacts-to-clickfunnels-from-3rd-party-applications-using-zapier)
 
      In Zapier, click 'Make a Zap': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59541fad0428637ff8d4273b/file-
-tkw1fr0EAs.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59541fad0428637ff8d4273b/file-tkw1fr0EAs.png)
 
 2
 
      Select Survey Funnel as the 'Trigger App': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59541fe30428637ff8d4273f/file-
-PKJGogigdd.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59541fe30428637ff8d4273f/file-PKJGogigdd.png)
 
 3
 
      Select 'New Survey Entry' and click 'Save + Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595420140428637ff8d42741/file-
-DwoEipWPU2.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595420140428637ff8d42741/file-DwoEipWPU2.png)
 
 4
 
      Confirm your Survey Funnel account and click 'Save + Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595420580428637ff8d42743/file-
-PnFQPG8GiB.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595420580428637ff8d42743/file-PnFQPG8GiB.png)
 
 5
 
@@ -68,22 +63,19 @@ PnFQPG8GiB.png)
 
      Click 'Fetch & Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595422770428637ff8d4274e/file-
-jW0BlaHae6.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595422770428637ff8d4274e/file-jW0BlaHae6.png)
 
 7
 
      Click 'Continue' after the successful test: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5954232b0428637ff8d42750/file-
-tg0qAXgmXC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5954232b0428637ff8d42750/file-tg0qAXgmXC.png)
 
 8
 
      Click 'Webhooks' for the Action App: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595423830428637ff8d42755/file-
-oikcDmuYpv.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595423830428637ff8d42755/file-oikcDmuYpv.png)
 
 9
 
@@ -95,11 +87,9 @@ oikcDmuYpv.png)
 
      Copy the URL for your optin page which appears in the address bar: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e4f4a0428637ff8d45847/file-
-gn2BP8oYqW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e4f4a0428637ff8d45847/file-gn2BP8oYqW.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e4f740428637ff8d4584c/file-
-Zy6KBJpdwY.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e4f740428637ff8d4584c/file-Zy6KBJpdwY.png)
 
 11
 
@@ -111,8 +101,7 @@ Zy6KBJpdwY.png)
 
      Add ?email= to the end of the URL and click the plus button to select the email field: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50b30428637ff8d4585f/file-
-XI120mG6MY.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50b30428637ff8d4585f/file-XI120mG6MY.png)
 
 After the email field is added, it will look like this:
 
@@ -122,13 +111,11 @@ After the email field is added, it will look like this:
 
      If you want to add the name to your ClickFunnels list also, at the end of the first field add &name= and then plus to add the Name field: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50750428637ff8d4585d/file-
-Kt4Vpcz4jX.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50750428637ff8d4585d/file-Kt4Vpcz4jX.png)
 
 Once the name is added the URL looks like this:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50dd2c7d3a707d7b79e4/file-
-lE0JKgM2PW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e50dd2c7d3a707d7b79e4/file-lE0JKgM2PW.png)
 
 14
 
@@ -140,8 +127,7 @@ lE0JKgM2PW.png)
 
      Name your Zap and be sure to turn it on: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595426c50428637ff8d42767/file-
-ROtUk54Nc6.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595426c50428637ff8d42767/file-ROtUk54Nc6.png)
 
 16
 
@@ -151,18 +137,15 @@ ROtUk54Nc6.png)
 
      When you visit your Contacts and your email list in ClickFunnels your new emails should be populated. This could take some time as there is a delay in checking the zaps: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5954273c0428637ff8d42769/file-
-zxWEORQF4y.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5954273c0428637ff8d42769/file-zxWEORQF4y.png)
 
 The new info is added to Contacts:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e53490428637ff8d45878/file-
-NdXowOhUZX.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e53490428637ff8d45878/file-NdXowOhUZX.png)
 
 And the new subscriber has been added to the list:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e53682c7d3a707d7b79f9/file-
-mbjmvewvBf.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595e53682c7d3a707d7b79f9/file-mbjmvewvBf.png)
 
 If you have any questions, please let us know at
 [help@surveyfunnel.io](mailto:mailto:help@surveyfunnel.io).

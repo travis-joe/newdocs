@@ -9,15 +9,13 @@
 
      Once you have completed your survey, including **at least 1 scored question** , create a new rule. 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3a2c0428634b4a339655/file-
-sVy6Hbqted.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3a2c0428634b4a339655/file-sVy6Hbqted.png)
 
 2
 
      Add a 'scoring' condition: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3a5c0428634b4a33965a/file-
-WtAOszQgHT.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3a5c0428634b4a33965a/file-WtAOszQgHT.png)
 
 3
 
@@ -29,15 +27,13 @@ WtAOszQgHT.png)
 
      Then select 'Set thank you page content': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3aae2c7d3a074e8af6dc/file-
-jIBxnb6WwN.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3aae2c7d3a074e8af6dc/file-jIBxnb6WwN.png)
 
 5
 
      Edit the title and content as you like and click 'Finish': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3b210428634b4a33966a/file-
-ayL7ZKoX6T.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592f3b210428634b4a33966a/file-ayL7ZKoX6T.png)
 
 6
 

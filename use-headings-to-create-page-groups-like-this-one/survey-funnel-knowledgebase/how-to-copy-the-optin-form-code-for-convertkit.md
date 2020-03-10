@@ -4,8 +4,7 @@
 
      Edit your form: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5981f46b2c7d3a73488b933d/file-
-Ubq2CX89d1.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5981f46b2c7d3a73488b933d/file-Ubq2CX89d1.png)
 
 2
 

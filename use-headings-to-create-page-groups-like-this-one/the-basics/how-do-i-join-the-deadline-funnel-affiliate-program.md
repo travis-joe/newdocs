@@ -18,8 +18,7 @@
 
      Once you're logged into your Affiliate Account, you can find your affiliate link here:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d9c90bb04286364bc901f51/file-
-jmR81l259g.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d9c90bb04286364bc901f51/file-jmR81l259g.jpg)
 
 ##  Frequently-Asked Questions
 

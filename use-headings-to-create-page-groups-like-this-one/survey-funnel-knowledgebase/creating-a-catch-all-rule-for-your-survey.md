@@ -4,8 +4,7 @@ You can create a rule that will apply to everyone who completes the survey.
 
      Select 'Add a catch-all condition': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592dea932c7d3a074e8aedd1/file-
-NloBSTIc5J.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/592dea932c7d3a074e8aedd1/file-NloBSTIc5J.png)
 
 2
 

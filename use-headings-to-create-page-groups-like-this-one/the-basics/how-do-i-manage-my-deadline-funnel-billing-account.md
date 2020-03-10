@@ -24,8 +24,7 @@ seen here. Please sure to click 'Update your Profile' to save your changes:
 
 Visit the 'My account' section of your dashboard:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a8360080428634376d0193d/file-
-gFvamAkjpD.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a8360080428634376d0193d/file-gFvamAkjpD.png)
 
 From this menu you can change your password, change your credit card or
 subscription plan, download invoices or even cancel your account. If you need

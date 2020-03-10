@@ -9,8 +9,7 @@ it doesn't affect the data I collect?
 Yes, when you visit 'Survey responses' you will be able to remove any rows you
 select.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4fa6390428631d7a891560/file-
-NVbi2oe3j5.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4fa6390428631d7a891560/file-NVbi2oe3j5.png)
 
 ### How does Survey Funnel address GDPR?
 

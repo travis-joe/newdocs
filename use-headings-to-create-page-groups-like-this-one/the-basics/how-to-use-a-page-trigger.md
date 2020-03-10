@@ -29,8 +29,7 @@ trigger for the 15-minute countdown.
 
      Return to Deadline Funnel account and navigate to Edit your campaign > Funnel Steps:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e591a0c04286364bc95ff41/file-
-Rea7xhH4K3.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e591a0c04286364bc95ff41/file-Rea7xhH4K3.png)
 
 5
 

@@ -24,8 +24,7 @@ In the Deadline Funnel dashboard, go to Edit your campaign > Settings and
 change the date of your deadline to yesterday. That way you can test what
 happens after the deadline expires:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14452c7d3a7e9ae563af/file-
-tCyjnmOlEI.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dfd14452c7d3a7e9ae563af/file-tCyjnmOlEI.png)
 
 Now try to visit your page again and you will be redirected to your expired
 page.

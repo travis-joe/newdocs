@@ -1,8 +1,7 @@
 When you are adding URLs to your Funnel Steps you have several options to
 choose from:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c8049ec04286350d088ba87/file-
-OSkB3KzOZj.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c8049ec04286350d088ba87/file-OSkB3KzOZj.png)
 
 ## How to Choose What Happens On Your Page:
 

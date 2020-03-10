@@ -16,8 +16,7 @@ many others.
 
      To get started, click on "add scoring, branch logic, and custom events" in the 'questions' tab of Survey Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978d8432c7d3a73488b6707/file-
-OpNRMG8TQZ.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978d8432c7d3a73488b6707/file-OpNRMG8TQZ.jpg)
 
 2
 
@@ -37,8 +36,7 @@ tracking code (for Facebook, Google, etc.) to the page where you're embedding
 the survey (or to Customize >> General Settings >> Tracking Code, if you're
 using the hosted survey) in order for the custom answer events to work:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978e0a62c7d3a73488b6752/file-
-YSIz4JAd5V.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5978e0a62c7d3a73488b6752/file-YSIz4JAd5V.jpg)
 
 If you have any questions, please contact us on chat or let us know at
 [help@surveyfunnel.io](mailto:mailto:help@surveyfunnel.io).

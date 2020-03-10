@@ -1,0 +1,9 @@
+root: ./
+
+structure:  
+    readme: README.md  
+    summary: SUMMARY.md
+
+redirects:  
+    help/contact: ./contact.md
+    article/10-custom-urls: ./deadline-funnel-docs/use-headings-to-create-page-groups-like-this-one/using-deadline-funnel/custom-urls

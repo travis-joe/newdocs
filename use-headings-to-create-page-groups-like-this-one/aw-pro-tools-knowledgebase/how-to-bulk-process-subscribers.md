@@ -31,19 +31,19 @@ categories: !!python/object/apply:builtins.map
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f1432e4b0ac24a832b2a8/file-9hnkKjNyd9.png)
 
-2. Click "Bulk Subscriber Move" to open the bulk subscriber management page.
+1. Click "Bulk Subscriber Move" to open the bulk subscriber management page.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f143ce4b0ac24a832b2a9/file-%20gBDFxMNzUD.png)
 
-3. Select "Choose file" and upload a txt file with one subscriber per line.
+1. Select "Choose file" and upload a txt file with one subscriber per line.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f1445e4b0ac24a832b2ab/file-%20HoDZvDhofi.png)
 
-4. Choose the Smart Link action to use when processing the subscribers in the file.
+1. Choose the Smart Link action to use when processing the subscribers in the file.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f1452e4b0ac24a832b2ac/file-%20ZDwitXdB6y.png)
 
-5. That's it! The subscribers will be processed within 24 hours.
+1. That's it! The subscribers will be processed within 24 hours.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f145ae4b0ac24a832b2ad/file-%20VeCArooQjI.png)
 

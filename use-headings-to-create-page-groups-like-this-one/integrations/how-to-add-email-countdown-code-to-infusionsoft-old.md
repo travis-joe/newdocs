@@ -1,0 +1,30 @@
+# How to Add Email Countdown Code to InfusionSoft \(OLD\)
+
+1. In the Deadline Funnel admin, navigate to Edit your campaign &gt; Email Setup &gt; Email Timer Code and click on the HTML Code to copy it:
+
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7e18d12c7d3a4a4198ffad/file-%20vUE1AEO3uw.png)2
+
+```text
+In your InfusionSoft email editor, choose the 'Snippets' tab and drag-and-drop the HTML snippet onto the email builder:
+```
+
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08bb0c6979156e4f1e31b/file-%20bXo03lRYgx.png)
+
+3
+
+```text
+Copy and paste the Deadline Funnel HTML Image Code into the InfusionSoft HTML Snippet box and click 'Save':
+```
+
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08d74903360342852e78f/file-%20CopvSbNcYs.png)
+
+4
+
+```text
+Once saved, you can preview your email countdown timer in your email editor:
+```
+
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/58ae18e72c7d3a576d356c56/file-4SyVLLd89R.png)
+
+If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).
+

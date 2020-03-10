@@ -1,2 +1,2 @@
-# boxshot-king
+# Boxshot King
 

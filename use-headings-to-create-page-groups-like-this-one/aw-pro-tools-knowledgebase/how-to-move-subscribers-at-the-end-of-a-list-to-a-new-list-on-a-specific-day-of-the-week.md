@@ -51,13 +51,13 @@ categories: !!python/object/apply:builtins.map
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f0d0fe4b02f603f687da7/file-%20VULB1Tm4BL.png)
 
-7. If you want to delay moving them by a specific number of days, enter that number into the "Move after N days:" field.
+1. If you want to delay moving them by a specific number of days, enter that number into the "Move after N days:" field.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f0d53e4b02f603f687da8/file-%20pi8RTG7arE.png)8. To specify which day of the week to move the subscriber on, click "Advanced Options" and select the day of the week they should be moved on. You can also select whether to move subscribers who have reached the end of the list or all subscribers on that day.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f0dace4b02f603f687da9/file-g69ZP2s6LB.png)
 
-9. That's it! The automation is now successfully created!
+1. That's it! The automation is now successfully created!
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/552f0dfde4b0ac24a832b292/file-%20BTYZJZKmKv.png)
 

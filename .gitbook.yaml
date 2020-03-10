@@ -6,4 +6,5 @@ structure:
 
 redirects:  
     article/10-custom-urls: ./kb/using-deadline-funnel/custom-urls.md
+    article/628-getting-started: ./deadline-funnel/the-basics/getting-started
     help/contact: ./contact.md

@@ -5,6 +5,6 @@ structure:
     summary: SUMMARY.md
 
 redirects:  
-    article/10-custom-urls: ./kb/using-deadline-funnel/custom-urls.md
+    10-custom-urls: ./kb/using-deadline-funnel/custom-urls.md
     628-getting-started: ./deadline-funnel/the-basics/getting-started.md
     help/contact: ./contact.md

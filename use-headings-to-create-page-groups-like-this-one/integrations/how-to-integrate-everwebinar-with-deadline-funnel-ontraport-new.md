@@ -29,43 +29,36 @@ actual name of your webinar when you are creating your tags.
 When you visit My Account >> Integrations, you can select Ontraport and follow
 the instructions for integrating the accounts.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede372c7d3a7e9ae81114/file-
-cPtSKo22N3.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede372c7d3a7e9ae81114/file-cPtSKo22N3.jpg)
 
 Once your Deadline Funnel campaign and Ontraport tags have been created, click
 on your webinar to edit it, select the Integrations tab, and select Ontraport
 to set rules:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede4b04286364bc95a560/file-
-VOgXPoSLfH.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede4b04286364bc95a560/file-VOgXPoSLfH.jpg)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede5c04286364bc95a562/file-
-flMGvmBEBl.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede5c04286364bc95a562/file-flMGvmBEBl.jpg)
 
 Add an integration rule using your first trigger event, 'they attended the
 webinar', and adding the appropriate tag as shown here:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede832c7d3a7e9ae8111d/file-
-gWSbWuHqJr.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede832c7d3a7e9ae8111d/file-gWSbWuHqJr.jpg)
 
 Click 'Create integration rule' to add a second integration rule using a
 second trigger event, 'when they miss the live webinar', and add the
 appropriate code for that then click 'OK':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede962c7d3a7e9ae81120/file-
-kAGp06tHsV.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4ede962c7d3a7e9ae81120/file-kAGp06tHsV.jpg)
 
 Copy your Deadline Funnel webhook (1) and Post Data field (2) to set up your
 Ontraport webhook (You will find this under API integrations in your Deadline
 Funnel admin):
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d409fda2c7d3a2ec4bf9fa7/file-
-UsIN1Vymyc.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d409fda2c7d3a2ec4bf9fa7/file-UsIN1Vymyc.png)
 
 **If you have not set up the API integration with Ontraport yet,**[ **you can
 check out our guide on how to do that
-here.**](https://documentation.deadlinefunnel.com/article/251-how-to-
-integrate-deadline-funnel-with-ontraport-api)
+here.**](https://documentation.deadlinefunnel.com/article/251-how-to-integrate-deadline-funnel-with-ontraport-api)
 
 Set up an Ontraport rule that will trigger your Deadline Funnel webhook when
 either tag is applied:
@@ -75,8 +68,7 @@ either tag is applied:
 Navigate in your Deadline Funnel admin to Settings >> Advanced and copy your
 tracking pixel:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edeb004286364bc95a569/file-
-wTa0Fdwodn.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edeb004286364bc95a569/file-wTa0Fdwodn.jpg)
 
 Navigate to EverWebinar and go to Integrations >> Integrate a 3rd-party
 tracking system and paste your Deadline Funnel tracking pixel into the

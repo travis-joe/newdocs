@@ -13,14 +13,12 @@ beginning.**
 
 1\.  Click on API Integrations and then click 'Add a New Integration' and select Infusionsoft 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd9ba7e2c7d3a01757a9ed0/file-
-JOd3hEZFOg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd9ba7e2c7d3a01757a9ed0/file-JOd3hEZFOg.png)
 
 
 2\. Click 'Allow' on the next page: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7e10480428634376d0008c/file-
-GIT5qxWcD4.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7e10480428634376d0008c/file-GIT5qxWcD4.png)
 
 
 3\. On the next screen you'll need to select the group/tag 'Custom Fields'. Then you'll need to create a Custom Field - 
@@ -38,8 +36,7 @@ integrate it with Deadline Funnel.)
 
 4\. Copy your Deadline Funnel webhook: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4cbc802c7d3a03f89c9d44/file-
-LoHZCKGyAe.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4cbc802c7d3a03f89c9d44/file-LoHZCKGyAe.png)
 
 
 5\. Go into your campaign sequence in Infusionsoft and add "Send HTTP Post" at the point in the sequence where you want the deadline to begin. 
@@ -49,8 +46,7 @@ LoHZCKGyAe.png)
 
 6\. Double-click on 'Send HTTP Post' and 1) paste your Deadline Funnel webhook into the 'Post URL' box, 2) remove the Name/Value Pair, then 3) slide 'Draft' to 'Ready': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a96ee442c7d3a754951330e/file-
-yUrGDubZbw.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a96ee442c7d3a754951330e/file-yUrGDubZbw.png)
 
 Make sure to publish your campaign. Now the deadline will begin for each
 contact as soon as they reach the HTTP Post in your automation

@@ -5,8 +5,7 @@ triggers a Deadline Funnel campaign when a new contact is added to HubSpot.
 to use this integration.  
 *Marketing Hub Professional accounts or Sales Hub Professional seats purchased before November 1, 2018 will have legacy access to the "Trigger a webhook workflow action."   
 [For more information, please refer to this HubSpot help
-article.](https://knowledge.hubspot.com/articles/kcs_article/workflows/how-do-
-i-use-webhooks-with-hubspot-workflows)
+article.](https://knowledge.hubspot.com/articles/kcs_article/workflows/how-do-i-use-webhooks-with-hubspot-workflows)
 
 ##  Video Tutorial:
 
@@ -14,24 +13,20 @@ i-use-webhooks-with-hubspot-workflows)
 
 1\.  Navigate to 'API integrations' in the Deadline Funnel navigation and copy your Deadline Funnel webhook, as you will need to add this to Hubspot: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4cb8a70428631d7a88f2a1/file-
-Cr0Ge83vgD.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4cb8a70428631d7a88f2a1/file-Cr0Ge83vgD.png)
 
 ##   How to set up your HubSpot webhook:
 
 1\.  Navigate to Automations > Workflows in your HubSpot account and edit your existing workflow or create a new one: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e14770428631d7a8904d0/file-
-LPZaBISJEY.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e14770428631d7a8904d0/file-LPZaBISJEY.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e15bc0428631d7a8904ed/file-
-sRpGxcEwS2.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e15bc0428631d7a8904ed/file-sRpGxcEwS2.png)
 
 
 2\. Click the 'plus' sign to 'Add an action': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e17532c7d3a03f89caff5/file-
-fK80EahyI3.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e17532c7d3a03f89caff5/file-fK80EahyI3.png)
 
 
 3\. Select 'Trigger a webhook' for the action: 
@@ -41,8 +36,7 @@ fK80EahyI3.png)
 
 4\. Select, 'Post' for the method, paste your Deadline Funnel webhook URL into the box and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e187e2c7d3a03f89cb00a/file-
-YRLzIMg2BB.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e187e2c7d3a03f89cb00a/file-YRLzIMg2BB.png)
 
 ### How to test your integration
 

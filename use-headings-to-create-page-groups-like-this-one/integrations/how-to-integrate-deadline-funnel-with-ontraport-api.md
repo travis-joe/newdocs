@@ -20,14 +20,12 @@ bar.  Each Deadline Funnel campaign gets its own API integration.
 
 1\.  Click API integrations in the left navigation, you will need to add your Ontraport App ID and API Key into the appropriate boxes:: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b49238b0428630abc0c0e58/file-
-CKbLQLruvA.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b49238b0428630abc0c0e58/file-CKbLQLruvA.png)
 
 
 2\. Log into your Ontraport account and click 'Administration': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b3f0428637ff8d42d83/file-
-oBF9BR447K.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b3f0428637ff8d42d83/file-oBF9BR447K.png)
 
 
 3\. Under Integrations, click 'Ontraport API Instructions and Key Manager': 
@@ -37,26 +35,22 @@ oBF9BR447K.png)
 
 4\. Click 'New API Key' from the menu shown here and give your new API key a name, i.e., 'Ontraport Demo key'. Then select the correct User from the DropDown and make sure to select the boxes to turn on Add Contacts, Search Contacts, and Manage Fields as shown here: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b842c7d3a707d7b50cb/file-
-Sj6vvLZYZw.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b842c7d3a707d7b50cb/file-Sj6vvLZYZw.png)
 
 
 5\. Click save and it will take you to this screen where you can see your new App ID and API Key: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b9a0428637ff8d42d8a/file-
-fyMvlMjZ35.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59553b9a0428637ff8d42d8a/file-fyMvlMjZ35.png)
 
 
 6\. Return to Deadline Funnel and paste your 1) Ontraport App ID and 2) API Key into the corresponding boxes in the admin and click 'Connect Ontraport': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b49252c0428630abc0c0e5f/file-
-tZE51E1PMn.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b49252c0428630abc0c0e5f/file-tZE51E1PMn.png)
 
 
 7\. Select the custom field from the dropdown that you want to use store each lead's deadline. If you want to create a new field, just start typing into the box to create the new custom field.  **Please note: If you create the custom field in Ontraport and then select it in Deadline Funnel (instead of creating it in Deadline Funnel), you will need to create the field under the "Contact Information" tab in the contact record in Ontraport in order for it to work.**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4925e70428630abc0c0e64/file-
-RHW7J7dGDp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4925e70428630abc0c0e64/file-RHW7J7dGDp.png)
 
 ####
 
@@ -66,8 +60,7 @@ RHW7J7dGDp.png)
 
 1\.  In Ontraport navigate to Contacts > Rules, and click to add a 'New Rule': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5955482a2c7d3a707d7b5128/file-
-oW0zT94KRH.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5955482a2c7d3a707d7b5128/file-oW0zT94KRH.png)
 
 
 2\. Give your new rule a name and select the trigger 'When Contact is added to Sequence': 
@@ -91,8 +84,7 @@ oW0zT94KRH.png)
 
 See below for where to find the corresponding fields in Deadline Funnel:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-
-wRubHzoAPu.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-wRubHzoAPu.png)
 
 
 6\. Click 'Save' and you're ready to test it out. You can test by adding a new contact to your sequence and then check under Event Tracking in Deadline Funnel to confirm their email address was received by Deadline Funnel. 
@@ -101,8 +93,7 @@ wRubHzoAPu.png)
 
 1\.  Navigate to Contacts > Sequences and click the sequence you want to integrate with Deadline Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59554b942c7d3a707d7b513c/file-
-vQQ8VeQzpW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59554b942c7d3a707d7b513c/file-vQQ8VeQzpW.png)
 
 
 2\. In the Add a Step bar click 'Rule' and name your rule. Then select 'Send to a Webhook' under Actions and paste in the Webhook URL and Post Data Field from Deadline Funnel: 
@@ -112,8 +103,7 @@ vQQ8VeQzpW.png)
 
 3\. See below for where to find the corresponding fields in Deadline Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-
-wRubHzoAPu.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-wRubHzoAPu.png)
 
 Click 'Save' and you're ready to test it out.
 
@@ -124,8 +114,7 @@ Click 'Save' and you're ready to test it out.
 
 1\.  Navigate to Contacts > Campaigns and click the campaign you want to integrate with Deadline Funnel or create a new campaign: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b05c9352c7d3a2f9011d6f2/file-
-xOwELoATfY.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b05c9352c7d3a2f9011d6f2/file-xOwELoATfY.png)
 
 
 2\. Click the '+' for What Happens next, click on 'Advanced' and select 'Send a Webhook': 
@@ -135,20 +124,17 @@ xOwELoATfY.png)
 
 3\. Paste your Deadline Funnel 1) webhook and 2) post data into the boxes shown below and 3) give this webhook a name: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e30494504286364bc948043/file-
-oNae4Sba4B.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e30494504286364bc948043/file-oNae4Sba4B.png)
 
 You can find the Webhook URL and post data here in your API Settings in
 Deadline Funnel:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-
-wRubHzoAPu.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e3048de2c7d3a7e9ae6da03/file-wRubHzoAPu.png)
 
 
 4\. Click 'Save and Publish' for your campaign and you're ready to test it out. 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b05ceed2c7d3a2f9011d74d/file-
-DDaGN8XVCA.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b05ceed2c7d3a2f9011d74d/file-DDaGN8XVCA.png)
 
 
 5\. You can test by adding a new contact to your campaign and then checking under Event Tracking in Deadline Funnel to confirm the email address was received by Deadline Funnel. 
@@ -171,6 +157,5 @@ If you have any questions, send us a message in chat or email us at
 
 #### Having trouble figuring out how to sync up your Ontraport sequence with
 your deadline? [Here's a helpful
-article.](https://documentation.deadlinefunnel.com/article/612-how-to-time-
-your-ontraport-campaign-with-your-deadline-funnel-campaign)
+article.](https://documentation.deadlinefunnel.com/article/612-how-to-time-your-ontraport-campaign-with-your-deadline-funnel-campaign)
 

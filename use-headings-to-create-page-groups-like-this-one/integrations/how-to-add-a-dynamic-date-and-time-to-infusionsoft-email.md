@@ -2,15 +2,13 @@
 
 1\. In the email editor, place the cursor where you want to add the dynamic date and time and click 'Merge':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59d68a0f042863379ddc7111/file-
-DjyP7zUXAg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59d68a0f042863379ddc7111/file-DjyP7zUXAg.png)
 
 2
 
     Scroll to 'Contact Field (custom)' and select your Deadline Funnel custom field that you created when setting up the API integration (we named ours 'deadlinetext'):
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59d68a8d042863379ddc7119/file-
-wRGXGxWcvo.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59d68a8d042863379ddc7119/file-wRGXGxWcvo.png)
 
 3
 

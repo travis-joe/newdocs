@@ -20,16 +20,14 @@ editor.
 
 3\. Copy and paste the Deadline Funnel HTML Code into the Ontraport Source box where you want the animated countdown to appear and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205ece0428637405653657/file-
-VFbanNoS5b.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205ece0428637405653657/file-VFbanNoS5b.png)
 
 
 4\. Click 'Preview' to see a preview of your email with the animated countdown timer: 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205f202c7d3a71c72be24d/file-b6v7kwUOSJ.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205f2e0428637405653659/file-
-dCXNwWOJEO.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205f2e0428637405653659/file-dCXNwWOJEO.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

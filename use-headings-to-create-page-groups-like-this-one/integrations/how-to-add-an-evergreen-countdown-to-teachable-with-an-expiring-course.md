@@ -16,23 +16,19 @@ rolling basis.
 In your Deadline Funnel admin, click on 'Tracking Code' to copy your Deadline
 Funnel tracking code:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a79f60f0428634376cfdcb2/file-
-elWYOoZEj4.png)Now go to your Teachable account and navigate to 'Site' > 'Code
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a79f60f0428634376cfdcb2/file-elWYOoZEj4.png)Now go to your Teachable account and navigate to 'Site' > 'Code
 Snippets':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b27e9be2c7d3a0fa9a31c84/file-
-QQ7ZPePC77.png)Paste your Deadline Funnel tracking code into the 'Head Code
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b27e9be2c7d3a0fa9a31c84/file-QQ7ZPePC77.png)Paste your Deadline Funnel tracking code into the 'Head Code
 Snippets' box and click 'Save':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5db844392c7d3a7e9ae32e81/file-
-kmn0zi7g4N.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5db844392c7d3a7e9ae32e81/file-kmn0zi7g4N.jpg)
 
 Navigate back to Deadline Funnel, add the URL of your Teachable page to the
 Funnel Steps, select 'Floating Bar', and (optionally) add your Redirect URL,
 then hit 'Save':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 Your floating bar timer should now appear on your Teachable Sales Page. Here's
 an example of what the Floating Bar will look like:
@@ -44,16 +40,13 @@ an example of what the Floating Bar will look like:
 Click 'Edit' and select the icon to 'Display an inline timer', then copy the
 Code Snippet that's displayed, and click Save:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)Return to Teachable and click on 'Sales Page' to edit your
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)Return to Teachable and click on 'Sales Page' to edit your
 sales page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a1f3bf62c7d3a272c0e0f5b/file-
-HxTIY3uvyN.png)In your sales page editor, click the 'HTML' icon to add HTML to
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a1f3bf62c7d3a272c0e0f5b/file-HxTIY3uvyN.png)In your sales page editor, click the 'HTML' icon to add HTML to
 your sales page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57ae2a5b90336059d4edf511/file-
-wPZ1Vw54pP.png)Paste the HTML snippet from above into your sales page
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57ae2a5b90336059d4edf511/file-wPZ1Vw54pP.png)Paste the HTML snippet from above into your sales page
 everywhere you want your countdown timer to appear and click 'Save':
 
   
@@ -62,15 +55,12 @@ your Deadline Funnel admin, click on 'Tracking Code' to copy your Deadline
 Funnel tracking code:
 
   
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a79f60f0428634376cfdcb2/file-
-elWYOoZEj4.png)In your Teachable Admin, navigate to 'Site', 'Code Snippets':
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a79f60f0428634376cfdcb2/file-elWYOoZEj4.png)In your Teachable Admin, navigate to 'Site', 'Code Snippets':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b27e9be2c7d3a0fa9a31c84/file-
-QQ7ZPePC77.png)Paste your Deadline Funnel tracking code into the 'Head Code
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b27e9be2c7d3a0fa9a31c84/file-QQ7ZPePC77.png)Paste your Deadline Funnel tracking code into the 'Head Code
 Snippets' box and click 'Save':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5db844392c7d3a7e9ae32e81/file-
-kmn0zi7g4N.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5db844392c7d3a7e9ae32e81/file-kmn0zi7g4N.jpg)
 
 When you preview your sales page you will see your countdown:
 

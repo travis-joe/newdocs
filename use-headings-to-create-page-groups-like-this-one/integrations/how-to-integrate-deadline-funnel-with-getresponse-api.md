@@ -13,8 +13,7 @@ campaign before you will see the API integrations link in the left nav.
 
 1\.  In your Deadline Funnel dashboard, click on 'API Integrations' in the left hand menu, click 'Add New Integration', then select GetResponse from the next screen. It will then take you to the following screen where it asks for your API Key: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ba16ad22c7d3a16370f410b/file-
-owysWkcXUg.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ba16ad22c7d3a16370f410b/file-owysWkcXUg.png)
 
 
 2\. To get your API Key, go to your GetResponse account, navigate to the menu in the top right hand corner > Integrations & API.     
@@ -24,19 +23,16 @@ owysWkcXUg.png)
 
 3\. If you already have a key, copy that, if not go ahead and hit 'Generate Key' to generate a new key and copy the new key: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b80d04286305cb87c850/file-
-vZuVyWGzRD.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b80d04286305cb87c850/file-vZuVyWGzRD.jpg)
 
 The page will ask you to name the key for your reference, you can use any name
 here:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b86a04286305cb87c853/file-
-ykxtXqEEy0.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b86a04286305cb87c853/file-ykxtXqEEy0.jpg)
 
 Finally, copy the key:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b87604286305cb87c854/file-
-FoPqxsVY3x.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b87604286305cb87c854/file-FoPqxsVY3x.jpg)
 
 
 4\. Now paste the API key into the box in Deadline Funnel and hit 'Connect GetResponse'. 
@@ -49,8 +45,7 @@ FoPqxsVY3x.jpg)
 
 6\. **Enable Callback** in your GetResponse account, **select "Subscribes"** , and add the Deadline Funnel webhook so that the Deadline Funnel webhook is triggered when a subscriber is added to the list you selected in Deadline Funnel. **Make sure no other notifications except Subscribes is chosen.** And be sure to hit 'Save' at the bottom: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cea2a2c7d3a5cd38e95c1/file-
-uJcloxDQMy.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cea2a2c7d3a5cd38e95c1/file-uJcloxDQMy.jpg)
 
 And you're all set! You can move on to testing your integration.
 

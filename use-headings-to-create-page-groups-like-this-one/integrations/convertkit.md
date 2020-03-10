@@ -46,8 +46,7 @@ help@deadlinefunnel.com. 🙂
 
 ### 2\. Set up the ConvertKit integration
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c3658a72c7d3a31944fda96/file-
-AI8EvKJc4O.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c3658a72c7d3a31944fda96/file-AI8EvKJc4O.png)
 
 After you've created your Deadline Funnel campaign, set up the integration
 between Deadline Funnel and ConvertKit.
@@ -56,11 +55,9 @@ This integration allows you to trigger the deadline based on when a specific
 tag is applied to a contact.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/391-how-to-integrate-
-deadline-funnel-with-convertkit-api)  
+here!](https://documentation.deadlinefunnel.com/article/391-how-to-integrate-deadline-funnel-with-convertkit-api)  
 
-[Click here](https://app.convertkit.com/a/d4f55a66dd) to import a ready-to-
-customize automation into your ConvertKit account that includes our email
+[Click here](https://app.convertkit.com/a/d4f55a66dd) to import a ready-to-customize automation into your ConvertKit account that includes our email
 swipe file to help you get started with Deadline Funnel!
 
 ### 3\. Add Deadline Funnel email links to your automation
@@ -97,8 +94,7 @@ in the following articles:
 
 If you're setting up an evergreen webinar using ConvertKit, Deadline Funnel,
 and EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/497-how-to-integrate-
-everwebinar-with-deadline-funnel-convertkit-new)
+here.](https://documentation.deadlinefunnel.com/article/497-how-to-integrate-everwebinar-with-deadline-funnel-convertkit-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar
@@ -108,6 +104,5 @@ platform. And please feel free to contact us if you have any questions!
 
 [You can find a helpful guide on how to time out your Email Sequence in
 ConvertKit with your Deadline
-here.](https://documentation.deadlinefunnel.com/article/556-timing-tips-for-
-evergreen-automated-emails-in-convertkit)  
+here.](https://documentation.deadlinefunnel.com/article/556-timing-tips-for-evergreen-automated-emails-in-convertkit)  
 

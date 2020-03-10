@@ -6,22 +6,19 @@
 
     Click on 'Create a Custom Field': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5721923a9033600cce435d7f/file-
-cYM0kdDoB1.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5721923a9033600cce435d7f/file-cYM0kdDoB1.jpg)
 
 3
 
     Select 'Text Field' for the Custom Field Type and enter 'deadlinetext' in the Custom Field Name, then click 'Next': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57219252c6979178c212ac06/file-
-lDrzSTQkmQ.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57219252c6979178c212ac06/file-lDrzSTQkmQ.jpg)
 
 4
 
     Ignore the Custom Field Details and click 'Next': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/572192569033600cce435d80/file-
-CDd6SwHuoL.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/572192569033600cce435d80/file-CDd6SwHuoL.jpg)
 
 5
 

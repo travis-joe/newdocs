@@ -2,8 +2,7 @@ You can integrate Deadline Funnel with an InfusionSoft Landing page and
 display an inline countdown or a floating bar.
 
 Be sure to review Infusionsoft's full tutorial on creating a landing page
-here:  [Create a Landing Page](https://help.infusionsoft.com/new-landing-
-pages)
+here:  [Create a Landing Page](https://help.infusionsoft.com/new-landing-pages)
 
 ## How to add the Floating Bar timer to an Infusionsoft landing page:
 
@@ -14,8 +13,7 @@ pages)
 
 2\. Double-click on the Landing Page goal to open the gallery and select a template to preview the design: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa44050428633199241de8/file-
-pyIZ5v6ojB.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa44050428633199241de8/file-pyIZ5v6ojB.png)
 
 
 3\. Once you've click 'Use this Template': 
@@ -28,44 +26,37 @@ pyIZ5v6ojB.png)
 
 You may need to wait a moment for the page to redirect you to the editor:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11428b2c7d3a6ebd2278c8/file-
-EFbC7GrkRi.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11428b2c7d3a6ebd2278c8/file-EFbC7GrkRi.jpg)
 
 
 5\. Name your Landing Page and complete the other setup steps using the 'Next Step' button: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0ba29a2c7d3a6b51c6ab70/file-
-BzB1vaXF2w.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0ba29a2c7d3a6b51c6ab70/file-BzB1vaXF2w.jpg)
 
 
 6\. In the Editor, add the media and content you want to display. Click on your opt-in form and make sure to add a redirect for after they submit the form. Then move on to the next page: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0ba2ca2c7d3a6b51c6ab74/file-
-COV8yNBCtb.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0ba2ca2c7d3a6b51c6ab74/file-COV8yNBCtb.jpg)
 
 
 7\. Navigate to 'Tracking Code' in your Deadline Funnel admin and copy your tracking code: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11443c2c7d3a6ebd2278dd/file-
-aJuxQkttfX.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11443c2c7d3a6ebd2278dd/file-aJuxQkttfX.jpg)
 
 
 8\. Paste your Deadline Funnel tracking code into the 'header' box in the Infusionsoft Landing Page Editor's final "launch" step: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11482f04286305cb87a25a/file-
-Rhmccd5PDw.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11482f04286305cb87a25a/file-Rhmccd5PDw.jpg)
 
 
 9\. Publish your page by clicking the 'Go Live' button: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11485804286305cb87a25d/file-
-pSmBvwY9hE.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11485804286305cb87a25d/file-pSmBvwY9hE.jpg)
 
 
 10\. Copy the URL for your new landing page: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11487e04286305cb87a263/file-
-sBNkgXRVDg.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d11487e04286305cb87a263/file-sBNkgXRVDg.jpg)
 
 11\.  Navigate to Funnel Steps and 1) add the landing page URL into your funnel steps,2) select 'Display a floating bar', 3) add your redirect URL and then 4) click 'Save': 
 
@@ -74,8 +65,7 @@ sBNkgXRVDg.jpg)
 1
 2\. Now you can refresh your landing page to see your floating bar timer. Here's an example of what it will look like: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0b937f0428637fd7c53777/file-
-AulJMCaXbj.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0b937f0428637fd7c53777/file-AulJMCaXbj.jpg)
 
 ## How to add the Inline timer to an Infusionsoft landing page:
 
@@ -84,20 +74,17 @@ AulJMCaXbj.jpg)
 
 2\. Add a new row to your page to hold your inline countdown timer: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fb59a1042863319924253b/file-
-Zy6xyCHUBQ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fb59a1042863319924253b/file-Zy6xyCHUBQ.png)
 
 
 3\. In Funnel Steps, add your landing page URL to your Funnel Steps, select 'Display an inline timer', add your redirect URL, copy the HTML code needed to make your inline timer appear on your page, and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
 
 4\. Add a 'Code Box' to the new row in your landing page where you want your countdown timer to appear and paste your Deadline Funnel HTML snippet into the Infusionsoft Code box and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fb5acd0428633199242548/file-
-Io8URViZpr.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fb5acd0428633199242548/file-Io8URViZpr.png)
 
 
 5\. Be sure to save all changes to your page, and visit your URL to see your inline countdown in action: 

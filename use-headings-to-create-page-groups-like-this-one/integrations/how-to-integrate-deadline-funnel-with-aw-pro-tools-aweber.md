@@ -6,33 +6,27 @@ now you can add people who are already on your list as well.
 
 1. Click on API Integrations in the left menu, then select "I need to create a new API connection": 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7a28332c7d3a4a4198deb9/file-
-DXIo6jHBOq.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7a28332c7d3a4a4198deb9/file-DXIo6jHBOq.png)
 
 2. Select AW Pro Tools from our list of providers: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa94bc92c7d3a2c498307af/file-
-VJpL79ccTp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa94bc92c7d3a2c498307af/file-VJpL79ccTp.png)
 
 3. On the next screen, make sure you're logged into your AW Pro Tools account, and click the button to 'Activate Integration with AW Pro Tools': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa94de404286330cc3851ca/file-
-qscN750Qcd.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa94de404286330cc3851ca/file-qscN750Qcd.png)
 
 4. You will be reminded to set up your 'deadlinetext' custom field. You can watch
 a quick training video here on  [How to Create Custom Fields in
-Aweber](http://documentation.deadlinefunnel.com/article/257-how-to-create-
-custom-fields-in-aweber)
+Aweber](http://documentation.deadlinefunnel.com/article/257-how-to-create-custom-fields-in-aweber)
 
 Once you've done that, click 'Go to Next Step':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa950b22c7d3a2c49830811/file-
-aYSLT7DzmK.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa950b22c7d3a2c49830811/file-aYSLT7DzmK.png)
 
 5. Your integration is now active. Copy the Webhook URL for use in the next section: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa951bb04286330cc385215/file-
-Ne3xSgxPGF.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa951bb04286330cc385215/file-Ne3xSgxPGF.png)
 
 ## Create a SmartLink and Integrate with Deadline Funnel:
 
@@ -46,8 +40,7 @@ Ne3xSgxPGF.png)
 
 3. Choose your list action. For this demo, we selected 'Move to a new list': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769bc9903360258a10dd5a/file-
-eBM18efWmb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769bc9903360258a10dd5a/file-eBM18efWmb.png)
 
 4. Select the list you want them to move to and click 'Advanced Link Options': 
 
@@ -55,13 +48,11 @@ eBM18efWmb.png)
 
 5. Paste the Deadline Funnel WebhookURL into the AW Pro Tools 'Advanced Link Options box': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57d2e4cf9033602da7bdca96/file-
-hEdN7EeOOH.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57d2e4cf9033602da7bdca96/file-hEdN7EeOOH.png)
 
 6. Select the drop-down box under 'Deadline Text custom field' and select 'deadlinetext', then click 'Activate Integration': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769d24903360258a10dd64/file-
-OaZZpZLY5G.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769d24903360258a10dd64/file-OaZZpZLY5G.png)
 
 7. After the integration is activated, click 'Next' 
 
@@ -72,13 +63,11 @@ OaZZpZLY5G.png)
 9. You now have a SmartLink you can use in an email to send customers to a specific URL, move them from one list to another and add them to a Deadline Funnel campaign: 
 
 ###
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769e31903360258a10dd6e/file-
-lfLkIpXUzC.png)Set Up an Email Link to use in Subsequent Emails
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57769e31903360258a10dd6e/file-lfLkIpXUzC.png)Set Up an Email Link to use in Subsequent Emails
 
 1. In your Deadline Funnel admin, navigate to Edit your campaign >> Email Setup. Here you can select your Funnel Step URL and copy the email link to paste into your email. This ensures that your visitor receives the correct countdown when they visit your page: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa9531f2c7d3a2c49830830/file-
-OHinWscfTW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa9531f2c7d3a2c49830830/file-OHinWscfTW.png)
 
 That's it!
 

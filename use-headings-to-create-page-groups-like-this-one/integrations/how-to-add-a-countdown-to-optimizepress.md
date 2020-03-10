@@ -15,20 +15,17 @@ OptimizePress LiveEditor pages.
 
 2\. In the OptimizePress Dashboard navigate to >> Analytics and Tracking >> Other Tracking Codes': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b716b0428634b4a333068/file-
-JkKZMtv6fG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b716b0428634b4a333068/file-JkKZMtv6fG.png)
 
 
 3\. Paste your Deadline Funnel tracking code into the 'Other Tracking Codes' box and click 'Save Settings': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b71c22c7d3a057f8924ca/file-
-rEMLiOIZdp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b71c22c7d3a057f8924ca/file-rEMLiOIZdp.png)
 
 
 4\. Navigate back to Deadline Funnel and in your Funnel Steps add the URL of your page, select 'Display a floating bar', select your redirect URL, and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 5\. Your floating bar countdown timer will appear on your page. Here's an example of what it will look like: 
@@ -39,20 +36,17 @@ JDPyIgnWsG.png)
 
 1\.  If you are going to use an Inline countdown timer, navigate to Funnel Steps, add a new page and add your page URL, select 'Display an inline timer', add your redirect URL, copy the HTML code needed to add your timer to your page and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
 
 2\. In your OptimizePress LiveEditor, click 'Add Element, select 'Custom HTML/Shortcode' and click the next arrow: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b747c0428634b4a333084/file-
-txNO5CjBo7.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b747c0428634b4a333084/file-txNO5CjBo7.png)
 
 
 3\. Paste your Deadline Funnel HTML snippet into the Custom HTML/Shortcode box and click 'Insert': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b753a2c7d3a057f8924e3/file-
-lkzxcPq8i6.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b753a2c7d3a057f8924e3/file-lkzxcPq8i6.png)
 
 
 4\. Save all changes for your page 
@@ -60,8 +54,7 @@ lkzxcPq8i6.png)
 
 5\. When you view your page, you will see your inline countdown timer: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b764b2c7d3a057f8924e8/file-
-TDwXsGl4LX.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b764b2c7d3a057f8924e8/file-TDwXsGl4LX.png)
 
 You're all done! Your countdown timer has now been integrated into your
 OptimizePress page.

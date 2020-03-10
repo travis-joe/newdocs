@@ -19,8 +19,7 @@ First... a quick tip: You will need to create your first campaign before you
 can set up the integration with Wix.
 
 [Check out our guide here on how to create a Deadline Funnel
-campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-
-a-deadline-funnel-campaign)  
+campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-a-deadline-funnel-campaign)  
 
 Once you've created your Deadline Funnel campaign, you can follow the steps
 below to integrate with Wix.
@@ -33,26 +32,22 @@ help@deadlinefunnel.com.
 
 1\.  In the Wix site dashboard, click "Site Actions" and click "View Live Site" so you can navigate to the published landing page and copy the URL: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939d2b04286364bc8fcb1e/file-
-CGsNZ2BYkD.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939d2b04286364bc8fcb1e/file-CGsNZ2BYkD.jpg)
 
 
 2\. Navigate to Funnel Steps to add a new page, then add your Wix URL, select 'Display a floating bar', add a redirect URL, and then click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 3\. Navigate to Tracking Code and copy your Deadline Funnel tracking code: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-
-nCV9LRDZSb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
 
 4\. Then navigate to your Wix Site Dashboard >> Settings:   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939e782c7d3a7e9ae1e00d/file-
-DCCQxmebyz.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939e782c7d3a7e9ae1e00d/file-DCCQxmebyz.jpg)
 
 
 4\. Using the same sidebar, navigate to Tracking & Analytics >> New Tool >> Custom:   
@@ -63,8 +58,7 @@ DCCQxmebyz.jpg)
 
 4\. Paste the Deadline Funnel tracking code into the code snippet box, and load it into the header area of all pages on your site:   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d93a0252c7d3a7e9ae1e027/file-
-xnEKXZKDBR.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d93a0252c7d3a7e9ae1e027/file-xnEKXZKDBR.jpg)
 
 You can now view your Wix page to see your Floating Bar countdown timer.
 

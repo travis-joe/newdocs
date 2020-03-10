@@ -26,8 +26,7 @@ the integration with AWeber.
 When creating your campaign, we recommend selecting the blueprints option and
 then choose the "Email Sequence + Special Offer" blueprint:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d195eea04286305cb87e4e2/file-
-OiMtuGnVy8.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d195eea04286305cb87e4e2/file-OiMtuGnVy8.jpg)
 
 Then you'll set the deadline length and add your first funnel step(s). Don't
 worry too much about those two items - you can come back later and change
@@ -37,8 +36,7 @@ Once you've created your Deadline Funnel campaign, you will be taken to the
 Quick Start Guide, where you can verify that the correct trigger has been
 selected:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d195f9804286305cb87e4e7/file-
-STESe46e9c.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d195f9804286305cb87e4e7/file-STESe46e9c.jpg)
 
 Now you can follow the steps below to integrate with AWeber.
 
@@ -48,8 +46,7 @@ help@deadlinefunnel.com. 🙂
 
 ### 2\. Set up the AWeber Integration
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c118e692c7d3a31944f0f28/file-
-QdRWiConHU.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c118e692c7d3a31944f0f28/file-QdRWiConHU.png)
 
 After you've created your Deadline Funnel campaign, set up the integration
 between Deadline Funnel and AWeber.
@@ -58,8 +55,7 @@ This integration allows you start a subscriber's deadline as soon as they're
 added to a specific list in AWeber.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/630-how-to-integrate-
-aweber-with-deadline-funnel-api)
+here!](https://documentation.deadlinefunnel.com/article/630-how-to-integrate-aweber-with-deadline-funnel-api)
 
 ### 3\. Add Deadline Funnel email links to your emails
 
@@ -79,8 +75,7 @@ redirected to a different page after the deadline expires.
 [Here's our guide on adding the Deadline Funnel email links to your emails.
 ](https://documentation.deadlinefunnel.com/article/16-expiring-links)  
 
-[](https://documentation.deadlinefunnel.com/article/630-how-to-integrate-
-aweber-with-deadline-funnel-api)
+[](https://documentation.deadlinefunnel.com/article/630-how-to-integrate-aweber-with-deadline-funnel-api)
 
 Please note that you cannot integrate Deadline Funnel + AWeber correctly
 unless you add the DF links to your emails!
@@ -89,8 +84,7 @@ unless you add the DF links to your emails!
 
 Once you've set up your trigger, you can customize your AWeber emails with an
 animated timer. [Check out our step-by-step guide
-here.](https://documentation.deadlinefunnel.com/article/259-how-to-add-email-
-countdown-code-to-aweber)
+here.](https://documentation.deadlinefunnel.com/article/259-how-to-add-email-countdown-code-to-aweber)
 
 ## Timing tips for AWeber
 

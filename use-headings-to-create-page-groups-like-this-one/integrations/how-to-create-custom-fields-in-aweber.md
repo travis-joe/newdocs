@@ -13,14 +13,12 @@
 
 4\. Name your field 'deadlinetext' and click 'next': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57a0c65a903360293603c037/file-
-DjvXg9t8i2.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57a0c65a903360293603c037/file-DjvXg9t8i2.png)
 
 
 5\. Choose 'Text input' as the input type, add 'deadlinetext' as the default value, and click 'Show' to change the visibility to 'Hide', then click 'Save Field': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57a0c724c6979160ca14a3ec/file-
-uFW0h1eCwG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57a0c724c6979160ca14a3ec/file-uFW0h1eCwG.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

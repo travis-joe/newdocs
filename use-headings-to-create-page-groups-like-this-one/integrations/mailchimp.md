@@ -45,20 +45,17 @@ help@deadlinefunnel.com. 🙂
 
 ### 2\. Set up the MailChimp Integration
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c190ad2c7d3a73488cfcad/file-
-jBxxYZ5y4r.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c190ad2c7d3a73488cfcad/file-jBxxYZ5y4r.png)
 
 After you've created your Deadline Funnel campaign, [set up the integration
 between Deadline Funnel and
-MailChimp.](https://documentation.deadlinefunnel.com/article/354-how-to-
-integrate-deadline-funnel-with-mailchimp-api)
+MailChimp.](https://documentation.deadlinefunnel.com/article/354-how-to-integrate-deadline-funnel-with-mailchimp-api)
 
 This integration allows you to start a deadline based on when a new subscriber
 is added to your list or when an existing subscriber is added to a group.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/354-how-to-integrate-
-deadline-funnel-with-mailchimp-api)
+here!](https://documentation.deadlinefunnel.com/article/354-how-to-integrate-deadline-funnel-with-mailchimp-api)
 
 ### 3\. Add Deadline Funnel email links to your sequence
 
@@ -95,8 +92,7 @@ in the following articles:
 
 If you're setting up an evergreen webinar using MailChimp, Deadline Funnel,
 and EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/498-how-to-integrate-
-everwebinar-with-deadline-funnel-mailchimp-new)
+here.](https://documentation.deadlinefunnel.com/article/498-how-to-integrate-everwebinar-with-deadline-funnel-mailchimp-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar

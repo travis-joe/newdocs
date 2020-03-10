@@ -6,8 +6,7 @@
 
     In your MailerLite Drag & Drop Editor, add a 'code' block to your email where you want the animated countdown timer to appear:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b6ca00428634b4a33303f/file-
-cB2fyhgsMN.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b6ca00428634b4a33303f/file-cB2fyhgsMN.png)
 
 3
 
@@ -25,8 +24,7 @@ cB2fyhgsMN.png)
 
     Your test email will include your animated countdown:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b6ea60428634b4a333051/file-
-MdJHAHjaFs.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b6ea60428634b4a333051/file-MdJHAHjaFs.png)
 
 Sometimes we hear from clients that when they're testing Deadline Funnel's
 countdown image the time in their test email doesn't match the actual time
@@ -34,8 +32,7 @@ they expected to see.
 
 If this is happening to you, this article explains why: [Facts to know about
 the email countdown
-timer](http://documentation.deadlinefunnel.com/article/366-facts-to-know-
-about-the-email-countdown)
+timer](http://documentation.deadlinefunnel.com/article/366-facts-to-know-about-the-email-countdown)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

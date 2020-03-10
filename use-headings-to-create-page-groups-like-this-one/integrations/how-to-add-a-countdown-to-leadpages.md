@@ -18,8 +18,7 @@ First... a quick tip: You will need to create your first campaign before you
 can set up the integration with Leadpages.
 
 [Check out our guide here on how to create a Deadline Funnel
-campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-
-a-deadline-funnel-campaign)  
+campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-a-deadline-funnel-campaign)  
 
 Once you've created your Deadline Funnel campaign, you can follow the steps
 below to integrate with Leadpages.
@@ -36,26 +35,22 @@ help@deadlinefunnel.com. 🙂
 
 1\.  In the Leadpages editor, 'Publish' or 'Update' your page so you can copy the URL for the published page: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea1e1c6979160ca144f10/file-
-mkH4M2I3jw.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea1e1c6979160ca144f10/file-mkH4M2I3jw.png)
 
 
 2\. Navigate to Funnel Steps to add a new page, then add your Leadpages URL, select 'Display a floating bar', add a redirect URL, and then click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 3\. Navigate to Tracking Code and copy your Deadline Funnel tracking code: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-
-nCV9LRDZSb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
 
 4\. Then paste the Deadline Funnel tracking code into the 'Head Section Tracking Code' under Tracking > Analytics settings of your Leadpage and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a983c0904286374f70875aa/file-
-sQ2C2lbKyq.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a983c0904286374f70875aa/file-sQ2C2lbKyq.png)
 
 You can now view your Leadpage to see your Floating Bar countdown timer.
 
@@ -65,14 +60,12 @@ Complete step "4" in the section above, and then:
 
 1\.  Navigate to Funnel Steps to add a new page then add your Leadpages URL, select 'Display an inline timer', add your redirect URL, copy the HTML Code you need to display your timer inline, and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
 
 2\. Navigate to the Leadpages Editor and click on the 'Widgets' icon to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d20010428637ff8d450e1/file-
-wxjOyOlduP.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d20010428637ff8d450e1/file-wxjOyOlduP.gif)
 
 
 3\. Paste the Inline code from Deadline Funnel here and hit 'Save'. Then Click 'Update' to update your Leadpage: 
@@ -82,8 +75,7 @@ wxjOyOlduP.gif)
 
 4\. Preview your page and you will see your countdown: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea8909033602936036f23/file-
-SZYioYAkDD.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea8909033602936036f23/file-SZYioYAkDD.png)
 
 You can add multiple HTML widgets to your Leadpage to add additional instances
 of your countdown to the same page.

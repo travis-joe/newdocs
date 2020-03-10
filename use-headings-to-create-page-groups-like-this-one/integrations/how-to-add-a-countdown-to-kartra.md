@@ -4,32 +4,27 @@
 
 1\.  Navigate to 'Tracking Code' in your Deadline Funnel dashboard to copy the Deadline Funnel tracking code for your countdown: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c7478b904286350d08857c9/file-
-BieT1BNZ80.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c7478b904286350d08857c9/file-BieT1BNZ80.png)
 
 
 2\. In your Kartra landing page editor, click 'Settings' >> 'Tracking Code': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d820042863478ea7c407/file-
-uVV8g34yIN.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d820042863478ea7c407/file-uVV8g34yIN.png)
 
 
 3\. Paste your Deadline Funnel tracking code into the 'Body' section and click 'Apply': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0c7a42c7d3a04dd5b9a1b/file-
-tmnkGi62HS.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0c7a42c7d3a04dd5b9a1b/file-tmnkGi62HS.png)
 
 
 4\. Click 'Actions' >> 'Save progress', then click 'Actions' >> 'Publish live' to save your changes and copy your page URL: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-
-pWZD2euDvv.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-pWZD2euDvv.png)
 
 
 5\. Return to Deadline Funnel and navigate to 'Funnel Steps', then add the published URL to your Funnel Steps, select 'Display a floating bar', add a redirect URL, and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 6\. When you refresh your published page, you will now see your floating bar timer. 
@@ -41,8 +36,7 @@ steps:
 
 1\.  Add your landing page URL to the funnel steps, select 'Display an inline timer', copy the HTML snippet needed to add your countdown timer to your page, then click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
 
 2\. In the editor for your Landing Page, click on "Your Code" and drag a code element onto your page: 
@@ -63,8 +57,7 @@ is the code that should be in that element:
 
 4\. Click 'Actions' >> 'Save progress', then click 'Actions' >> 'Publish live' to save your changes: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-
-pWZD2euDvv.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-pWZD2euDvv.png)
 
 That's it! Your inline countdown will now appear on your page.
 

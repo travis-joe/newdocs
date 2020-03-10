@@ -10,14 +10,12 @@ currently editing. Each Deadline Funnel campaign gets its own API integration.
 1\.  Click on API integrations in the left menu, then click 'Add New Integration' and select Klick-Tipp. 
     
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c100428631d7a8941d6/file-
-HMVU9Qj9Vj.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c100428631d7a8941d6/file-HMVU9Qj9Vj.png)
 
 
 3\. Copy your Deadline Funnel Webhook: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c1c0428631d7a8941d8/file-
-qd9p0qAvW8.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c1c0428631d7a8941d8/file-qd9p0qAvW8.png)
 
 
 4\. Add your Deadline Funnel webhook to your Outbound Events in Klick-Tipp by navigating to automation >> New Outbound: 
@@ -27,8 +25,7 @@ qd9p0qAvW8.png)
 
 5\. Give your new outbound event a name, select your filter, and paste the Deadline Funnel Webhook URL into the 'Activation URL' box and click 'New Outbound Event': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59975bf3042863033a1c1dc2/file-
-opmfVRJdkV.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59975bf3042863033a1c1dc2/file-opmfVRJdkV.png)
 
 Now the deadline will begin for each contact as soon as they reach that
 webhook in your automation.

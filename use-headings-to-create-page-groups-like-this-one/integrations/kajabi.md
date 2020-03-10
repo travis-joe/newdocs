@@ -49,8 +49,7 @@ help@deadlinefunnel.com. 🙂
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37530428631d7a890855/file-M7LuOwsFw8.png)After
 you've created your Deadline Funnel campaign, [set up the integration between
 Deadline Funnel, Zapier, and
-Kajabi.](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-
-a-countdown-upon-subscribe-using-zapier)
+Kajabi.](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-a-countdown-upon-subscribe-using-zapier)
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your automation.
@@ -60,8 +59,7 @@ subscriber is added to your list in Kajabi, but there are several triggers you
 can use - When a tag is added, when a purchase is made, etc.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-a-
-countdown-upon-subscribe-using-zapier)
+here!](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-a-countdown-upon-subscribe-using-zapier)
 
 ### 3\. Add Deadline Funnel email links to your automation
 
@@ -89,15 +87,13 @@ unless you add the DF links to your emails!
 
 You can customize your Kajabi emails with an animated timer. [Step-by-step
 instructions for adding those can be found
-here.](https://documentation.deadlinefunnel.com/article/606-how-to-add-the-
-email-countdown-to-kajabi)
+here.](https://documentation.deadlinefunnel.com/article/606-how-to-add-the-email-countdown-to-kajabi)
 
 ### Automated webinars
 
 If you're setting up an evergreen webinar using Kajabi, Deadline Funnel, and
 EverWebinar, [we have a helpful guide on how to do that using Zapier
-here.](https://documentation.deadlinefunnel.com/article/506-how-to-integrate-
-everwebinar-with-deadline-funnel-using-zapier)
+here.](https://documentation.deadlinefunnel.com/article/506-how-to-integrate-everwebinar-with-deadline-funnel-using-zapier)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar
@@ -109,14 +105,11 @@ How you add the Deadline Funnel countdown timer to your Kajabi page(s) depends
 on the type of page you're using:
 
 [How to integrate with a Landing
-Page](https://documentation.deadlinefunnel.com/article/359-how-to-add-a-
-countdown-to-new-kajabi)
+Page](https://documentation.deadlinefunnel.com/article/359-how-to-add-a-countdown-to-new-kajabi)
 
 [How to integrate with a Sales
-Page](https://documentation.deadlinefunnel.com/article/454-how-to-add-a-
-countdown-to-a-kajabi-sales-page)
+Page](https://documentation.deadlinefunnel.com/article/454-how-to-add-a-countdown-to-a-kajabi-sales-page)
 
 [How to integrate with a Checkout
-page](https://documentation.deadlinefunnel.com/article/561-how-to-add-a-
-deadline-funnel-countdown-to-a-kajabi-checkout-page)
+page](https://documentation.deadlinefunnel.com/article/561-how-to-add-a-deadline-funnel-countdown-to-a-kajabi-checkout-page)
 

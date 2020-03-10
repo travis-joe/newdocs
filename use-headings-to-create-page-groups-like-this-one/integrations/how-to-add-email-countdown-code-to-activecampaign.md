@@ -4,15 +4,13 @@
 
 1\. Navigate to Edit your campaign >> Email Setup:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9812dc2c7d3a7549513d11/file-
-WImGw0MUo4.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9812dc2c7d3a7549513d11/file-WImGw0MUo4.png)
 
 2
 
     Click the 'HTML Code' to copy your animated countdown timer code: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9818572c7d3a7549513d5e/file-
-jv9Z1t5lHZ.png) 
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9818572c7d3a7549513d5e/file-jv9Z1t5lHZ.png) 
 3\. In your ActiveCampaign editor, add an HTML block to your email where you want the countdown timer to appear: 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57be10f9903360342852d128/file-K5Sps0ekp2.png)

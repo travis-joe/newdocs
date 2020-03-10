@@ -1,15 +1,13 @@
 If you want to add an animated countdown timer into your Drip email you can
 follow the instructions here:    [How to Add an Animated Email Countdown to
 Drip Visual Email
-Builder](https://documentation.deadlinefunnel.com/article/565-how-to-add-
-email-countdown-code-to-drip-visual-builder)
+Builder](https://documentation.deadlinefunnel.com/article/565-how-to-add-email-countdown-code-to-drip-visual-builder)
 
 ## How to Use Your Custom Field in Your Email
 
 1\.  In the email editor, click the 'HTML' tab, place the cursor where you want to add the dynamic date and time and click 'View Shortcodes': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a21d8070428637405653fa4/file-
-LPT1q5KuSZ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a21d8070428637405653fa4/file-LPT1q5KuSZ.png)
 
 
 2\. Scroll down and select your Deadline Funnel custom subscriber field that you selected when you set up your API integration (we named ours 'deadlinetext'), and click 'Insert': 

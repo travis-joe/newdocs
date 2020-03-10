@@ -11,14 +11,12 @@
 
 3\. Paste the Deadline Funnel HTML Image Code into the Klaviyo editor where you want your timer to appear and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59b080a92c7d3a73488ca926/file-
-CYeeJG5fzp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59b080a92c7d3a73488ca926/file-CYeeJG5fzp.png)
 
 
 4\. Once saved, Click 'Preview' to preview your countdown timer in your email editor: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59b080f52c7d3a73488ca928/file-
-iYdrctAOhh.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59b080f52c7d3a73488ca928/file-iYdrctAOhh.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

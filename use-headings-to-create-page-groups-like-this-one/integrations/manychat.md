@@ -12,20 +12,17 @@ This article covers how to set it up if you're using the deadline only with a
 sequence in ManyChat:
 
 [How to Integrate Deadline Funnel with
-ManyChat](https://documentation.deadlinefunnel.com/article/525-how-to-
-integrate-deadline-funnel-with-manychat)  
+ManyChat](https://documentation.deadlinefunnel.com/article/525-how-to-integrate-deadline-funnel-with-manychat)  
 
 This article covers how to set it up if you're using the deadline with a
 ManyChat sequence as well as an email sequence:
 
 [How to Integrate Deadline Funnel with ManyChat and
-Email](https://documentation.deadlinefunnel.com/article/531-how-to-integrate-
-deadline-funnel-with-manychat)  
+Email](https://documentation.deadlinefunnel.com/article/531-how-to-integrate-deadline-funnel-with-manychat)  
 
 ### Using the deadlinetext in your ManyChat Sequence
 
 If you want to use the Deadline Text custom field in your ManyChat sequence,
 [check out our guide
-here.](https://documentation.deadlinefunnel.com/article/616-how-to-add-the-
-deadlinetext-to-your-manychat-sequence)
+here.](https://documentation.deadlinefunnel.com/article/616-how-to-add-the-deadlinetext-to-your-manychat-sequence)
 

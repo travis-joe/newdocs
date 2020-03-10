@@ -18,22 +18,19 @@ campaign before you will see the API integrations link in the left nav.
 
 2\. To get your Account ID, navigate inside Drip to account settings and scroll down to copy your Account ID and paste it into the Drip Account ID box in Deadline Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6262d80428632faf61fdb7/file-
-Rv0r8Kkuz5.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6262d80428632faf61fdb7/file-Rv0r8Kkuz5.png)
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62633e2c7d3a39e6262f32/file-o61FzwL9sZ.png)
 
 
 3\. Click on 'User Settings' in your Drip account to get your Token credentials: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6261052c7d3a39e6262f21/file-
-oeBtWC2C8l.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6261052c7d3a39e6262f21/file-oeBtWC2C8l.png)
 
 
 4\. Scroll to the bottom to the API Token, and copy the API Token: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62622f0428632faf61fdb0/file-
-NfUlOsdS0C.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62622f0428632faf61fdb0/file-NfUlOsdS0C.png)
 
 
 5\. Paste the API token into the Drip Token ID box in Deadline Funnel, then hit 'Connect Drip': 
@@ -43,8 +40,7 @@ NfUlOsdS0C.png)
 
 6\. Select the custom field from the dropdown that you want to use store each lead's deadline. If you want to create a new field, just start typing into the box to create the new custom field: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4919220428630abc0c0e08/file-
-DjkWkHNmNu.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4919220428630abc0c0e08/file-DjkWkHNmNu.png)
 
 ## Copy your webhook for Drip
 
@@ -61,8 +57,7 @@ completes a campaign, performs a custom event, etc.
 
 Copy the webhook URL from Deadline Funnel:  
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b491ae40428630abc0c0e11/file-
-xjEk3yUKxp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b491ae40428630abc0c0e11/file-xjEk3yUKxp.png)
 
 ## **Add the Webhook URL to trigger Deadline Funnel in the Drip
 automation/Workflow**
@@ -76,8 +71,7 @@ You can either create a new Drip automation or edit an existing one.
 
 2\. Then select 'Action' from the list of options: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59567f2e2c7d3a707d7b58e3/file-
-zyZ5tsKUID.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59567f2e2c7d3a707d7b58e3/file-zyZ5tsKUID.png)
 
 
 3\. Select 'Send an HTTP post' from the options given: 
@@ -91,8 +85,7 @@ zyZ5tsKUID.png)
 
 Now you're all set.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62670d0428632faf61fdd6/file-
-jliP0O8lwa.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62670d0428632faf61fdd6/file-jliP0O8lwa.png)
 
 When each contact reaches the HTTP Post in your automation, their deadline
 will begin.

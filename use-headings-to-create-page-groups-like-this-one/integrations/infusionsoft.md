@@ -50,15 +50,13 @@ help@deadlinefunnel.com. 🙂
 
 After you've created your Deadline Funnel campaign, [set up the integration
 between Deadline Funnel and
-Infusionsoft.](https://documentation.deadlinefunnel.com/article/292-how-to-
-integrate-deadline-funnel-with-infusionsoft)
+Infusionsoft.](https://documentation.deadlinefunnel.com/article/292-how-to-integrate-deadline-funnel-with-infusionsoft)
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your sequence.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/292-how-to-integrate-
-deadline-funnel-with-infusionsoft)  
+here!](https://documentation.deadlinefunnel.com/article/292-how-to-integrate-deadline-funnel-with-infusionsoft)  
 
 ### 3\. Add Deadline Funnel email links to your sequence
 
@@ -96,8 +94,7 @@ in the following articles:
 
 If you're setting up an evergreen webinar using Infusionsoft, Deadline Funnel,
 and EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/499-how-to-integrate-
-everwebinar-with-deadline-funnel-infusionsoft-new)
+here.](https://documentation.deadlinefunnel.com/article/499-how-to-integrate-everwebinar-with-deadline-funnel-infusionsoft-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar

@@ -46,8 +46,7 @@ EasyWebinar to your email platform, as shown in the following screenshot:
   * A tag that is applied when someone "came to the webinar" - e.g. **samplewebinar-attended-webinar**
   * A tag that is applied when someone "did not come" - e.g. **samplewebinar-missed-webinar**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d237b1804286369ad8d6e8c/file-
-NV0NBJdKVf.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d237b1804286369ad8d6e8c/file-NV0NBJdKVf.png)
 
 The next step of the direct integration method is to integrate Deadline Funnel
 with your email platform, so that whenever either of those two tags are

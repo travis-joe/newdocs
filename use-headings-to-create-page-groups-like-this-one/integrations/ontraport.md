@@ -51,15 +51,13 @@ help@deadlinefunnel.com. 🙂
 
 After you've created your Deadline Funnel campaign, [set up the integration
 between Deadline Funnel and
-Ontraport.](https://documentation.deadlinefunnel.com/article/251-how-to-
-integrate-deadline-funnel-with-ontraport-api)
+Ontraport.](https://documentation.deadlinefunnel.com/article/251-how-to-integrate-deadline-funnel-with-ontraport-api)
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your automation.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/251-how-to-integrate-
-deadline-funnel-with-ontraport-api)
+here!](https://documentation.deadlinefunnel.com/article/251-how-to-integrate-deadline-funnel-with-ontraport-api)
 
 ### 3\. Add Deadline Funnel email links to your automation
 
@@ -96,8 +94,7 @@ in the following articles:
 
 If you're setting up an evergreen webinar using Ontraport, Deadline Funnel,
 and EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/500-how-to-integrate-
-everwebinar-with-deadline-funnel-ontraport-new)
+here.](https://documentation.deadlinefunnel.com/article/500-how-to-integrate-everwebinar-with-deadline-funnel-ontraport-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar
@@ -107,6 +104,5 @@ platform. And please feel free to contact us if you have any questions!
 
 [You can find a helpful guide on how to time out your Email Sequence in
 Ontraport with your Deadline
-here.](https://documentation.deadlinefunnel.com/article/612-how-to-time-your-
-ontraport-campaign-with-your-deadline-funnel-campaign)
+here.](https://documentation.deadlinefunnel.com/article/612-how-to-time-your-ontraport-campaign-with-your-deadline-funnel-campaign)
 

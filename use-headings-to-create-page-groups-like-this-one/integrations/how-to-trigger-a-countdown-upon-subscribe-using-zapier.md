@@ -16,14 +16,12 @@ into your Zapier account before you begin.
 
 1\.  In your Zapier dashboard, select 'Make a Zap' and select your ESP (We used Kajabi) as the Trigger App:  
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e32c40428631d7a890817/file-
-rZy4tMTm2v.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e32c40428631d7a890817/file-rZy4tMTm2v.png)
 
 
 2\. Choose 'New Form Submission' and click 'Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c33b5dc2c7d3a31944fc216/file-
-Aszc4g7ret.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c33b5dc2c7d3a31944fc216/file-Aszc4g7ret.png)
 
 
 3\. Select your Kajabi account and click Test (or connect your account), then click 'Save + Continue': 
@@ -33,27 +31,23 @@ Aszc4g7ret.png)
 
 4\. Select your Kajabi site and the form you want to integrate, then click 'Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e33912c7d3a03f89cb2fb/file-
-VycA987pCO.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e33912c7d3a03f89cb2fb/file-VycA987pCO.png)
 
 
 5\. Make sure you have submitted the form at least once so there is data to fetch, then click 'Fetch + Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34190428631d7a890827/file-
-BIjv37B0we.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34190428631d7a890827/file-BIjv37B0we.png)
 
 
 6\. Once you see a successful test message, click 'Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34850428631d7a890832/file-
-OkdPAgDvO3.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34850428631d7a890832/file-OkdPAgDvO3.png)
 
 ## Setup the Deadline Funnel trigger with your ESP
 
 1\.  Select Deadline Funnel as the Action App: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e36150428631d7a890848/file-
-wQ81pAOGXK.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e36150428631d7a890848/file-wQ81pAOGXK.png)
 
 
 2\. Click 'Start Deadline' and click 'Continue': 
@@ -78,8 +72,7 @@ wQ81pAOGXK.png)
 
 5\. Click 'Finish' when your test is successful: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37c92c7d3a03f89cb33f/file-
-IxSEb1BPrm.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37c92c7d3a03f89cb33f/file-IxSEb1BPrm.png)
 
 
 6\. Be sure your zap is turned on: 

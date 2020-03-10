@@ -46,23 +46,19 @@ help@deadlinefunnel.com. 🙂
 
 ### 2\. Set up the ActiveCampaign integration
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595a76230428637ff8d4430d/file-
-fYyR57Iyug.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595a76230428637ff8d4430d/file-fYyR57Iyug.gif)
 
 After you've created your Deadline Funnel campaign, [set up the integration
 between Deadline Funnel and
-ActiveCampaign](https://documentation.deadlinefunnel.com/article/244-how-to-
-integrate-deadline-funnel-with-activecampaign-api).
+ActiveCampaign](https://documentation.deadlinefunnel.com/article/244-how-to-integrate-deadline-funnel-with-activecampaign-api).
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your automation.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/244-how-to-integrate-
-deadline-funnel-with-activecampaign-api)
+here!](https://documentation.deadlinefunnel.com/article/244-how-to-integrate-deadline-funnel-with-activecampaign-api)
 
-[Click here](https://www.activecampaign.com/marketplace/recipe/ultimate-
-evergreen-funnel-by-deadline-funnel) to import a ready-to-customize automation
+[Click here](https://www.activecampaign.com/marketplace/recipe/ultimate-evergreen-funnel-by-deadline-funnel) to import a ready-to-customize automation
 into your Activecampaign account that includes our email swipe file to help
 you get started with Deadline Funnel!
 
@@ -101,8 +97,7 @@ in the following articles:
 
 You can time your reminder emails to be in sync with your leads' individual
 deadlines. We have a guide on [how to do that
-here](https://documentation.deadlinefunnel.com/article/689-how-to-time-your-
-activecampaign-emails-to-match-your-deadline)!
+here](https://documentation.deadlinefunnel.com/article/689-how-to-time-your-activecampaign-emails-to-match-your-deadline)!
 
 ###
 
@@ -110,8 +105,7 @@ activecampaign-emails-to-match-your-deadline)!
 
 If you're setting up an evergreen webinar using ActiveCampaign, Deadline
 Funnel, and EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/494-how-to-integrate-
-everwebinar-with-deadline-funnel-activecampaign-new)
+here.](https://documentation.deadlinefunnel.com/article/494-how-to-integrate-everwebinar-with-deadline-funnel-activecampaign-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar

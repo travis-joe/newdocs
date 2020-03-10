@@ -5,12 +5,10 @@ so that after someone subscribes you can let them know they have a specific
 number of days or hours to take advantage of your special offer.
 
 [Integrating Deadline Funnel with
-ManyChat](https://documentation.deadlinefunnel.com/article/525-how-to-
-integrate-deadline-funnel-with-manychat)
+ManyChat](https://documentation.deadlinefunnel.com/article/525-how-to-integrate-deadline-funnel-with-manychat)
 
 [Integrating Deadline Funnel with
-ChatFuel](https://documentation.deadlinefunnel.com/article/552-how-to-
-integrate-deadline-funnel-with-chatfuel)
+ChatFuel](https://documentation.deadlinefunnel.com/article/552-how-to-integrate-deadline-funnel-with-chatfuel)
 
 At this time, we don't offer email timers for chatbots, but we are looking
 into whether this is possible.

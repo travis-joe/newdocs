@@ -14,8 +14,7 @@ HTML Image Code into your editor where you want the image to appear.
 by indicating an Image URL. Copy and paste the Image URL where indicated in
 your email editor.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/58a4da1fdd8c8e56bfa7bbfe/file-
-lwZijdpXWN.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/58a4da1fdd8c8e56bfa7bbfe/file-lwZijdpXWN.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

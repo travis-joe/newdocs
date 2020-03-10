@@ -12,8 +12,7 @@
 
 4. Make the field label 'deadlinetext', select 'Hidden' for field visibility, and add 'deadlinetext' to the Default merge tag value, then click 'Save field': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc8bac12c7d3a04dd5bd98c/file-
-sm0cNp903i.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc8bac12c7d3a04dd5bd98c/file-sm0cNp903i.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

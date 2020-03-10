@@ -47,20 +47,17 @@ help@deadlinefunnel.com. 🙂
 
 ### 2\. Set up the Drip Integration
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62670d0428632faf61fdd6/file-
-jliP0O8lwa.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62670d0428632faf61fdd6/file-jliP0O8lwa.png)
 
 After you've created your Deadline Funnel campaign, [set up the integration
 between Deadline Funnel and
-Drip.](https://documentation.deadlinefunnel.com/article/291-how-to-integrate-
-deadline-funnel-with-drip-api)
+Drip.](https://documentation.deadlinefunnel.com/article/291-how-to-integrate-deadline-funnel-with-drip-api)
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your workflow.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/291-how-to-integrate-
-deadline-funnel-with-drip-api)  
+here!](https://documentation.deadlinefunnel.com/article/291-how-to-integrate-deadline-funnel-with-drip-api)  
 
 [Click here](https://www.getdrip.com/shared_workflows/c4a07d0460a6762ba1d2) to
 import a ready-to-customize automation into your Drip account that includes
@@ -103,8 +100,7 @@ following articles:
 
 If you're setting up an evergreen webinar using Drip, Deadline Funnel, and
 EverWebinar, [we have a helpful guide on how to do that
-here.](https://documentation.deadlinefunnel.com/article/496-how-to-integrate-
-everwebinar-with-deadline-funnel-drip-new)
+here.](https://documentation.deadlinefunnel.com/article/496-how-to-integrate-everwebinar-with-deadline-funnel-drip-new)
 
 While we don't currently have guides for other webinar platforms, you can
 generally follow the same steps if you're integrating with another webinar

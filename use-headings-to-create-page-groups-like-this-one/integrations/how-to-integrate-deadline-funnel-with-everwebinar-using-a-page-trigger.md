@@ -5,8 +5,7 @@ webinars into your marketing funnel first.
 
 As you saw in the video, the Everwebinar integration with Deadline Funnel has
 more flexibility if you are using it with one of our [API
-integrations](https://documentation.deadlinefunnel.com/article/330-how-to-
-integrate-deadline-funnel-with-everwebinar). But there are 2 options for
+integrations](https://documentation.deadlinefunnel.com/article/330-how-to-integrate-deadline-funnel-with-everwebinar). But there are 2 options for
 integrating Deadline Funnel with EverWebinar using a page Trigger.
 
 ##  Option 1 - Registration Thank You Page:
@@ -16,8 +15,7 @@ integrating Deadline Funnel with EverWebinar using a page Trigger.
 
 2\. Add this tracking pixel to your EverWebinar thank you page under Integrations >> Integrate a 3rd party tracking system 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edcb12c7d3a7e9ae810f5/file-
-YBebyEPM0p.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edcb12c7d3a7e9ae810f5/file-YBebyEPM0p.jpg)
 
 Now when someone registers for your webinar, they'll land on the thank you
 page and the pixel will trigger their tracking, add a cookie and track their
@@ -34,8 +32,7 @@ NOT see your email address in the tracking details.
 
 2\. You'll trigger the deadline on the webinar page using a Deadline Funnel "pixel". Copy your Deadline Funnel tracking pixel and add it to your webpage page in EverWebinar under Integrations >> Integrate a 3rd party tracking system 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edccc2c7d3a7e9ae810f7/file-
-qCaL5eM8p6.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edccc2c7d3a7e9ae810f7/file-qCaL5eM8p6.jpg)
 
 3
 

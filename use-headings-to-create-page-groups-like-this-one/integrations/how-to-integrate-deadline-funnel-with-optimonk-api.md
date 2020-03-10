@@ -6,8 +6,7 @@ campaign before you will see the API integrations link in the left nav.
 1\.  Navigate to 'API Integrations' in the left hand menu. Then click 'Add New Integration' and select Optimonk: 
     
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575b390428631d7a8941c7/file-
-xhS9bghHcV.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575b390428631d7a8941c7/file-xhS9bghHcV.png)
 
 
 4\. Copy the Webhook URL for OptiMonk: 
@@ -27,8 +26,7 @@ xhS9bghHcV.png)
 
 7\. Your integration is complete. To test, opt into your OptiMonk campaign and then make sure you can see the email by visiting 'Event Tracking' in your Deadline Funnel Admin: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6d4e0428631126f1b029/file-
-TDEsy7JWni.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6d4e0428631126f1b029/file-TDEsy7JWni.png)
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

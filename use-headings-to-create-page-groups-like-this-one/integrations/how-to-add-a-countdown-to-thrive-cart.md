@@ -7,20 +7,17 @@ with Thrive Cart.
 
 1\.  Log into your Thrive Cart account, navigate to 'Products' and click 'Get URL' so you can copy the URL for the product you want to integrate with Deadline Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/596fc93c2c7d3a73488b3f29/file-
-uNACwuj4JP.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/596fc93c2c7d3a73488b3f29/file-uNACwuj4JP.png)
 
 
 2\. Navigate to Funnel Steps and click 'Add New Page'. Add your Thrive Cart Product URL, select 'Display a floating bar', add a redirect URL and click 'Save': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 3\. Once you're satisfied with your floating bar timer, click on 'Tracking Code' to copy your Deadline Funnel tracking code': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-
-nCV9LRDZSb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
 
 4\. Navigate back to your Thrive Cart account, and edit your Product so that you can add tracking in the Checkout >> Tracking tab: 

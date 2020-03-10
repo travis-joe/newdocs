@@ -18,8 +18,7 @@ First... a quick tip: You will need to create your first campaign before you
 can set up the integration with ClickFunnels.
 
 [Check out our guide here on how to create a Deadline Funnel
-campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-
-a-deadline-funnel-campaign)
+campaign](https://documentation.deadlinefunnel.com/article/629-how-to-create-a-deadline-funnel-campaign)
 
 Once you've created your Deadline Funnel campaign, you can follow the steps
 below to integrate with ClickFunnels.
@@ -38,20 +37,17 @@ help@deadlinefunnel.com. 🙂
 
 1\.  Start by clicking on the 'Tracking Code' tab in the left hand menu of Deadline Funnel and hit Copy: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-
-nCV9LRDZSb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
 
 2\. Next go to your ClickFunnels account and select 'Settings' for the page you want to edit: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a29cb5b0428631b6b6dc1bc/file-
-VycpQxdgex.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a29cb5b0428631b6b6dc1bc/file-VycpQxdgex.png)
 
 
 3\. Paste your Deadline Funnel tracking code into the 'Body Tracking Code' box, scroll down and click 'Save and Update Settings': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/58e6823d2c7d3a52b42f445f/file-
-mr5oXBPOEF.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/58e6823d2c7d3a52b42f445f/file-mr5oXBPOEF.png)
 
 
 4\. Return to your Page and click the link to view your page so you can get the correct URL for your Funnel Steps: 
@@ -66,14 +62,12 @@ mr5oXBPOEF.png)
 
 6\. Go into Funnel Steps in Deadline Funnel and click 'Add new page': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cc32c7d3a0cb932156e/file-
-CSY1nyRU1d.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cc32c7d3a0cb932156e/file-CSY1nyRU1d.png)
 
 
 7\. Paste the URL for your ClickFunnels Page and select either the Inline Timer or Floating Bar. You can also choose an After URL here, which is where the page will be redirected when the deadline has expired. 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-
-JDPyIgnWsG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
 
 8\. If you choose the Floating Bar, then hit Save and refresh your ClickFunnels page to see your floating bar. 
@@ -83,8 +77,7 @@ JDPyIgnWsG.png)
 
 1\.  If you choose the Inline Timer, you will need to copy the code snippet that appears: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-
-hMgAYWDhqC.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
 
 2\. Navigate back to ClickFunnels and click 'Edit Page' under your sales page: 
@@ -96,13 +89,11 @@ hMgAYWDhqC.png)
   5. Paste the code you copied for the Inline Timer here:
   6. Don't forget to hit Save! :)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d5eb70428637ff8d4538b/file-
-AFD0Oa2A77.gif)It's important to note that your Countdown timer will **not**
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d5eb70428637ff8d4538b/file-AFD0Oa2A77.gif)It's important to note that your Countdown timer will **not**
 show up automatically in Preview mode, but it **will** show up on your
 published page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59271db62c7d3a074e8ad1fd/file-
-kwicKDaWnv.png)You can duplicate this Custom HTML element and add it to your
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/59271db62c7d3a074e8ad1fd/file-kwicKDaWnv.png)You can duplicate this Custom HTML element and add it to your
 page as many times as you like.
 
 **Please note** : If you are publishing a ClickFunnels page that has Deadline
@@ -110,8 +101,7 @@ Funnel tracking code on it to your WordPress site using the ClickFunnels
 plugin, you need to choose the "Download & Display" setting for "Page Display
 Method" in the ClickFunnels plugin settings:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941a27804286305c68d163c/file-
-GSejrTXqo3.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5941a27804286305c68d163c/file-GSejrTXqo3.png)
 
 Please let us know if you have any other questions at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

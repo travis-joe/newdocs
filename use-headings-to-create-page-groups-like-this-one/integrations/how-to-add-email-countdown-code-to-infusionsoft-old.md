@@ -1,19 +1,16 @@
 1\. In the Deadline Funnel admin, navigate to Edit your campaign > Email Setup > Email Timer Code and click on the HTML Code to copy it: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7e18d12c7d3a4a4198ffad/file-
-vUE1AEO3uw.png)2
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7e18d12c7d3a4a4198ffad/file-vUE1AEO3uw.png)2
 
     In your InfusionSoft email editor, choose the 'Snippets' tab and drag-and-drop the HTML snippet onto the email builder:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08bb0c6979156e4f1e31b/file-
-bXo03lRYgx.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08bb0c6979156e4f1e31b/file-bXo03lRYgx.png)
 
 3
 
     Copy and paste the Deadline Funnel HTML Image Code into the InfusionSoft HTML Snippet box and click 'Save':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08d74903360342852e78f/file-
-CopvSbNcYs.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c08d74903360342852e78f/file-CopvSbNcYs.png)
 
 4
 

@@ -77,8 +77,7 @@ based on when people optin.
 We recommend using Zapier to do this if possible:
 
 [How to Trigger a Countdown Upon Subscribe using
-Zapier](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-a-
-countdown-upon-subscribe-using-zapier)
+Zapier](https://documentation.deadlinefunnel.com/article/373-how-to-trigger-a-countdown-upon-subscribe-using-zapier)
 
 If Zapier is not an option with your ESP, you can use our Optin Form trigger:
 

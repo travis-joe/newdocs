@@ -42,14 +42,12 @@ create a new custom field, start typing into the box.
 Go ahead and name it "deadlinetext" if you're not sure what to call it. You
 can always change it later.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b467fc42c7d3a099f2e7370/file-
-lbqLR783BL.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b467fc42c7d3a099f2e7370/file-lbqLR783BL.png)
 
 
 4\. Copy your Deadline Funnel webhook: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4680590428630abc0bf8f8/file-
-GKWus6PvLV.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4680590428630abc0bf8f8/file-GKWus6PvLV.png)
 
 
 5\. Add a webhook action to your automation in ActiveCampaign: 
@@ -61,8 +59,7 @@ To add the webhook in the automation, click on the plus symbol, then choose
 Conditions and Workflow, and then click on Webhook and paste your Deadline
 Funnel webhook in.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595a76230428637ff8d4430d/file-
-fYyR57Iyug.gif)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/595a76230428637ff8d4430d/file-fYyR57Iyug.gif)
 
 Now the deadline will begin for each contact as soon as they reach that
 webhook in your automation.
@@ -88,8 +85,7 @@ correct deadline.
 
 You can time your reminder emails to be in sync with your leads' individual
 deadlines. We have a guide on [how to do that
-here](https://documentation.deadlinefunnel.com/article/689-how-to-time-your-
-activecampaign-emails-to-match-your-deadline)!
+here](https://documentation.deadlinefunnel.com/article/689-how-to-time-your-activecampaign-emails-to-match-your-deadline)!
 
 If you have any questions, send us a message in chat or email us at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

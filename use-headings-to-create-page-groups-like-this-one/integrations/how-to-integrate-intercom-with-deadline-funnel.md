@@ -1,13 +1,11 @@
 You will need to use Zapier to integrate Intercom with Deadline Funnel.
 
 **First** : Integrate your Deadline Funnel account with Zapier:  
-<https://documentation.deadlinefunnel.com/article/371-how-to-integrate-
-deadline-funnel-with-zapier>
+<https://documentation.deadlinefunnel.com/article/371-how-to-integrate-deadline-funnel-with-zapier>
 
 **Second** : integrate your Intercom account with Zapier. Intercom's
 instructions can be found here:  
-<https://docs.intercom.com/integrations/integrations-built-by-partners/zapier-
-integration>
+<https://docs.intercom.com/integrations/integrations-built-by-partners/zapier-integration>
 
 ## Video Tutorial:
 
@@ -15,44 +13,36 @@ integration>
 
 1\.  Make a Zap: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aac3821042863478ea79b5a/file-
-Jcz6BYdKeE.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aac3821042863478ea79b5a/file-Jcz6BYdKeE.png)
 
 
 2\. Select 'Intercom' as the Trigger App: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f07a0428631d7a8a129c/file-
-ApAUlaBZQQ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f07a0428631d7a8a129c/file-ApAUlaBZQQ.png)
 
 
 3\. Select 'New Conversation' as the Trigger then click 'Save + Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f08a2c7d3a03f89dccfd/file-
-mwYg5yB0dO.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f08a2c7d3a03f89dccfd/file-mwYg5yB0dO.png)
 
 
 4\. On the next screen click 'Test' and be sure you receive a 'Success' message: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0a80428631d7a8a129e/file-
-hVp23JXNiq.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0a80428631d7a8a129e/file-hVp23JXNiq.png)
 
 
 5\. On the next screen click 'Continue', then click 'Pull in Samples' to let Zapier pull sample data: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0ca2c7d3a03f89dcd06/file-
-grsOOHRYP3.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0ca2c7d3a03f89dcd06/file-grsOOHRYP3.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0f40428631d7a8a12ab/file-
-QnrALyHDUB.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f0f40428631d7a8a12ab/file-QnrALyHDUB.png)
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1210428631d7a8a12ac/file-
-MMHkZ4QD4X.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1210428631d7a8a12ac/file-MMHkZ4QD4X.png)
 
 
 6\. Next, choose Deadline Funnel for the 'Action App': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1172c7d3a03f89dcd0e/file-
-ggCEOg2L5r.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1172c7d3a03f89dcd0e/file-ggCEOg2L5r.png)
 
 
 7\. Click 'Start Deadline' then click 'Save + Continue': 
@@ -62,20 +52,17 @@ ggCEOg2L5r.png)
 
 8\. Confirm the correct Deadline Funnel account has been selected and click 'Save + Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1620428631d7a8a12b1/file-
-ENyPKHRyvi.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1620428631d7a8a12b1/file-ENyPKHRyvi.png)
 
 
 9\. Select the Deadline Funnel campaign you want to integrate and select the email field and click 'Continue': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1742c7d3a03f89dcd16/file-
-BIkAMDJzUO.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f1742c7d3a03f89dcd16/file-BIkAMDJzUO.png)
 
 
 10\. Click 'Send Test to Deadline Funnel’: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f18e0428631d7a8a12b2/file-
-pYwz17nkHB.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b75f18e0428631d7a8a12b2/file-pYwz17nkHB.png)
 
 
 10\. You should see a success message that tracking was sent to Deadline Funnel, then click 'Finish': 

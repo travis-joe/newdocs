@@ -49,15 +49,13 @@ help@deadlinefunnel.com. 🙂
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/591cbd6c2c7d3a057f892df2/file-8zvsK6ZBpR.png)After
 you've created your Deadline Funnel campaign, [set up the integration between
 Deadline Funnel and
-Actionetics](https://documentation.deadlinefunnel.com/article/337-how-to-
-integrate-deadline-funnel-with-actionetics).
+Actionetics](https://documentation.deadlinefunnel.com/article/337-how-to-integrate-deadline-funnel-with-actionetics).
 
 This integration determines where you start each subscriber's Deadline Funnel
 tracking as they are going through your automation.
 
 [View the integration guide
-here!](https://documentation.deadlinefunnel.com/article/337-how-to-integrate-
-deadline-funnel-with-actionetics)
+here!](https://documentation.deadlinefunnel.com/article/337-how-to-integrate-deadline-funnel-with-actionetics)
 
 ### 3\. Add Deadline Funnel email links to your automation
 

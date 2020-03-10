@@ -21,8 +21,7 @@ your Zap is currently connected to.
 
 Go to **Test This Step**  and click on **Re-test This Step** :
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7272e2c7d3a026fd4255e/file-
-vGgyo2wghV.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7272e2c7d3a026fd4255e/file-vGgyo2wghV.png)
 
 Then click on **Send Test to Deadline Funnel (Legacy)** :
 
@@ -40,29 +39,24 @@ Click on **Deadline Funnel (Legacy** ) under **Start Deadline**  in the left
 menu, and then type **Deadline Funnel**  into the text box in the middle and
 select **Deadline Funnel:**
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7326404286301e753d6ae/file-
-tQUXvuJjwU.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7326404286301e753d6ae/file-tQUXvuJjwU.png)
 
 ### 4\. Connect to Deadline Funnel
 
 Select the **Start Deadline**  action, and then **Save + Continue** :
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc732dd2c7d3a026fd425da/file-
-fnEuZb1Jna.png)Click **Connect an Account** :
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc732dd2c7d3a026fd425da/file-fnEuZb1Jna.png)Click **Connect an Account** :
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc732f104286301e753d6b1/file-
-mRaLDPmwjR.png)Click **Authorize** :
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc732f104286301e753d6b1/file-mRaLDPmwjR.png)Click **Authorize** :
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7335a04286301e753d6b7/file-
-EnCQLsjCG8.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7335a04286301e753d6b7/file-EnCQLsjCG8.png)
 
 ### 5\. Update your Zap
 
 Select your Deadline Funnel campaign by entering the promotion ID (from step
 2) or campaign name into the Promotion field shown in the screenshot below: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc733a52c7d3a026fd425df/file-
-EfhBC6ZPTp.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc733a52c7d3a026fd425df/file-EfhBC6ZPTp.png)
 
 Select the email address field from the app you are integrating with Deadline
 Funnel in this Zap:
@@ -70,8 +64,7 @@ Funnel in this Zap:
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc733fd2c7d3a026fd425e1/file-2FfKvpVxVp.png)Send
 a test to Deadline Funnel to verify the Zap is working:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7341d2c7d3a026fd425e2/file-
-ihRpvkYMGG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cc7341d2c7d3a026fd425e2/file-ihRpvkYMGG.png)
 
 Enable your Zap:
 

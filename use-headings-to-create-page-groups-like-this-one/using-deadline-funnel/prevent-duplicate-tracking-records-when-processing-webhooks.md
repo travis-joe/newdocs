@@ -3,8 +3,7 @@ Funnel.
 
 You can find this in your Deadline Funnel campaign >> Settings >> Advanced:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b1981a50428632c466aa991/file-
-uwgHWORSVI.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b1981a50428632c466aa991/file-uwgHWORSVI.png)
 
 ###  Possible scenarios:
 

@@ -2,8 +2,7 @@ In the Email Setup tab you can find code to create an  **animated countdown
 timer**  and also use email links for your emails in your Deadline Funnel
 campaign.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c894d140428633d2cf38e75/file-
-kq6mm9gNUI.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c894d140428633d2cf38e75/file-kq6mm9gNUI.png)
 
 ## How to Increase Probability that Your Images Will Be Seen By Your
 Subscribers
@@ -36,8 +35,7 @@ guide.
 Another example we found quickly is the article provided by email software
 Drip:
 
-<https://help.drip.com/hc/en-us/articles/115003729911-Set-Up-a-Custom-Sending-
-Domain>
+<https://help.drip.com/hc/en-us/articles/115003729911-Set-Up-a-Custom-Sending-Domain>
 
 Contact your email software provider for information on how best to do this.
 

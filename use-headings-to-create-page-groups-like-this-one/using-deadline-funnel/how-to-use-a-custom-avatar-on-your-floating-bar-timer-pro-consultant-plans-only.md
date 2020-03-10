@@ -21,8 +21,7 @@ then click 'Crop Image':
 And now you'll see your custom avatar in the left hand corner of the floating
 bar timer:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce43bed2c7d3a6d82bdc906/file-
-mqReoNbRBn.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce43bed2c7d3a6d82bdc906/file-mqReoNbRBn.png)
 
 If at any time you want to change your avatar, you can click the 'Edit'
 button, to either upload a new image or switch to another image you've already

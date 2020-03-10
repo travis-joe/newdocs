@@ -16,8 +16,7 @@ You can do that by going to **Edit your campaign >> Funnel Steps**:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cbda04286364bc952c64/file-8wXvlAFVaO.png)
 
-In this example, we've created a funnel step for **<https://test.com/special-
-offer-page>** , where the floating bar is displayed for our campaign.
+In this example, we've created a funnel step for **<https://test.com/special-offer-page>** , where the floating bar is displayed for our campaign.
 
 After each subscriber's deadline is expired, they will be automatically
 redirected to  **<https://test.com/expired>**.
@@ -41,8 +40,7 @@ it in your emails anywhere that you want to link to your special offer page.
 
 ## 3\. Add the Deadline Funnel email links to your emails
 
-In our example, our special offer page is **<https://test.com/special-offer-
-page>.**
+In our example, our special offer page is **<https://test.com/special-offer-page>.**
 
 So anywhere that we want to link to **<https://test.com/special-offer-page>**
 , we'll use the Deadline Funnel email link instead.
@@ -64,8 +62,7 @@ page.
 If you have already copied a Deadline Funnel email link into your email(s),
 you can update where that link redirects to by editing the funnel step:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cc672c7d3a7e9ae79211/file-
-EGZin8EN5i.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cc672c7d3a7e9ae79211/file-EGZin8EN5i.png)
 
 ###  Can I create an email link for a content page or blog post without
 displaying a timer on that page?
@@ -73,12 +70,10 @@ displaying a timer on that page?
 Yes! Just create a funnel step for that blog post, select "don't display a
 timer," and don't add a redirect for after the deadline:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cdc42c7d3a7e9ae79226/file-
-EHkUn3UFeg.png)Now you can copy the Deadline Funnel email link for that blog
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cdc42c7d3a7e9ae79226/file-EHkUn3UFeg.png)Now you can copy the Deadline Funnel email link for that blog
 post:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cdf92c7d3a7e9ae7922a/file-
-DaJ78CUUkI.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cdf92c7d3a7e9ae7922a/file-DaJ78CUUkI.png)
 
 ### What if I'm using an email platform that is not listed in your
 integrations?

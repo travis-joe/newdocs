@@ -33,8 +33,7 @@ follow-up emails, click to get a 'fresh' copy of the image URL.
 For example, here is the Email Timer Code that I can include in my Day 1
 email:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9468ef042863534055978f/file-
-cP2vQjy2xc.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9468ef042863534055978f/file-cP2vQjy2xc.png)
 
 Here is the URL for Day 2, that was created the second time I clicked 'Copy':
 
@@ -74,8 +73,7 @@ by copying the Image URL from Edit your Campaign << Email Setup, removing the
 email address portion at the end and pasting that into a new web browser. Be
 sure to **remove the question mark and everything that follows**.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9469782c7d3a54cdfcd117/file-
-XZfVj5NA6z.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9469782c7d3a54cdfcd117/file-XZfVj5NA6z.png)
 
 **If you are viewing the email in Outlook** , you'll notice that you see the
 correct time but the countdown isn't animated. This is because Outlook does

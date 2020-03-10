@@ -20,8 +20,7 @@ therefore, when they end.
 
 Deadline Funnel software integrates very closely with many email service
 providers like Infusionsoft, ActiveCampaign, Drip, ConvertKit, OntraPort, and
-[others](http://documentation.deadlinefunnel.com/category/239-api-
-integrations). This kind of connection is called an "API" connection. If
+[others](http://documentation.deadlinefunnel.com/category/239-api-integrations). This kind of connection is called an "API" connection. If
 you're using one of these or you are using Zapier, using the logic inside your
 email service will work for you.
 
@@ -39,8 +38,7 @@ your email software's support system, please contact us and we'll help you.
 The second option is to use the hybrid deadline type.
 
 [Here's a guide with more
-info.](https://documentation.deadlinefunnel.com/article/528-how-to-choose-a-
-campaign-type#hybrid)  
+info.](https://documentation.deadlinefunnel.com/article/528-how-to-choose-a-campaign-type#hybrid)  
 
 ## Which one should you choose:
 

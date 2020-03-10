@@ -3,8 +3,7 @@
     In the Deadline Funnel admin, navigate to Edit Your Campaign > Funnel Steps and click the Edit Appearance button next to your Inline Timer funnel step:
     
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cb8b0de2c7d3a026fd3cbc4/file-
-RqYq4NoCW7.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cb8b0de2c7d3a026fd3cbc4/file-RqYq4NoCW7.png)
 
 2
 
@@ -18,8 +17,7 @@ RqYq4NoCW7.png)
     You can adjust to the size you like here:
     
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cb8b1ef2c7d3a026fd3cbd5/file-
-Xrv92efalm.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5cb8b1ef2c7d3a026fd3cbd5/file-Xrv92efalm.png)
 
 Once you've adjusted the size, hit 'Continue' and then 'Save and Exit' on the
 next screen to save your changes.

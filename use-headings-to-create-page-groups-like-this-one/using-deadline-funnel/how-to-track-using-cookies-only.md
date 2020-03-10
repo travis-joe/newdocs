@@ -33,8 +33,7 @@ point forward, even if they go to Starbucks and read your next email on their
 iPhone, Deadline Funnel will find the cookie, even though the IP address has
 changed.
 
-So tracking visitors using both cookie and IP address is extremely powerful -
-but you do have the option to turn it off if you want.
+So tracking visitors using both cookie and IP address is extremely powerful -but you do have the option to turn it off if you want.
 
 If you have any questions, please let us know at
 [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

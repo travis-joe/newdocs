@@ -10,34 +10,29 @@ instantly trigger your campaign for those specific email(s).
 
      Navigate to Deadline Funnel >> Event Tracking. You will keep this window open to paste your leads into. 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1fc2c7d3a5cd38e9525/file-
-bPnX7XQhb7.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1fc2c7d3a5cd38e9525/file-bPnX7XQhb7.jpg)
 
 From here you can select to import your leads. Keep this box handy for the
 next few steps.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1e72c7d3a5cd38e9520/file-
-sC8gJWa81G.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1e72c7d3a5cd38e9520/file-sC8gJWa81G.jpg)
 
 2
 
      In a new tab or window, navigate to MailChimp and log in. Go to "Audience" in the top menu and find the list of contacts you wish to manually trigger in Deadline Funnel.   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1d104286369ad8d3399/file-
-sVhjTvE95p.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce1d104286369ad8d3399/file-sVhjTvE95p.jpg)
 
 3
 
      Once you are viewing the audience you want to copy into Deadline Funnel, you will need to export the Audience. Download this file.   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2382c7d3a5cd38e952c/file-
-jUKGweO0TM.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2382c7d3a5cd38e952c/file-jUKGweO0TM.jpg)
 
 When you click to export the list, MailChimp may take a few minutes to
 generate the export file for you:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce25a04286369ad8d33a6/file-
-IhrzqQ3V3C.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce25a04286369ad8d33a6/file-IhrzqQ3V3C.jpg)
 
 You should get a confirmation that the file has downloaded after clicking the
 button below:
@@ -48,27 +43,23 @@ button below:
 
      After you download the export file and export the .csv file (comma-separated value/spreadsheet file), you will want to open this with your favorite spreadsheet editing software and copy the email address column contents. In this example, we used Google Sheets.   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce28404286369ad8d33aa/file-
-TEMG4Z524y.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce28404286369ad8d33aa/file-TEMG4Z524y.jpg)
 
 Alternatively you may use Command/Control + C on your keyboard to copy these
 values:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2a804286369ad8d33ad/file-
-uR40jXxhCL.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2a804286369ad8d33ad/file-uR40jXxhCL.jpg)
 
 5
 
      Navigate back to Deadline Funnel >> Event Tracking. Paste this list using the "Import Tracking Events" button:   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2be04286369ad8d33ae/file-
-hrKvtfQp94.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2be04286369ad8d33ae/file-hrKvtfQp94.jpg)
 
 Verify that the emails are added in the "Tracking Started" section and that
 the new tracking dates appear to be correct.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2e22c7d3a5cd38e953f/file-
-or0AE3EOef.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce2e22c7d3a5cd38e953f/file-or0AE3EOef.jpg)
 
 **It is important to note that tracking starts immediately when using this
 method.** If you want to follow a schedule for importing leads instead, you
@@ -96,8 +87,7 @@ Mailchimp allows us to trigger subscribers with a tag applied to them.
 
      Set the MailChimp Settings in Zapier:   
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce3592c7d3a5cd38e9547/file-
-budOtVXQKF.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1ce3592c7d3a5cd38e9547/file-budOtVXQKF.jpg)
 
 4
 

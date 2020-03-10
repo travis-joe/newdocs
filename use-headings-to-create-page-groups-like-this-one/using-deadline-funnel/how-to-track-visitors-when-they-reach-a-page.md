@@ -40,8 +40,7 @@ redirected if tracking is already found.
 You can find the tracking pixel by navigating to Edit Campaign > Settings >
 Advanced:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a847f522c7d3a4a41991ec9/file-
-IQRdtJ8SWW.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a847f522c7d3a4a41991ec9/file-IQRdtJ8SWW.png)
 
 ##  "Why might I NOT want the countdown to show right away?"
 

@@ -16,15 +16,13 @@ trigger your campaign for those specific email(s).
 
      Then click the 'Import tracking events' button: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6a610428631126f1b002/file-
-xF7sgT5nZ5.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6a610428631126f1b002/file-xF7sgT5nZ5.png)
 
 3
 
      Add the emails for the lead(s) you want to add to your Deadline Funnel Campaign and click 'Import tracking events': 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6aa10428631126f1b007/file-
-ZZJETtSVcQ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aeb6aa10428631126f1b007/file-ZZJETtSVcQ.png)
 
 4
 

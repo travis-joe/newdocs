@@ -6,14 +6,12 @@ deadline to match that.
 To use this feature, go into the Settings tab and find the option to Exclude
 Days:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bcf55ec042863215a46bd32/file-
-SXTiaH0g2C.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bcf55ec042863215a46bd32/file-SXTiaH0g2C.png)
 
 A dropdown will appear and you can select any day of the week that you wish to
 exclude from your funnel:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bcf56372c7d3a4db66087c8/file-
-CHJca7yoVX.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bcf56372c7d3a4db66087c8/file-CHJca7yoVX.png)
 
 You can select multiple days at a time:
 

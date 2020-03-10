@@ -40,8 +40,7 @@ tracking on your platform.
 
      Visit 'Event Tracking' and click 'Start Setup' under Sales Tracking: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aec80f62c7d3a3f981f43c9/file-
-yP0fBqBG8v.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aec80f62c7d3a3f981f43c9/file-yP0fBqBG8v.png)
 
 2
 
@@ -67,43 +66,37 @@ yP0fBqBG8v.png)
 
      In Zapier, create a new Zap and select the application that will send your purchase information to Deadline Funnel: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca5e42c7d3a01757abfed/file-
-uYSE3N7Uss.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca5e42c7d3a01757abfed/file-uYSE3N7Uss.png)
 
 2
 
      Select 'New Purchase' as the app Trigger: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca62b04286356f0a563cc/file-
-hX8az6YTlA.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca62b04286356f0a563cc/file-hX8az6YTlA.png)
 
 3
 
      Choose Deadline Funnel as the Action App: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca68f2c7d3a01757abffa/file-
-acFKhhKVAq.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca68f2c7d3a01757abffa/file-acFKhhKVAq.png)
 
 4
 
      Select 'Track Purchase' for the Deadline Funnel Action: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca6be2c7d3a01757abfff/file-
-CXesksan2e.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca6be2c7d3a01757abfff/file-CXesksan2e.png)
 
 5
 
      Complete the details for your Deadline Funnel purchase tracking, 1) select the correct Deadline Funnel campaign, 2) Select the field to capture the email, 3) set the currency for your sales, and 4) set the value of each sale: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca73f2c7d3a01757ac004/file-
-kbxttGdFdv.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca73f2c7d3a01757ac004/file-kbxttGdFdv.png)
 
 6
 
      Send a test purchase to Deadline Funnel to confirm that your sales tracking is working correctly: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca7b304286356f0a563e4/file-
-fgP6reNSST.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bdca7b304286356f0a563e4/file-fgP6reNSST.png)
 
 7
 

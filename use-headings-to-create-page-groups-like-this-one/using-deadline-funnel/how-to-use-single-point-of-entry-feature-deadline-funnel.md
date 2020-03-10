@@ -23,8 +23,7 @@ set up.
 
      In 'Edit Campaign' navigate to Settings >> Advanced, and click to turn **on** the 'Redirect untracked visitors to optin page' feature: 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85c2f70428634376d02bc8/file-
-dgXrXKxRKi.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85c2f70428634376d02bc8/file-dgXrXKxRKi.png)
 
 2
 
@@ -38,8 +37,7 @@ dgXrXKxRKi.png)
      1\.  Add the Deadline Funnel tracking code to **each page** you want to redirect if the visitor is not being tracked 
      2\.  Add **each page** that you want to redirect to the Funnel Steps as an inline countdown or floating bar 
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85c3992c7d3a4a41992900/file-
-GXjiUMs4Fh.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a85c3992c7d3a4a41992900/file-GXjiUMs4Fh.png)
 
 That's it! You're all set. Now if someone lands on a page that is in the
 middle of your funnel sequence and Deadline Funnel realizes they are not being

@@ -3,13 +3,11 @@ reaches zero WITHOUT re-directing to an AFTER deadline page.
 
 To accomplish this, simply don't add an 'After' URL to your funnel steps:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c786b532c7d3a0cb9321831/file-
-bSUr2f41rY.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c786b532c7d3a0cb9321831/file-bSUr2f41rY.png)
 
 Your funnel step page will **not** redirect when the timer expires:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c786b5f04286350d088818f/file-
-FBZePHwQmJ.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c786b5f04286350d088818f/file-FBZePHwQmJ.png)
 
 ## Advanced Options:
 

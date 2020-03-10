@@ -2,8 +2,7 @@
 
 ## Introduction
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e310a2c7d3a2ec4bef1a6/file-
-MDbFOY9GIE.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e310a2c7d3a2ec4bef1a6/file-MDbFOY9GIE.png)
 
 The goal for this guide is to give you a quick overview of our Live Editor,
 which can be found under Edit Your Campaign > Appearance.
@@ -26,8 +25,7 @@ help@deadlinefunnel.com. 🙂
 
 ### 1\. Template
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce4397c2c7d3a6d82bdc8d0/file-
-Cbbb6sqgfn.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce4397c2c7d3a6d82bdc8d0/file-Cbbb6sqgfn.png)
 
 You can select the Base of your bar by clicking 'Select A Base', and once
 you've chosen the base that you like you can hit 'Save Selection':
@@ -45,8 +43,7 @@ Bold, Subtle, and Medium:
 Or you can do the Custom Color option, which allows you to use HEX codes to
 match your personal branding:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce439c52c7d3a6d82bdc8d3/file-
-spJgxts7LN.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce439c52c7d3a6d82bdc8d3/file-spJgxts7LN.png)
 
 Once you're happy with your color selection, you can hit 'Continue'.
 
@@ -55,11 +52,9 @@ Once you're happy with your color selection, you can hit 'Continue'.
 The final tab in this section is 'Add Custom Avatar'. **Please note:** This
 feature is only available if you are on the Professional or Consultant plan.
 If you would like to learn more about how it works, [click
-here](https://documentation.deadlinefunnel.com/article/671-how-to-use-a-
-custom-avatar-on-your-floating-bar-timer-pro-consultant-plans-only).
+here](https://documentation.deadlinefunnel.com/article/671-how-to-use-a-custom-avatar-on-your-floating-bar-timer-pro-consultant-plans-only).
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce43bed2c7d3a6d82bdc906/file-
-mqReoNbRBn.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce43bed2c7d3a6d82bdc906/file-mqReoNbRBn.png)
 
 And finally, you can choose to enable the Full-Width Bar at the bottom of this
 screen:
@@ -77,8 +72,7 @@ to link to. Once you're satisfied with this, you can hit 'Continue'.
 
 ### 3\. Placement
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c6499022c7d3a66e32e6b48/file-
-soWkLlLYrG.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c6499022c7d3a66e32e6b48/file-soWkLlLYrG.png)
 
 The Placement tab is where you can control both the position of the timer, and
 the size of it.
@@ -102,13 +96,11 @@ Give the preset a name and then hit 'Create':
 
 And now you'll see it populate as a preset:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e3377042863478674f988/file-
-Yt4KNcmU3O.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e3377042863478674f988/file-Yt4KNcmU3O.png)
 
 You can also create multiple presets:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e33a1042863478674f98a/file-
-RpZ2dISivb.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d2e33a1042863478674f98a/file-RpZ2dISivb.png)
 
 If you switch to a different campaign, you'll see all of your presets listed
 here, so you can quickly apply them to different pages. You can also edit the
@@ -117,32 +109,27 @@ the name.
 
 ## Settings
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4aec2c7d3a7e9ae35c60/file-
-NFPx1waeWE.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4aec2c7d3a7e9ae35c60/file-NFPx1waeWE.jpg)
 
 In the Settings tab you can set a delay for when the timer will pop up on the
 page, as well as disable the Deadline Funnel logo:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4c7304286364bc9132fd/file-
-UOU0ErB1NC.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4c7304286364bc9132fd/file-UOU0ErB1NC.jpg)
 
 **Please note:** The option to turn off the Deadline Funnel logo is only
 available to those with a Professional Plan or higher - But, if the branding
-is enabled, it links out to Deadline Funnel using your [tell-a-
-friend](https://deadlinefunnel.com/referrals) link so that you can receive a
+is enabled, it links out to Deadline Funnel using your [tell-a-friend](https://deadlinefunnel.com/referrals) link so that you can receive a
 commission if someone signs up and becomes an active user of Deadline Funnel.
 :)
 
 You can also enable or disable the option for people to hide the Floating Bar
 on your page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4cbc04286364bc913302/file-
-EFQO5vCfA2.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4cbc04286364bc913302/file-EFQO5vCfA2.jpg)
 
 And enable or disable ' Maximize on Mobile':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4dfb04286364bc91332b/file-
-rPXvXTj6mh.jpg)You may also show or hide the "days", "hours", and "seconds"
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4dfb04286364bc91332b/file-rPXvXTj6mh.jpg)You may also show or hide the "days", "hours", and "seconds"
 counters in the floating bar:
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc51362c7d3a7e9ae35d10/file-O1TCXDoC59.jpg)
@@ -183,8 +170,7 @@ Under Settings you can enable 'Maximize on Mobile', which allows you to have
 the full bar with text automatically displayed when people first land on the
 page:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4dfb04286364bc91332b/file-
-rPXvXTj6mh.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4dfb04286364bc91332b/file-rPXvXTj6mh.jpg)
 
 Once they start to scroll down the page, it will collapse into the smaller
 Floating Bar.
@@ -206,15 +192,13 @@ You can disable the CTA button under Appearance > Content:
 
 **Please note:** The option to turn off the Deadline Funnel logo is only
 available to those with a Professional Plan or higher - But, if the branding
-is enabled, it links out to Deadline Funnel using your [tell-a-
-friend](https://deadlinefunnel.com/referrals) link so that you can receive a
+is enabled, it links out to Deadline Funnel using your [tell-a-friend](https://deadlinefunnel.com/referrals) link so that you can receive a
 commission if someone signs up and becomes an active user of Deadline Funnel.
 :)
 
 You can disable the Deadline Funnel logo in the Settings tab:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4c7304286364bc9132fd/file-
-UOU0ErB1NC.jpg)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dbc4c7304286364bc9132fd/file-UOU0ErB1NC.jpg)
 
 #### How do I see what timer looks like on other pages?
 
@@ -224,8 +208,7 @@ your pages inside of the Live Editor. To navigate between them, just click on
 the URL at the top and a dropdown will appear with all of your Funnel Step
 URLs:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c64ab1f2c7d3a66e32e6c00/file-
-iIek40Ypoe.png)
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c64ab1f2c7d3a66e32e6c00/file-iIek40Ypoe.png)
 
 #### Can I have a custom Floating Bar for each Funnel Step in my campaign?
 

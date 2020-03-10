@@ -5,5 +5,5 @@ structure:
     summary: SUMMARY.md
 
 redirects:  
-    article/10-custom-urls: ./use-headings-to-create-page-groups-like-this-one/using-deadline-funnel/custom-urls.md
+    article/10-custom-urls: ./kb/using-deadline-funnel/custom-urls.md
     help/contact: ./contact.md

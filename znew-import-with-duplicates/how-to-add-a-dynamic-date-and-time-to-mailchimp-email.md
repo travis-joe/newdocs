@@ -8,15 +8,15 @@ If you want to add an animated countdown timer into your MailChimp email you can
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc8b905042863158cc79867/file-cCiL9dDxPy.png)
 
-2. Scroll down and select your Deadline Funnel custom field that you used for your API integration \(we named ours 'deadlinetext'\):
+1. Scroll down and select your Deadline Funnel custom field that you used for your API integration \(we named ours 'deadlinetext'\):
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc8b9312c7d3a04dd5bd976/file-mNabYbN1DP.png)
 
-3. This will insert your custom field placeholder into your email:
+1. This will insert your custom field placeholder into your email:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc8b9712c7d3a04dd5bd97a/file-JROUtx4Zjo.png)
 
-4. When you send yourself the email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. **NOTE** : You must send an actual email, the placeholder will not be replaced in a test message. You can send the email to yourself to test the delivery.
+1. When you send yourself the email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. **NOTE** : You must send an actual email, the placeholder will not be replaced in a test message. You can send the email to yourself to test the delivery.
 
 If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).
 

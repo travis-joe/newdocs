@@ -8,15 +8,15 @@ If you want to add an animated countdown timer into your Drip email you can foll
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a21d8070428637405653fa4/file-LPT1q5KuSZ.png)
 
-2. Scroll down and select your Deadline Funnel custom subscriber field that you selected when you set up your API integration \(we named ours 'deadlinetext'\), and click 'Insert':
+1. Scroll down and select your Deadline Funnel custom subscriber field that you selected when you set up your API integration \(we named ours 'deadlinetext'\), and click 'Insert':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a21d8650428637405653fa8/file-9nLhQ1mtyT.png)
 
-3. This will insert your custom field placeholder into your email:
+1. This will insert your custom field placeholder into your email:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59d68ee62c7d3a40f0ed3b45/file-L1LQJIpxNU.png)
 
-4. When you send yourself the email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. NOTE: You must send the actual email, the placeholder will not be replaced in a test message. You can send the message to yourself to test the delivery.
+1. When you send yourself the email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. NOTE: You must send the actual email, the placeholder will not be replaced in a test message. You can send the message to yourself to test the delivery.
 
 If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).
 

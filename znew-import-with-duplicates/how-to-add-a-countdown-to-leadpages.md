@@ -31,15 +31,15 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea1e1c6979160ca144f10/file-mkH4M2I3jw.png)
 
-2. Navigate to Funnel Steps to add a new page, then add your Leadpages URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
+1. Navigate to Funnel Steps to add a new page, then add your Leadpages URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-3. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
+1. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
-4. Then paste the Deadline Funnel tracking code into the 'Head Section Tracking Code' under Tracking &gt; Analytics settings of your Leadpage and click 'Save': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a983c0904286374f70875aa/file-sQ2C2lbKyq.png)
+1. Then paste the Deadline Funnel tracking code into the 'Head Section Tracking Code' under Tracking &gt; Analytics settings of your Leadpage and click 'Save': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a983c0904286374f70875aa/file-sQ2C2lbKyq.png)
 
 You can now view your Leadpage to see your Floating Bar countdown timer.
 
@@ -51,15 +51,15 @@ Complete step "4" in the section above, and then:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Navigate to the Leadpages Editor and click on the 'Widgets' icon to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
+1. Navigate to the Leadpages Editor and click on the 'Widgets' icon to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d20010428637ff8d450e1/file-wxjOyOlduP.gif)
 
-3. Paste the Inline code from Deadline Funnel here and hit 'Save'. Then Click 'Update' to update your Leadpage:
+1. Paste the Inline code from Deadline Funnel here and hit 'Save'. Then Click 'Update' to update your Leadpage:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea7c49033602936036f1a/file-36DLBmtHmN.png)
 
-4. Preview your page and you will see your countdown:
+1. Preview your page and you will see your countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea8909033602936036f23/file-SZYioYAkDD.png)
 

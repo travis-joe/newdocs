@@ -16,11 +16,11 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ce5c4cb04286340b8fa74a7/file-miVGnjnr9p.png)
 
-2. Go into your Webflow account, navigate to Project Settings &gt; Custom Code, and paste the Deadline Funnel Tracking Code into the Header box:
+1. Go into your Webflow account, navigate to Project Settings &gt; Custom Code, and paste the Deadline Funnel Tracking Code into the Header box:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0bf6080428632b73117467/file-wu6CnIJMfK.png)
 
-3. Now navigate back to Deadline Funnel and go into Edit Your Campaign &gt; Funnel Steps. Click 'Add New Page' at the top and paste the URL of your Webflow page into the 'Before the Deadline' box. You can also add a redirect URL here, if you want to send people away from the replay after the deadline has expired:
+1. Now navigate back to Deadline Funnel and go into Edit Your Campaign &gt; Funnel Steps. Click 'Add New Page' at the top and paste the URL of your Webflow page into the 'Before the Deadline' box. You can also add a redirect URL here, if you want to send people away from the replay after the deadline has expired:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d0bf7262c7d3a2f293436ce/file-Ziizn5I9e0.png)
 

@@ -1,4 +1,4 @@
-# Re-Integrate with Infusionsoft \(newimport/API\)
+# Re-Integrate with Infusionsoft \(API\)
 
 To start, make sure you're editing a campaign that's been connected to your Infusionsoft account. Navigate to API Integrations in the left menu, then click "I need to create a new API connection":
 

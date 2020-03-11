@@ -27,23 +27,23 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939d2b04286364bc8fcb1e/file-CGsNZ2BYkD.jpg)
 
-2. Navigate to Funnel Steps to add a new page, then add your Wix URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
+1. Navigate to Funnel Steps to add a new page, then add your Wix URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-3. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
+1. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
-4. Then navigate to your Wix Site Dashboard &gt;&gt; Settings:
+1. Then navigate to your Wix Site Dashboard &gt;&gt; Settings:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939e782c7d3a7e9ae1e00d/file-DCCQxmebyz.jpg)
 
-4. Using the same sidebar, navigate to Tracking & Analytics &gt;&gt; New Tool &gt;&gt; Custom:
+1. Using the same sidebar, navigate to Tracking & Analytics &gt;&gt; New Tool &gt;&gt; Custom:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d939fe72c7d3a7e9ae1e020/file-w3L8j6xpmq.jpg)
 
-4. Paste the Deadline Funnel tracking code into the code snippet box, and load it into the header area of all pages on your site:
+1. Paste the Deadline Funnel tracking code into the code snippet box, and load it into the header area of all pages on your site:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d93a0252c7d3a7e9ae1e027/file-xnEKXZKDBR.jpg)
 

@@ -27,15 +27,15 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d83979a2c7d3a7e9ae15f57/file-WMohJvY5EP.jpg)
 
-2. Navigate to Funnel Steps to add a new page, then add your Weebly URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
+1. Navigate to Funnel Steps to add a new page, then add your Weebly URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-3. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
+1. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
-4. Then paste the Deadline Funnel tracking code into the "Settings &gt;&gt; SEO &gt;&gt; Header Code" are of your Weebly page and click 'Save':
+1. Then paste the Deadline Funnel tracking code into the "Settings &gt;&gt; SEO &gt;&gt; Header Code" are of your Weebly page and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d8397b204286364bc8f520e/file-HWYrhq4Ii6.jpg)
 
@@ -47,15 +47,15 @@ You can now view your Weebly page to see your Floating Bar countdown timer.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Navigate to the Weebly Editor and click on the 'Embed Code' icon to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
+1. Navigate to the Weebly Editor and click on the 'Embed Code' icon to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d839aa704286364bc8f5231/file-grd9z5yDgG.gif)
 
-3. Paste the Inline code from Deadline Funnel here and click out of the widget to finalize that addition. Then click 'Update' or 'Publish' to update your Weebly page:
+1. Paste the Inline code from Deadline Funnel here and click out of the widget to finalize that addition. Then click 'Update' or 'Publish' to update your Weebly page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d83979a2c7d3a7e9ae15f57/file-WMohJvY5EP.jpg)
 
-4. Preview your page and you will see your countdown:
+1. Preview your page and you will see your countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea8909033602936036f23/file-SZYioYAkDD.png)
 

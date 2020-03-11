@@ -1,4 +1,4 @@
-# How to Integrate AWeber with Deadline Funnel \(newimport/API\)
+# How to Integrate AWeber with Deadline Funnel \(API\)
 
 Using our API Integration with AWeber, you can trigger your countdown based on when someone subscribes to a specific list in your AWeber account.
 
@@ -33,7 +33,6 @@ Once you’ve successfully connected your accounts, you will be taken to this pa
 On this page you will do two things:
 
 1. Select the list in AWeber that you want to integrate with
-
 2. Select the custom field that you want to use to store each lead's deadline. If you want to create a new field, just type the name into the box and hit enter to create the new custom field:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c118e692c7d3a31944f0f28/file-QdRWiConHU.png)

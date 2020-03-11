@@ -1,2 +1,2 @@
-# Frequently Asked Questions \(newimport/FAQs\)
+# Frequently Asked Questions \(FAQs\)
 

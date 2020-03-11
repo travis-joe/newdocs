@@ -7,12 +7,9 @@ The Pre-Launch feature allows you to control which pages people will see dependi
 Pre-Launch is a great option when you want to set up a three-part campaign.
 
 1. Pre-access page people will only have access to before their deadline starts \(i.e. an optin page\)
-
 2. Special offer page that subscribers will only have access to once their DF tracking starts
-
 3. After URL that they will get redirected to once their deadline expires
-
-1. In 'Edit Campaign' navigate to Settings and find the Pre-Launch setting just below where you set the length of the deadline: 
+4. In 'Edit Campaign' navigate to Settings and find the Pre-Launch setting just below where you set the length of the deadline:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5be083592c7d3a01757acea9/file-bgyPIDaAxl.png)
 

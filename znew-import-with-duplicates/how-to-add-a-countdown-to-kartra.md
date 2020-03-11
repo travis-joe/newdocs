@@ -4,23 +4,23 @@
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c7478b904286350d08857c9/file-BieT1BNZ80.png)
 
-2. In your Kartra landing page editor, click 'Settings' &gt;&gt; 'Tracking Code':
+1. In your Kartra landing page editor, click 'Settings' &gt;&gt; 'Tracking Code':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d820042863478ea7c407/file-uVV8g34yIN.png)
 
-3. Paste your Deadline Funnel tracking code into the 'Body' section and click 'Apply':
+1. Paste your Deadline Funnel tracking code into the 'Body' section and click 'Apply':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0c7a42c7d3a04dd5b9a1b/file-tmnkGi62HS.png)
 
-4. Click 'Actions' &gt;&gt; 'Save progress', then click 'Actions' &gt;&gt; 'Publish live' to save your changes and copy your page URL:
+1. Click 'Actions' &gt;&gt; 'Save progress', then click 'Actions' &gt;&gt; 'Publish live' to save your changes and copy your page URL:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-pWZD2euDvv.png)
 
-5. Return to Deadline Funnel and navigate to 'Funnel Steps', then add the published URL to your Funnel Steps, select 'Display a floating bar', add a redirect URL, and click 'Save':
+1. Return to Deadline Funnel and navigate to 'Funnel Steps', then add the published URL to your Funnel Steps, select 'Display a floating bar', add a redirect URL, and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-6. When you refresh your published page, you will now see your floating bar timer.
+1. When you refresh your published page, you will now see your floating bar timer.
 
 ## Using an Inline Countdown on Kartra:
 
@@ -30,15 +30,15 @@ If you are using the Inline Countdown type, you must complete these additional s
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. In the editor for your Landing Page, click on "Your Code" and drag a code element onto your page:
+1. In the editor for your Landing Page, click on "Your Code" and drag a code element onto your page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2da712c7d3a56d8873210/file-9h5qj7eoUU.png)
 
-3. Paste your Deadline Funnel HTML snippet into the code element between the existing Kartra div code:
+1. Paste your Deadline Funnel HTML snippet into the code element between the existing Kartra div code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2da98042863478ea7c422/file-4l3yBQKnsq.png)This is the code that should be in that element:
 
-4. Click 'Actions' &gt;&gt; 'Save progress', then click 'Actions' &gt;&gt; 'Publish live' to save your changes:
+1. Click 'Actions' &gt;&gt; 'Save progress', then click 'Actions' &gt;&gt; 'Publish live' to save your changes:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ab2d88c042863478ea7c40d/file-pWZD2euDvv.png)
 

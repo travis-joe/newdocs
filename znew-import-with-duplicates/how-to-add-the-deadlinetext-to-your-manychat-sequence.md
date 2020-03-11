@@ -11,7 +11,7 @@ The goal of this article is to show you how you can use the Custom Field you sel
 1
 
 ```text
-Navigate to your sequence in ManyChat and select the text where you want to dynamically add the date and time of the deadline, then click on the "{ }" symbol and select the Custom Field you chose for your integration:  
+Navigate to your sequence in ManyChat and select the text where you want to dynamically add the date and time of the deadline, then click on the "{ }" symbol and select the Custom Field you chose for your integration:
 ```
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd77ccc04286356f0a53245/file-EZXbvQ34EM.png)

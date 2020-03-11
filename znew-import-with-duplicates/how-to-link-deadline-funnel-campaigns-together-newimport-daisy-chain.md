@@ -1,2 +1,2 @@
-# How to Link Deadline Funnel Campaigns Together \(newimport/Daisy-Chain\)
+# How to Link Deadline Funnel Campaigns Together \(Daisy-Chain\)
 

@@ -242,7 +242,6 @@
 * [Frequently Asked Questions \(FAQs\)](znew-import-with-duplicates/frequently-asked-questions-newimport-faqs.md)
 * [How to Copy the Optin Form Code for HubSpot](znew-import-with-duplicates/how-to-copy-the-optin-form-code-for-hubspot.md)
 * [How to Add a Survey Title](znew-import-with-duplicates/how-to-add-a-survey-title.md)
-* [How to add a Video to your Survey Optin](znew-import-with-duplicates/how-to-add-a-video-to-your-survey-optin.md)
 * [How to Rename Your Survey](znew-import-with-duplicates/how-to-rename-your-survey.md)
 * [How to Create a Graphic without Uploading Any Images](znew-import-with-duplicates/how-to-create-a-graphic-without-uploading-any-images.md)
 * [How to format text on your product graphic](znew-import-with-duplicates/how-to-format-text-on-your-product-graphic.md)
@@ -519,3 +518,4 @@
 * [How to Add an Email Timer to Sendlane](znew-import-with-duplicates/how-to-add-an-email-timer-to-sendlane.md)
 * [How to add the Email Countdown Code to Moosend](znew-import-with-duplicates/how-to-add-the-email-countdown-code-to-moosend.md)
 * [How to Integrate Deadline Funnel and Moosend](znew-import-with-duplicates/how-to-integrate-deadline-funnel-and-moosend.md)
+

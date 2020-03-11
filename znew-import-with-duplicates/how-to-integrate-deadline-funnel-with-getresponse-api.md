@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with Getresponse \(newimport/API\)
+# How to Integrate Deadline Funnel with Getresponse \(API\)
 
 You can integrate Deadline Funnel with GetResponse using the API and trigger your countdown based on when someone subscribes to your list.
 
@@ -12,11 +12,11 @@ Important: You will need to complete the setup of your first evergreen campaign 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ba16ad22c7d3a16370f410b/file-owysWkcXUg.png)
 
-2. To get your API Key, go to your GetResponse account, navigate to the menu in the top right hand corner &gt; Integrations & API.
+1. To get your API Key, go to your GetResponse account, navigate to the menu in the top right hand corner &gt; Integrations & API.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b7f32c7d3a6ebd22a0c8/file-0pSL0lUrnX.jpg)
 
-3. If you already have a key, copy that, if not go ahead and hit 'Generate Key' to generate a new key and copy the new key:
+1. If you already have a key, copy that, if not go ahead and hit 'Generate Key' to generate a new key and copy the new key:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b80d04286305cb87c850/file-vZuVyWGzRD.jpg)
 
@@ -28,13 +28,12 @@ Finally, copy the key:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d14b87604286305cb87c854/file-FoPqxsVY3x.jpg)
 
-4. Now paste the API key into the box in Deadline Funnel and hit 'Connect GetResponse'.
-
-5. On the next screen you can select the List that you want to use and select or create the custom field to hold the lead's deadline. Once you've selected both, a webhook URL will be created. Copy this webhook URL, as you'll need to add it in your GetResponse account:
+1. Now paste the API key into the box in Deadline Funnel and hit 'Connect GetResponse'.
+2. On the next screen you can select the List that you want to use and select or create the custom field to hold the lead's deadline. Once you've selected both, a webhook URL will be created. Copy this webhook URL, as you'll need to add it in your GetResponse account:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5ba16f3c0428631d7a8b4f33/file-p0ZgJZp7x8.png)
 
-6. **Enable Callback** in your GetResponse account, **select "Subscribes"** , and add the Deadline Funnel webhook so that the Deadline Funnel webhook is triggered when a subscriber is added to the list you selected in Deadline Funnel. **Make sure no other notifications except Subscribes is chosen.** And be sure to hit 'Save' at the bottom:
+1. **Enable Callback** in your GetResponse account, **select "Subscribes"** , and add the Deadline Funnel webhook so that the Deadline Funnel webhook is triggered when a subscriber is added to the list you selected in Deadline Funnel. **Make sure no other notifications except Subscribes is chosen.** And be sure to hit 'Save' at the bottom:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cea2a2c7d3a5cd38e95c1/file-uJcloxDQMy.jpg)
 

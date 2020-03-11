@@ -1,2 +1,2 @@
-# How to Test an Evergreen/Hybrid Campaign \(newimport/optin integration\)
+# How to Test an Evergreen/Hybrid Campaign \(optin integration\)
 

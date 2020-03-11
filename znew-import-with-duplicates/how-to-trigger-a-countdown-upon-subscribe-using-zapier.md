@@ -14,23 +14,23 @@ For this example, we will setup a trigger between Deadline Funnel and Kajabi, so
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e32c40428631d7a890817/file-rZy4tMTm2v.png)
 
-2. Choose 'New Form Submission' and click 'Continue':
+1. Choose 'New Form Submission' and click 'Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c33b5dc2c7d3a31944fc216/file-Aszc4g7ret.png)
 
-3. Select your Kajabi account and click Test \(or connect your account\), then click 'Save + Continue':
+1. Select your Kajabi account and click Test \(or connect your account\), then click 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e333e0428631d7a89081d/file-j7Ax9edANp.png)
 
-4. Select your Kajabi site and the form you want to integrate, then click 'Continue':
+1. Select your Kajabi site and the form you want to integrate, then click 'Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e33912c7d3a03f89cb2fb/file-VycA987pCO.png)
 
-5. Make sure you have submitted the form at least once so there is data to fetch, then click 'Fetch + Continue':
+1. Make sure you have submitted the form at least once so there is data to fetch, then click 'Fetch + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34190428631d7a890827/file-BIjv37B0we.png)
 
-6. Once you see a successful test message, click 'Continue':
+1. Once you see a successful test message, click 'Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e34850428631d7a890832/file-OkdPAgDvO3.png)
 
@@ -40,27 +40,27 @@ For this example, we will setup a trigger between Deadline Funnel and Kajabi, so
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e36150428631d7a890848/file-wQ81pAOGXK.png)
 
-2. Click 'Start Deadline' and click 'Continue':
+1. Click 'Start Deadline' and click 'Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e369e0428631d7a89084c/file-L9MYTY08NX.png)
 
-3. Click 'Save + Continue' to confirm that you want Zapier to run this action:
+1. Click 'Save + Continue' to confirm that you want Zapier to run this action:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37080428631d7a890853/file-9lEvsMYaO1.png)
 
-4. Select the correct Deadline Funnel Campaign/promotion, select the email address field to capture emails, and click continue:
+1. Select the correct Deadline Funnel Campaign/promotion, select the email address field to capture emails, and click continue:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37530428631d7a890855/file-M7LuOwsFw8.png)
 
-4. Click to 'send a test' to Deadline Funnel:
+1. Click to 'send a test' to Deadline Funnel:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e377b0428631d7a890859/file-7sleCfXdTS.png)
 
-5. Click 'Finish' when your test is successful:
+1. Click 'Finish' when your test is successful:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e37c92c7d3a03f89cb33f/file-IxSEb1BPrm.png)
 
-6. Be sure your zap is turned on:
+1. Be sure your zap is turned on:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b2d66370428632c466b3e66/file-51FsaH3G8K.png)
 

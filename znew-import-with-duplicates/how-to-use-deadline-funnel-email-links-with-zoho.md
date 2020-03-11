@@ -23,7 +23,7 @@ http://dfl3.us/go/1848/vhUulE/1493322076?em=${Leads.Email}
 The image code will look like this:
 
 ```text
-<img style="display:block;border:none;outline:none;width:400px;opacity:1;max-width:100%" src="https://dfimage.com/email-image/3243/kchmKY/1521577080?em=${Leads.Email}&e40ec=1270628395&VFEw0=Gcvdq" border="0" width="400"/><br>  
+<img style="display:block;border:none;outline:none;width:400px;opacity:1;max-width:100%" src="https://dfimage.com/email-image/3243/kchmKY/1521577080?em=${Leads.Email}&e40ec=1270628395&VFEw0=Gcvdq" border="0" width="400"/><br>
 ```
 
 ## Email Placeholder for Zoho CRM \(for non-English accounts\):
@@ -37,13 +37,13 @@ If you have a different language Zoho account, the email placeholder will be per
 If you are using Zoho Campaigns, you will use $\[EMAIL\]$ as your email placeholder. In this instance, you would edit the Email Link from your Email Setup &gt;&gt; Email Links to be:
 
 ```text
-http://dfl3.us/go/1848/vhUulE/1493322076?em=$[EMAIL]$  
+http://dfl3.us/go/1848/vhUulE/1493322076?em=$[EMAIL]$
 ```
 
 And your image code will look like this:
 
 ```text
-<img style="display:block;border:none;outline:none;width:400px;opacity:1;max-width:100%" src="https://dfimage.com/email-image/3243/kchmKY/1521577080?em=$[EMAIL]buffer_3amp;e40ec=1270628395&VFEw0=Gcvdq" border="0" width="400"/>  
+<img style="display:block;border:none;outline:none;width:400px;opacity:1;max-width:100%" src="https://dfimage.com/email-image/3243/kchmKY/1521577080?em=$[EMAIL]buffer_3amp;e40ec=1270628395&VFEw0=Gcvdq" border="0" width="400"/>
 ```
 
 If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).

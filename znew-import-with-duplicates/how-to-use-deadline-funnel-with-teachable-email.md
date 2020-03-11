@@ -8,18 +8,16 @@ At the time of this edit, Deadline Funnel does not have an API integration with 
 ## How to add an Animated Email Countdown to Teachable Email:
 
 1. Navigate to Emails in the Teachable dashboard: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa30f3f2c7d3a754951852d/file-QNHp1E9RGy.png)
-
 2. In the email composer 1\) choose your email recipients, 2\) give your email a subject line and click the 'code' icon to edit your email: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa3107204286374f708c22f/file-c95DCuCt6R.png)
-
 3. In your Deadline Funnel admin navigate to Edit your campaign &gt;&gt; Email Setup and click to copy your Email Timer Code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa310e42c7d3a7549518538/file-V8eIwDklwS.png)
 
-4. Paste the email timer code into your email editor in location where you want your animated countdown to appear:
+1. Paste the email timer code into your email editor in location where you want your animated countdown to appear:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa312142c7d3a7549518542/file-9avEReLjUY.png)
 
-5. Click the source code icon again to preview your email, you will see your animated countdown:
+1. Click the source code icon again to preview your email, you will see your animated countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa3129f2c7d3a7549518546/file-MhZX7kAUs4.png)
 
@@ -37,7 +35,7 @@ You can create additional Email Links by adding new pages to your Funnel Steps. 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5aa314502c7d3a7549518550/file-NciftgKCaA.png)
 
-2. Copy the corresponding Email Link and use it in your Teachable email.
+1. Copy the corresponding Email Link and use it in your Teachable email.
 
 That's it.
 

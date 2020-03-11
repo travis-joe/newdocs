@@ -1,4 +1,4 @@
-# How to Add an Evergreen Countdown to Thinkific with Expiring Bonuses \(newimport/Legacy\)
+# How to Add an Evergreen Countdown to Thinkific with Expiring Bonuses \(Legacy\)
 
 Integrating your Thinkific Sales Page with Deadline Funnel enables you to create an evergreen funnel offering **limited-time bonuses** for each lead:
 
@@ -14,7 +14,7 @@ You will create 2 versions of your Thinkific course and sales page, 1 **with** t
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/594befe004286305c68d49f6/file-1NQm4cRDRr.png)Thinkific will ask you to verify that you want to duplicate the course, and will then send you an email when the duplication is complete.
 
-2. Edit the duplicate version of your course to add your bonus content to the course and sales page. Be sure to name the 2 courses so that you know which course contains the bonuses.
+1. Edit the duplicate version of your course to add your bonus content to the course and sales page. Be sure to name the 2 courses so that you know which course contains the bonuses.
 
 ### Integrate your Thinkific Promotion with Deadline Funnel:
 

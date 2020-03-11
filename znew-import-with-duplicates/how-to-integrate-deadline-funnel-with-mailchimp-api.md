@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with MailChimp \(newimport/API\)
+# How to Integrate Deadline Funnel with MailChimp \(API\)
 
 You can integrate Deadline Funnel with Mailchimp using the API and trigger your countdown based on when someone:
 
@@ -20,11 +20,11 @@ Please note that if you are going to integrate your Deadline Funnel campaign wit
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b48d6dc2c7d3a099f2e876e/file-5SYoM4nVm8.png)
 
-2. You will need to add your MailChimp Username and Account ID on the next screen. To get your API Key, go to your Mailchimp account, navigate to Account &gt; Extras &gt; API Keys. Click on 'Create A Key', copy the new API Key and paste it into the 'MailChimp API key' box in Deadline Funnel:
+1. You will need to add your MailChimp Username and Account ID on the next screen. To get your API Key, go to your Mailchimp account, navigate to Account &gt; Extras &gt; API Keys. Click on 'Create A Key', copy the new API Key and paste it into the 'MailChimp API key' box in Deadline Funnel:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c18db32c7d3a73488cfc9a/file-4VuyNdkQW0.png)
 
-3. Then Copy your MailChimp account username ad paste it into the 'MailChimp Username' box in Deadline Funnel and click 'Connect MailChimp':
+1. Then Copy your MailChimp account username ad paste it into the 'MailChimp Username' box in Deadline Funnel and click 'Connect MailChimp':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b48d8e32c7d3a099f2e8789/file-nU6JdBd7Kn.png)
 
@@ -42,11 +42,11 @@ Copy the Deadline Funnel webhook as you need this to set up your Webhook in your
 
 **Note:** MailChimp changed the name of this custom field from 'deadlinetext' to ' **MMERGE5** '. This is normal and will not affect the webhook performance.
 
-3. In your MailChimp account, navigate to the list you want to integrate with. Go to Settings &gt; Webhooks and click Create New Webhook:
+1. In your MailChimp account, navigate to the list you want to integrate with. Go to Settings &gt; Webhooks and click Create New Webhook:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c18ff32c7d3a73488cfcaa/file-4ASDTBjknn.png)
 
-4. Paste your Webhook URL into the Callback URL box, then check the box to send updates for 'Subscribes'. Be sure to check all 3 boxes in the 'Only send updates when a change is made...' section. Click 'Save':
+1. Paste your Webhook URL into the Callback URL box, then check the box to send updates for 'Subscribes'. Be sure to check all 3 boxes in the 'Only send updates when a change is made...' section. Click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c190ad2c7d3a73488cfcad/file-jBxxYZ5y4r.png)
 
@@ -59,22 +59,21 @@ MailChimp's "groups" feature is a great way to trigger a series-based deadline i
 In this example we are using MailChimp's "Onboarding series", which is an automated series with multiple email steps that allows you to narrow down where you want the subscribers to be added to the group **.**
 
 1. Start by creating a new group inside of MailChimp. This group's function is to trigger a deadline at a certain interval. It has no other functions, so we will make it an invisible group that people cannot add themselves to from any of our web forms: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cc53f2c7d3a5cd38e9144/file-ZrDLAQRHBf.jpg) 2. After this is done, navigate to the point in your MailChimp series that you want your subscribers to be added to the group. Keep in mind that when they are added to this group, that will trigger their deadline in Deadline Funnel. So in this example, we want to time it so that the subscribers get added to the group after the fourth email is sent out: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cc4e22c7d3a5cd38e9137/file-u9RhY7TY23.jpg) 3. Select 'Post-send action' and use the 'Add to group' option, then select the group that you just created. In our example, that group is called TriggerGroup: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d1cc6432c7d3a5cd38e9166/file-S9Ocl2KKuE.jpg)
-
-4. Choose \(1\) 'Group' from the dropdown that asks when to start tracking subscribers, \(2\) select your preferred list, \(3\) select the group/tag, and \(4\), select the custom field to hold the lead's deadline::
+2. Choose \(1\) 'Group' from the dropdown that asks when to start tracking subscribers, \(2\) select your preferred list, \(3\) select the group/tag, and \(4\), select the custom field to hold the lead's deadline::
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b48e73f2c7d3a099f2e8815/file-uG71IdkB3W.png)
 
-5. Copy the Deadline Funnel webhook as you need this to set up your Webhook in your MailChimp account:
+1. Copy the Deadline Funnel webhook as you need this to set up your Webhook in your MailChimp account:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b48e5882c7d3a099f2e8802/file-dYgZxEZkY1.png)
 
 **Note:** MailChimp changed the name of my custom field from 'groupdeadline' to **'MMERGE5'**. This is normal and will not affect the webhook performance
 
-6. In your MailChimp account, navigate to the list you want to integrate with, then go to Settings &gt; Webhooks and click 'Create New Webhook:
+1. In your MailChimp account, navigate to the list you want to integrate with, then go to Settings &gt; Webhooks and click 'Create New Webhook:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c18ff32c7d3a73488cfcaa/file-4ASDTBjknn.png)
 
-7. Paste your webhook URL into the 'Callback URL' box. Check the box to send updates for 'subscribes and 'profile updates', then uncheck everything else. And be sure to check the second and third boxes in the 'Only send updates when a change is made...' section and click 'Save'
+1. Paste your webhook URL into the 'Callback URL' box. Check the box to send updates for 'subscribes and 'profile updates', then uncheck everything else. And be sure to check the second and third boxes in the 'Only send updates when a change is made...' section and click 'Save'
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59cbc903042863033a1d2bfd/file-kIVF7RBvgs.png)
 
@@ -102,8 +101,7 @@ In other words, the API integration requires that your subscribers click one of 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b9fd3c10428631d7a8b3c84/file-9ghpgUYSoe.png)
 
-**You can disregard this message and hit 'Insert' anyway. The links should still work as expected.**    
-
+**You can disregard this message and hit 'Insert' anyway. The links should still work as expected.**
 
 If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com)
 

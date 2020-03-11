@@ -6,19 +6,19 @@ You can easily add a countdown timer to any HubSpot landing page page using Dead
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a34361e04286346b0bc8ed9/file-UT9ToBPURT.png)
 
-2. In the Deadline Funnel admin, navigate to 'Tracking Code' and hit 'Copy the tracking code':
+1. In the Deadline Funnel admin, navigate to 'Tracking Code' and hit 'Copy the tracking code':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a79f60f0428634376cfdcb2/file-elWYOoZEj4.png)
 
-3. Click the 'Add Custom HTML' element to edit it and paste your Deadline Funnel code into the Custom HTML box and click 'Save':
+1. Click the 'Add Custom HTML' element to edit it and paste your Deadline Funnel code into the Custom HTML box and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a34378f2c7d3a46d5961fb3/file-pDBsGLu15z.png)
 
-4. Publish your updates now so your changes will take effect on your landing page:
+1. Publish your updates now so your changes will take effect on your landing page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a3438382c7d3a46d5961fb9/file-OaSZ58KE0l.png)
 
-5. Back in Deadline Funnel, navigate to Edit your campaign &gt; Funnel Steps and add your HubSpot landing page URL, select the action you want for the page, add your redirect URL and click 'Save Page':
+1. Back in Deadline Funnel, navigate to Edit your campaign &gt; Funnel Steps and add your HubSpot landing page URL, select the action you want for the page, add your redirect URL and click 'Save Page':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 

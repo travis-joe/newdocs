@@ -24,7 +24,7 @@ Add any tags and conditions you want to segment your list, then click 'Next' to 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b312c300428632c466b4e16/file-92slqVKopV.png)
 
-4. In the Drip visual email editor, click 'Source' code icon to view the HTML code for your email:
+1. In the Drip visual email editor, click 'Source' code icon to view the HTML code for your email:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b31431e2c7d3a0fa9a36c27/file-Nd3EKixwY3.png)
 
@@ -44,7 +44,7 @@ Paste the Email Timer Code from Deadline Funnel into your editor where you want 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b31445b0428632c466b4f73/file-tBMa4BJKON.png)
 
-7. You will now see a preview of your animated countdown timer:
+1. You will now see a preview of your animated countdown timer:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b3144a72c7d3a0fa9a36c39/file-9Z5wx76j6q.png)
 

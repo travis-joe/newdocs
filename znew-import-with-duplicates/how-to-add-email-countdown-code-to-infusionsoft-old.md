@@ -1,4 +1,4 @@
-# How to Add Email Countdown Code to InfusionSoft \(newimport/OLD\)
+# How to Add Email Countdown Code to InfusionSoft \(OLD\)
 
 1
 

@@ -10,23 +10,23 @@ You can integrate a Deadline Funnel countdown on a Shopify product page using a 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0fcd22c7d3a04dd5b9c54/file-o7B0zQAMtp.png)
 
-2. Click the dropdown and select 'Edit Code':
+1. Click the dropdown and select 'Edit Code':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0fbdb042863158cc75dc5/file-oCbLsQUlsU.png)
 
-3. Under 'Layout' click on 'theme.liquid':
+1. Under 'Layout' click on 'theme.liquid':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0fd1a2c7d3a04dd5b9c57/file-msJamc3aze.png)
 
-4. Navigate to the 'Tracking Code' section of your Deadline Funnel dashboard and copy your Tracking Code:
+1. Navigate to the 'Tracking Code' section of your Deadline Funnel dashboard and copy your Tracking Code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c65c2862c7d3a66e32e7873/file-p3lBofFRVd.png)
 
-5. Paste the Deadline Funnel tracking code into theme.liquid right before the closing header tag:
+1. Paste the Deadline Funnel tracking code into theme.liquid right before the closing header tag:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0ff3a2c7d3a04dd5b9c7e/file-zP1PwteG4p.png)
 
-6. Click 'Save':
+1. Click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0ff62042863158cc75dfa/file-Z27hQ3PJg8.png)
 
@@ -36,7 +36,7 @@ You can integrate a Deadline Funnel countdown on a Shopify product page using a 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-2. Save your changes and visit your product page to see your floating bar countdown timer. Here's an example of what the Floating Bar will look like:
+1. Save your changes and visit your product page to see your floating bar countdown timer. Here's an example of what the Floating Bar will look like:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c65c0a12c7d3a66e32e783a/file-r2622Bfum3.png)
 
@@ -48,15 +48,15 @@ If you are using an Inline Countdown, you must complete these additional steps:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. In the editor for your product page, click the source code icon in the 'Description' section:
+1. In the editor for your product page, click the source code icon in the 'Description' section:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc1002c042863158cc75dfd/file-M8XM5XfNE4.png)
 
-3. Paste your Deadline Funnel HTML snippet into the source code wherever you would like your countdown timer to appear and click 'Save':
+1. Paste your Deadline Funnel HTML snippet into the source code wherever you would like your countdown timer to appear and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc10060042863158cc75dff/file-bcsrcwwXL4.png)
 
-4. That's it! Refresh your page and your inline countdown will now appear on your product page:
+1. That's it! Refresh your page and your inline countdown will now appear on your product page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc10088042863158cc75e00/file-5ELEP9tVkC.png)
 

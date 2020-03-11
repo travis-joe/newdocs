@@ -27,11 +27,11 @@ And if you have any questions along the way please contact us in chat \(blue ico
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b5757290428631d7a894195/file-7wTHD9CfYT.png)
 
-2. On the next screen it's going to ask you for your API Key from ManyChat:
+1. On the next screen it's going to ask you for your API Key from ManyChat:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd0b53304286356f0a5060d/file-PqC4aZ7G7x.png)
 
-3. You can find that under Settings &gt; API in your ManyChat account:
+1. You can find that under Settings &gt; API in your ManyChat account:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd0b54c2c7d3a01757a5b0a/file-2KwJZoVtl9.png)
 
@@ -51,19 +51,19 @@ Now copy the Webhook URL that populates below that:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bd0b5f02c7d3a01757a5b16/file-ATFV3Rln1R.png)
 
-6. Go into ManyChat and navigate to your sequence and click 'Edit Message', then select +Dynamic from the options at the bottom of the screen and move it to the top of the sequence: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5afefa3f2c7d3a2f9011a47d/file-YxZr2hLiJr.png) 7. Then paste the Deadline Funnel webhook there:
+1. Go into ManyChat and navigate to your sequence and click 'Edit Message', then select +Dynamic from the options at the bottom of the screen and move it to the top of the sequence: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5afefa3f2c7d3a2f9011a47d/file-YxZr2hLiJr.png) 7. Then paste the Deadline Funnel webhook there:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5afefa4e2c7d3a2f9011a47e/file-PTnuEcrN4d.png)
 
-8. Next you'll need to navigate to Body and click on Add Full Subscriber Data \(this allows Deadline Funnel to grab the information it needs from ManyChat to trigger the deadline\) and hit Save:
+1. Next you'll need to navigate to Body and click on Add Full Subscriber Data \(this allows Deadline Funnel to grab the information it needs from ManyChat to trigger the deadline\) and hit Save:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5afefab32c7d3a2f9011a481/file-L1gBvhi1GI.png)
 
-9. Next you'll need to navigate back to the Email Setup tab in the Deadline Funnel admin and copy your special Email Link:
+1. Next you'll need to navigate back to the Email Setup tab in the Deadline Funnel admin and copy your special Email Link:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b7de2c7d3a3f981f781c/file-c1Ar6EbibW.png)
 
-10. Then go back into your ManyChat and paste the link wherever you are sending people to your special offer page in the sequence. It's important that you remove everything after the 'em=' and replace it with the 'Email' placeholder ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b0729902c7d3a2f9011e527/file-hxGLtLGi5T.png)
+1. Then go back into your ManyChat and paste the link wherever you are sending people to your special offer page in the sequence. It's important that you remove everything after the 'em=' and replace it with the 'Email' placeholder ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b0729902c7d3a2f9011e527/file-hxGLtLGi5T.png)
 
 ## Quick recap
 

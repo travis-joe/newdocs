@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with Actionetics/ClickFunnels \(newimport/API\)
+# How to Integrate Deadline Funnel with Actionetics/ClickFunnels \(API\)
 
 This article explains how to connect Actionetics or ClickFunnels with Deadline Funnel via an API integration so that when a lead submits a ClickFunnels optin form their Deadline Funnel tracking will begin. You can also trigger tracking when someone makes a purchase.
 
@@ -16,23 +16,23 @@ This integration enables you to sync Deadline Funnel and ClickFunnels via API if
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b6cb12d0428631d7a89d43b/file-CB2TKr8P5f.png)
 
-2. Click to copy the Webhook URL for ClickFunnels/Actionetics:
+1. Click to copy the Webhook URL for ClickFunnels/Actionetics:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b57592c2c7d3a03f89ceed1/file-8rax7liPEa.png)
 
-4. Return to ClickFunnels and click 'Settings' for the page you are integrating with Deadline Funnel:
+1. Return to ClickFunnels and click 'Settings' for the page you are integrating with Deadline Funnel:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591cbc742c7d3a057f892de6/file-Jv8oBbv63M.png)
 
-5. Scroll down and click 'Manage Your Funnel Webhooks':
+1. Scroll down and click 'Manage Your Funnel Webhooks':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591cbcac0428634b4a333966/file-8VFqGnCNzI.png)
 
-6. Click '+ New Webhook':
+1. Click '+ New Webhook':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591cbcd72c7d3a057f892dec/file-TKKqFaAnPD.png)
 
-7. Paste the Webhook URL from Deadline Funnel into the box, select 'contact\_created' as the Event, and click 'Create Funnel Webhook':
+1. Paste the Webhook URL from Deadline Funnel into the box, select 'contact\_created' as the Event, and click 'Create Funnel Webhook':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591cbd6c2c7d3a057f892df2/file-8zvsK6ZBpR.png)
 

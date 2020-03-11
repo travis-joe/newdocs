@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with Klick-Tipp \(newimport/API\)
+# How to Integrate Deadline Funnel with Klick-Tipp \(API\)
 
 The API integration with Klick-Tipp is the easiest and most flexible way to integrate Deadline Funnel with your Klick-Tipp account.
 
@@ -10,15 +10,15 @@ At the top of the screen you can see which Deadline Funnel campaign you're curre
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c100428631d7a8941d6/file-HMVU9Qj9Vj.png)
 
-3. Copy your Deadline Funnel Webhook:
+1. Copy your Deadline Funnel Webhook:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575c1c0428631d7a8941d8/file-qd9p0qAvW8.png)
 
-4. Add your Deadline Funnel webhook to your Outbound Events in Klick-Tipp by navigating to automation &gt;&gt; New Outbound:
+1. Add your Deadline Funnel webhook to your Outbound Events in Klick-Tipp by navigating to automation &gt;&gt; New Outbound:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59975b0c2c7d3a73488c20dc/file-8CMzMKIxoi.png)
 
-5. Give your new outbound event a name, select your filter, and paste the Deadline Funnel Webhook URL into the 'Activation URL' box and click 'New Outbound Event': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59975bf3042863033a1c1dc2/file-opmfVRJdkV.png)
+1. Give your new outbound event a name, select your filter, and paste the Deadline Funnel Webhook URL into the 'Activation URL' box and click 'New Outbound Event': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59975bf3042863033a1c1dc2/file-opmfVRJdkV.png)
 
 Now the deadline will begin for each contact as soon as they reach that webhook in your automation.
 

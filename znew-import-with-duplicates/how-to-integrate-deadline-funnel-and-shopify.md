@@ -26,23 +26,23 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e30380104286364bc947b2d/file-1zacxVPhB5.png)
 
-2. Click **Actions &gt;&gt;** **Edit code:**
+1. Click **Actions &gt;&gt;** **Edit code:**
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0fbdb042863158cc75dc5/file-oCbLsQUlsU.png)
 
-3. Select **theme.liquid:**
+1. Select **theme.liquid:**
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e303a5a04286364bc947b60/file-KecbhVxEr0.png)
 
-4. Copy the tracking code from your Deadline Funnel account:
+1. Copy the tracking code from your Deadline Funnel account:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e30391b2c7d3a7e9ae6d4ec/file-hxZKfwY4C2.png)
 
-5. Paste the Deadline Funnel tracking code into theme.liquid right before the closing &lt;/head&gt; tag:
+1. Paste the Deadline Funnel tracking code into theme.liquid right before the closing &lt;/head&gt; tag:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0ff3a2c7d3a04dd5b9c7e/file-zP1PwteG4p.png)
 
-6. Click **Save:**
+1. Click **Save:**
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5bc0ff62042863158cc75dfa/file-Z27hQ3PJg8.png)
 
@@ -52,15 +52,15 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://paper-%20attachments.dropbox.com/s_0331A8D4D8BB1DA8DA5DF792EAC3AFC72E962B2AFD06158A53469AB5347A163A_1573165933867_Shopify-%20Create-A-Campaign-1.png)
 
-2. Select the **Shopify** blueprint:
+1. Select the **Shopify** blueprint:
 
 ![](https://paper-%20attachments.dropbox.com/s_0331A8D4D8BB1DA8DA5DF792EAC3AFC72E962B2AFD06158A53469AB5347A163A_1573166072409_Shopify-%20Create-A-Campaign-2.png)
 
-3. Add your deadline settings:
+1. Add your deadline settings:
 
 ![](https://paper-%20attachments.dropbox.com/s_0331A8D4D8BB1DA8DA5DF792EAC3AFC72E962B2AFD06158A53469AB5347A163A_1573166127514_Shopify-%20Create-A-Campaign-3.png)
 
-4. Then you'll be redirected to the **Quick Start Guide.** Click on **Start Setup** under **Integrate With Shopify:**
+1. Then you'll be redirected to the **Quick Start Guide.** Click on **Start Setup** under **Integrate With Shopify:**
 
 ![](https://paper-%20attachments.dropbox.com/s_0331A8D4D8BB1DA8DA5DF792EAC3AFC72E962B2AFD06158A53469AB5347A163A_1573166167398_Shopify-%20QSG.png)
 
@@ -70,7 +70,7 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e302f262c7d3a7e9ae6d439/file-2mdPlFx4lj.png)
 
-2. Select your **discount type** , **discount amount** , and **products** that you will be integrating with this campaign:
+1. Select your **discount type** , **discount amount** , and **products** that you will be integrating with this campaign:
 
 ![](https://paper-%20attachments.dropbox.com/s_0331A8D4D8BB1DA8DA5DF792EAC3AFC72E962B2AFD06158A53469AB5347A163A_1573166291834_Shopify-%20Integration-1.png)
 

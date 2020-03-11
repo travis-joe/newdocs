@@ -29,19 +29,19 @@ Navigate to 'Funnel Steps' to add a new page, then add your ShowIt page URL, sel
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42c5d82c7d3a7e9ae7916b/file-CJQkHxiYf4.jpg)
 
-2. Navigate to 'Tracking Code' and copy your Deadline Funnel tracking code:
+1. Navigate to 'Tracking Code' and copy your Deadline Funnel tracking code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42c87b04286364bc952c0b/file-fgWtnbXApA.jpg)
 
-3. Go to your ShowIt editor and use the right sidebar to access the 'Advanced Settings' menu:
+1. Go to your ShowIt editor and use the right sidebar to access the 'Advanced Settings' menu:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42c99a04286364bc952c23/file-SolmqKYfof.jpg)
 
-4. Click on the 'Custom Head HTML' box to add the Deadline Funnel tracking code you had copied before into the field:
+1. Click on the 'Custom Head HTML' box to add the Deadline Funnel tracking code you had copied before into the field:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42cde72c7d3a7e9ae79229/file-1dFmadOO9e.jpg)
 
-5. Then paste the Deadline Funnel tracking code into the 'Update Custom Head HTML' box that pops up, and click 'Save':
+1. Then paste the Deadline Funnel tracking code into the 'Update Custom Head HTML' box that pops up, and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42ced12c7d3a7e9ae7923a/file-vP4g6UUxsR.jpg)
 
@@ -55,7 +55,7 @@ Complete step "5" in the section above, and then:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Navigate to the ShowIt Editor and click on the rectangular icon at the bottom of the editor \(shown below\) to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
+1. Navigate to the ShowIt Editor and click on the rectangular icon at the bottom of the editor \(shown below\) to add an HTML area where you want your countdown to appear, then click on the HTML widget to open up a little box where you can add your HTML:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42d03804286364bc952cbc/file-4kFOk0q5NJ.jpg)
 
@@ -63,11 +63,11 @@ Here is a closer look at that:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42d06c04286364bc952cbe/file-56nXE3mI3v.jpg)
 
-3. Paste the Inline code from Deadline Funnel here and hit 'Save'. Publish any unsaved changes.
+1. Paste the Inline code from Deadline Funnel here and hit 'Save'. Publish any unsaved changes.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e42d0c72c7d3a7e9ae7926a/file-37OIkrJkt6.jpg)
 
-4. Preview your page and you will see your countdown:
+1. Preview your page and you will see your countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/578ea8909033602936036f23/file-SZYioYAkDD.png)
 

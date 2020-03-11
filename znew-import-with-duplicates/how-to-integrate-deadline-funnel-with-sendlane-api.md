@@ -8,27 +8,27 @@ The direct integration with Sendlane is the easiest way to integrate Deadline Fu
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da4734904286364bc905ac4/file-UzZlNCnwgg.jpg)
 
-2. Select Sendlane:
+1. Select Sendlane:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da4727204286364bc905ab6/file-ableRRK39O.jpg)
 
-3. Now you can copy the Deadline Funnel webhook for setting up the integration in Sendlane:
+1. Now you can copy the Deadline Funnel webhook for setting up the integration in Sendlane:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da472fc04286364bc905abd/file-6FDFvgiD05.jpg)
 
-5. Add your Deadline Funnel webhook to a current Sendlane automation or create a new automation. In this instance, we are using 'Subscribes to a list':
+1. Add your Deadline Funnel webhook to a current Sendlane automation or create a new automation. In this instance, we are using 'Subscribes to a list':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da471a404286364bc905aa9/file-Ti6n7JJ38e.jpg)
 
-6. Click the '+' button to add an action:
+1. Click the '+' button to add an action:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da46f482c7d3a7e9ae27737/file-wpN5EE7eEU.jpg)
 
-7. Select 'Webhook' in 'What action would you like to add':
+1. Select 'Webhook' in 'What action would you like to add':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da46f8204286364bc905a86/file-mogCEu384z.jpg)
 
-8. Paste your Deadline Funnel Webhook into the 'URL' box and select 'POST' as the method:
+1. Paste your Deadline Funnel Webhook into the 'URL' box and select 'POST' as the method:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5da4703e2c7d3a7e9ae27741/file-kukJlTak3T.jpg)
 

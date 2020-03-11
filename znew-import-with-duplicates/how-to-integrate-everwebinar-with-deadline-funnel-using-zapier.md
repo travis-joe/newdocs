@@ -29,7 +29,7 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02cf2104286318cac440d8/file-sBm13beJNp.png)
 
-2. A window will pop-up asking you to allow Deadline Funnel to access your Zapier account. Click 'Authorize':
+1. A window will pop-up asking you to allow Deadline Funnel to access your Zapier account. Click 'Authorize':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02cf9804286318cac440db/file-7C1qbfZLvy.png)
 
@@ -64,71 +64,71 @@ live webinar:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d18b04286318cac440f7/file-qqPPYNHvSC.png)
 
-3. Select 'New Live Attendee' as the trigger and hit 'Save + Continue':
+1. Select 'New Live Attendee' as the trigger and hit 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5a02c7d3a1cad5b5c5b/file-0fXWMQNsl2.png)
 
-4. If you've already connected your WebinarJam account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
+1. If you've already connected your WebinarJam account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5ae04286318cac44131/file-LAGtUIj1T1.png)
 
-5. In the dropdown on the next screen you'll see all of your webinars from your EW/WJ account. Go ahead and select the webinar you want to use and click 'Continue':
+1. In the dropdown on the next screen you'll see all of your webinars from your EW/WJ account. Go ahead and select the webinar you want to use and click 'Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5ba2c7d3a1cad5b5c5e/file-dJIfUebMRK.png)
 
-6. It's going to prompt you to create an Action step next, go ahead and click 'Add a Step' in the left hand menu:
+1. It's going to prompt you to create an Action step next, go ahead and click 'Add a Step' in the left hand menu:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5cc2c7d3a1cad5b5c5f/file-DOQ9raYQDF.png)
 
-7. Select 'Action/Search' as the type of step:
+1. Select 'Action/Search' as the type of step:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5d704286318cac44132/file-eZdDhgq1kQ.png)
 
-8. Now select your email service provider at the Action App - In this example, we're using AWeber:
+1. Now select your email service provider at the Action App - In this example, we're using AWeber:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d5f104286318cac44134/file-zDLzJULWXw.png)
 
-9. Select 'Create Subscriber' as the Aweber Action:
+1. Select 'Create Subscriber' as the Aweber Action:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d62604286318cac44135/file-o0D7Ly5Vdo.png)
 
-10. If you've already connected your AWeber account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
+1. If you've already connected your AWeber account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d74404286318cac44144/file-J5UdcvyXJF.png)
 
-11. Select the Aweber account, list and email placeholder you want to use and click 'Continue'
+1. Select the Aweber account, list and email placeholder you want to use and click 'Continue'
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7542c7d3a1cad5b5c68/file-ca5P51hqSD.png)
 
-12. It's going to prompt you to test this step. You can run a quick test to confirm the connection is working, and then click 'Add a Step' in the left hand menu once more:
+1. It's going to prompt you to test this step. You can run a quick test to confirm the connection is working, and then click 'Add a Step' in the left hand menu once more:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d75e04286318cac44145/file-gl3mec6Qum.png)
 
-13. Select 'Action/Search' as the type of step:
+1. Select 'Action/Search' as the type of step:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d76e2c7d3a1cad5b5c6a/file-hWwHDaJw47.png)
 
-14. Select Deadline Funnel from the list of Action Apps and then select 'Start Deadline' as the Action:
+1. Select Deadline Funnel from the list of Action Apps and then select 'Start Deadline' as the Action:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7782c7d3a1cad5b5c6b/file-bkxhkouOUG.png)
 
-15. If you've already connected your Deadline Funnel account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
+1. If you've already connected your Deadline Funnel account, you should see the option to select it here. If not, you can go ahead and click 'Connect an Account', follow the instructions provided to connect, and then click 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7982c7d3a1cad5b5c6e/file-SVmulCOM5I.png)
 
-16. Now select your Deadline Funnel campaign from the 'Promotion' dropdown and select the Email Placeholder from AWeber \(this is going to be the email that gets sent to Deadline Funnel when the zap runs\):
+1. Now select your Deadline Funnel campaign from the 'Promotion' dropdown and select the Email Placeholder from AWeber \(this is going to be the email that gets sent to Deadline Funnel when the zap runs\):
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7a32c7d3a1cad5b5c6f/file-1ox11vXWXv.png)
 
-17. On the next screen click 'Send Test To Deadline Funnel':
+1. On the next screen click 'Send Test To Deadline Funnel':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7ab04286318cac4414b/file-WEi5YjztY0.png)
 
-18. And you should see a 'Test was successful!' message. This means you're all set. Click 'Finish':
+1. And you should see a 'Test was successful!' message. This means you're all set. Click 'Finish':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7b62c7d3a1cad5b5c72/file-XAxOVAwWhA.png)
 
-19. Now you can name your Zap and switch it to 'On':
+1. Now you can name your Zap and switch it to 'On':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d7c204286318cac4414f/file-W2j3ZjxzVY.png)
 
@@ -142,15 +142,15 @@ attend your live webinar:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d8c804286318cac44157/file-qG1HCXmblU.png)
 
-2. The page will refresh and you'll see a new zap titled 'Copy: \(name of your original zap\). Go ahead and open the dropdown for the copied zap and click 'Edit':
+1. The page will refresh and you'll see a new zap titled 'Copy: \(name of your original zap\). Go ahead and open the dropdown for the copied zap and click 'Edit':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d8d22c7d3a1cad5b5c7f/file-N8PrWsCDoL.png)
 
-3. Once in the editor, navigate to 'New Live Attendee' in the left hand menu under WebinarJam and select 'Registrant Misses Webinar' instead, then hit 'Save + Continue':
+1. Once in the editor, navigate to 'New Live Attendee' in the left hand menu under WebinarJam and select 'Registrant Misses Webinar' instead, then hit 'Save + Continue':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d8dc04286318cac44159/file-Bym04lmRlx.png)
 
-4. Continue to hit 'Save + Continue' to complete that step and then turn on your zap:
+1. Continue to hit 'Save + Continue' to complete that step and then turn on your zap:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5d02d8e72c7d3a1cad5b5c80/file-GXhNLsqZ5y.png)
 

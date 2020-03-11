@@ -1,2 +1,2 @@
-# How to Deploy a Survey on a Leadpage \(newimport/Drag and Drop\)
+# How to Deploy a Survey on a Leadpage \(Drag and Drop\)
 

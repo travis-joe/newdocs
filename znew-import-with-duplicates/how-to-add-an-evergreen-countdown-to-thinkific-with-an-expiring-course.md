@@ -1,4 +1,4 @@
-# How to Add an Evergreen Countdown to Thinkific with an Expiring Course \(newimport/Legacy\)
+# How to Add an Evergreen Countdown to Thinkific with an Expiring Course \(Legacy\)
 
 Integrating your Thinkific Sales Page with Deadline Funnel enables you to create an evergreen funnel offering access to your course for a limited time.
 

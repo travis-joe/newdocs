@@ -22,7 +22,6 @@ This tutorial also assumes that you already have a Deadline Funnel campaign crea
 ## How to integrate Chatfuel with Deadline Funnel via API:
 
 1. Navigate to 'API Integrations'. Click 'Add New Integration' and then select Chatfuel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575a2e0428631d7a8941bd/file-MxpZgBai61.png)
-
 2. Copy your Deadline Funnel webhook URL for Chatfuel:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b575a432c7d3a03f89ceee0/file-0vdffod7OE.png)
@@ -32,14 +31,12 @@ This tutorial also assumes that you already have a Deadline Funnel campaign crea
 **Note: You should already have a card set up to collect a user's Email Address at the beginning of the sequence.**
 
 1. In your Chatfuel sequence, add a 'JSON API' plugin to the sequence: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b5902c7d3a3f981f7805/file-8BTCyATJMn.png)
-
 2. Select 1\) 'Post' for the type and 2\) paste your Deadline Funnel Webhook URL into the box provided: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b6630428631126f1ee0c/file-iVPjrRg80K.png)
-
 3. In the 'User Attributes' box choose 'Email' to capture the user's email address:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af9fd24042863158411c17d/file-uG0IgYGiXO.png)
 
-4. Click 'Test this Chatbot':
+1. Click 'Test this Chatbot':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af9fd93042863158411c185/file-mcToeuA3Zy.png)
 
@@ -57,7 +54,7 @@ In the Email Setup section of your Deadline Funnel campaign, copy your Deadline 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b7de2c7d3a3f981f781c/file-c1Ar6EbibW.png)
 
-In the special offer section of your Chatfuel sequence, paste your Deadline Funnel email link and then add  to the end:
+In the special offer section of your Chatfuel sequence, paste your Deadline Funnel email link and then add to the end:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5afb06742c7d3a640ed6dbe2/file-qvwfplIQUU.png)
 

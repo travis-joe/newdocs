@@ -8,15 +8,15 @@
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa355c0428633199241d73/file-iDzhafUJQ6.png)
 
-2. Navigate to 'Tracking Code' in your Deadline Funnel dashboard to copy the Deadline Funnel tracking code for your countdown:
+1. Navigate to 'Tracking Code' in your Deadline Funnel dashboard to copy the Deadline Funnel tracking code for your countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c7478b904286350d08857c9/file-BieT1BNZ80.png)
 
-3. Paste your Deadline Funnel Tracking code into the Custom HTML box, click 'Save' and save your changes to the page:
+1. Paste your Deadline Funnel Tracking code into the Custom HTML box, click 'Save' and save your changes to the page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa35ba2c7d3a272c0d4fc7/file-TR9YHpy8Hb.png)
 
-4. Add the URL for your Thrive Architect page into your funnel steps, select 'Display a floating bar' and click 'Save':
+1. Add the URL for your Thrive Architect page into your funnel steps, select 'Display a floating bar' and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
@@ -30,11 +30,11 @@ Visit the published page to see your floating bar. Here's an example of what the
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Drag another 'Custom HTML' Element into your landing page wherever you want your inline countdown to appear and paste the HTML snippet into the new Custom HTML box:
+1. Drag another 'Custom HTML' Element into your landing page wherever you want your inline countdown to appear and paste the HTML snippet into the new Custom HTML box:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa36fd0428633199241d78/file-7NlWAnzfJY.png)
 
-3. Save all your changes and visit your URL to see your **inline** countdown timer:
+1. Save all your changes and visit your URL to see your **inline** countdown timer:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59fa374f0428633199241d7a/file-bWku7lBBzp.png)
 

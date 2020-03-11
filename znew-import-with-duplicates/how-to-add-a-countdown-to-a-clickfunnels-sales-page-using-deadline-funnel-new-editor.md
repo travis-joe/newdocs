@@ -31,31 +31,31 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
-2. Next go to your ClickFunnels account and select 'Settings' for the page you want to edit:
+1. Next go to your ClickFunnels account and select 'Settings' for the page you want to edit:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a29cb5b0428631b6b6dc1bc/file-VycpQxdgex.png)
 
-3. Paste your Deadline Funnel tracking code into the 'Body Tracking Code' box, scroll down and click 'Save and Update Settings':
+1. Paste your Deadline Funnel tracking code into the 'Body Tracking Code' box, scroll down and click 'Save and Update Settings':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/58e6823d2c7d3a52b42f445f/file-mr5oXBPOEF.png)
 
-4. Return to your Page and click the link to view your page so you can get the correct URL for your Funnel Steps:
+1. Return to your Page and click the link to view your page so you can get the correct URL for your Funnel Steps:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a29cbc32c7d3a1a640cb5cf/file-8uyrmhTYNd.png)
 
-5. **Now, this is very important** : Make sure you copy the URL from the address bar when you are actually viewing the published page:
+1. **Now, this is very important** : Make sure you copy the URL from the address bar when you are actually viewing the published page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/58e68313dd8c8e5c57312e82/file-E6oZvMc5cm.png)
 
-6. Go into Funnel Steps in Deadline Funnel and click 'Add new page':
+1. Go into Funnel Steps in Deadline Funnel and click 'Add new page':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cc32c7d3a0cb932156e/file-CSY1nyRU1d.png)
 
-7. Paste the URL for your ClickFunnels Page and select either the Inline Timer or Floating Bar. You can also choose an After URL here, which is where the page will be redirected when the deadline has expired.
+1. Paste the URL for your ClickFunnels Page and select either the Inline Timer or Floating Bar. You can also choose an After URL here, which is where the page will be redirected when the deadline has expired.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-8. If you choose the Floating Bar, then hit Save and refresh your ClickFunnels page to see your floating bar.
+1. If you choose the Floating Bar, then hit Save and refresh your ClickFunnels page to see your floating bar.
 
 ## How to add an Inline Timer to ClickFunnels:
 
@@ -63,14 +63,13 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Navigate back to ClickFunnels and click 'Edit Page' under your sales page:
-
-1. Wherever you want to display the countdown timer, click the Plus icon to add a new element.
-2. Select Custom JS/HTML
-3. Click on the Custom JS/HTML box
-4. Select 'Open Code Editor. 
-5. Paste the code you copied for the Inline Timer here:
-6. Don't forget to hit Save! :\)
+1. Navigate back to ClickFunnels and click 'Edit Page' under your sales page:
+2. Wherever you want to display the countdown timer, click the Plus icon to add a new element.
+3. Select Custom JS/HTML
+4. Click on the Custom JS/HTML box
+5. Select 'Open Code Editor. 
+6. Paste the code you copied for the Inline Timer here:
+7. Don't forget to hit Save! :\)
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/595d5eb70428637ff8d4538b/file-AFD0Oa2A77.gif)It's important to note that your Countdown timer will **not** show up automatically in Preview mode, but it **will** show up on your published page:
 

@@ -14,7 +14,7 @@ Set up your Deadline Funnel evergreen campaign based on the number of days betwe
 
 To trigger the deadline based on an HTTP Post in your Infusionsoft email sequence, you'll need to set up our direct integration with Infusionsoft. [Check out our guide on how to do that here.](https://documentation.deadlinefunnel.com/article/292-how-to-integrate-%20deadline-funnel-with-infusionsoft)
 
-**Create your webinar-related tags in your Infusionsoft account:** 
+**Create your webinar-related tags in your Infusionsoft account:**
 
 We suggest 2 webinar-related tags, one for those who attended the webinar and one for those who missed the webinar. In the example that follows, we have created 2 tags in Infusionsoft named, samplewebinar-attended-webinar and samplewebinar-missed-webinar. Note: Please replace 'samplewebinar' with the actual name of your webinar when you are creating your tags.
 

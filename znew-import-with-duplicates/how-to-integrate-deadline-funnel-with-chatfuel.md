@@ -25,11 +25,9 @@ If you're unfamiliar with chatbots, here'a guide on [Messenger Marketing and Fac
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b3120428631126f1edf4/file-nTKhOyWItR.png)
 
-2. Select Chatfuel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b3980428631126f1edf7/file-WRwG415ZBY.png)
-
-3. Click 'Activate Integration': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b3dc2c7d3a3f981f77f7/file-TiFEAN1zpe.png)
-
-4. Copy your Deadline Funnel webhook URL for Chatfuel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b4250428631126f1edfb/file-Zb3TdXzOAN.png)
+1. Select Chatfuel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b3980428631126f1edf7/file-WRwG415ZBY.png)
+2. Click 'Activate Integration': ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b3dc2c7d3a3f981f77f7/file-TiFEAN1zpe.png)
+3. Copy your Deadline Funnel webhook URL for Chatfuel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b4250428631126f1edfb/file-Zb3TdXzOAN.png)
 
 ## How to Integrate Deadline Funnel with Chatfuel:
 
@@ -37,37 +35,37 @@ If you're unfamiliar with chatbots, here'a guide on [Messenger Marketing and Fac
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4abf42c7d3a3f981f77bd/file-uTZ4y5ArcG.png)
 
-2. In your Chatfuel sequence, add a 'JSON API' plugin to the sequence:
+1. In your Chatfuel sequence, add a 'JSON API' plugin to the sequence:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b5902c7d3a3f981f7805/file-8BTCyATJMn.png)
 
-3. Select 1\) 'Post' for the type and 2\) paste your Deadline Funnel Webhook URL into the box provided:
+1. Select 1\) 'Post' for the type and 2\) paste your Deadline Funnel Webhook URL into the box provided:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b6630428631126f1ee0c/file-iVPjrRg80K.png)
 
-4. In the 'User Attributes' box choose 'Messenger ID' to capture the Facebook Messenger ID:
+1. In the 'User Attributes' box choose 'Messenger ID' to capture the Facebook Messenger ID:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b6fe2c7d3a3f981f7814/file-HZQf8GI100.png)
 
 What we're passing to Deadline Funnel is the messenger ID that will enable Deadline Funnel to track your leads accurately without an email address.
 
-5. In the Email Setup section of your Deadline Funnel campaign, copy your Deadline Funnel email link:
+1. In the Email Setup section of your Deadline Funnel campaign, copy your Deadline Funnel email link:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b7de2c7d3a3f981f781c/file-c1Ar6EbibW.png)
 
-6. In the special offer section of your Chatfuel sequence, paste your Deadline Funnel email link and then add @cf.deadlinefunnel.com to the end:
+1. In the special offer section of your Chatfuel sequence, paste your Deadline Funnel email link and then add @cf.deadlinefunnel.com to the end:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af4b83b0428631126f1ee26/file-VmhhfPRkBN.png)
 
-7. Click 'Test this Chatbot':
+1. Click 'Test this Chatbot':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af9d2f62c7d3a640ed6cfcf/file-1RfJrPpg1h.png)
 
-8. Confirm the "Messenger ID" gets sent from Chatfuel to Deadline Funnel: Check the Event Tracking page in your Deadline Funnel account and make sure you can see the 'Messenger ID':
+1. Confirm the "Messenger ID" gets sent from Chatfuel to Deadline Funnel: Check the Event Tracking page in your Deadline Funnel account and make sure you can see the 'Messenger ID':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5af9d3a62c7d3a640ed6cfd6/file-SIPiIusHqR.png)
 
-9. Add email links to your Chatfuel sequence: Anywhere in Chatfuel that you're linking to your sales page, you'll need to use the email links provided by Deadline Funnel and add:
+1. Add email links to your Chatfuel sequence: Anywhere in Chatfuel that you're linking to your sales page, you'll need to use the email links provided by Deadline Funnel and add:
 
 { {messenger user id }}@cf.deadlinefunnel.com
 

@@ -5,16 +5,13 @@ The direct integration with Platformly is the easiest and most flexible way to i
 Important: You will need to complete the setup of your first evergreen campaign before you will see the API integrations link in the left nav. Be sure to select API Trigger as the trigger and Platformly as your email service provider.
 
 1. In your Platformly account, select Integrations and then Deadline Funnel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c9537930428633d2cf3f481/file-Vyjcf1BBNk.png)
-
 2. Click Connect: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c9537d60428633d2cf3f486/file-kGZYzJtZVF.png)
-
 3. In your visual automation in Platformly, add a new element where you want the Deadline Funnel tracking to begin for your Deadline Funnel campaign:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c95392c0428633d2cf3f493/file-SkfgkbwYRR.png)
 
-4. Select Deadline Funnel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c9539560428633d2cf3f498/file-lQMFAgTqCT.png)
-
-5. Select your Deadline Funnel campaign and then press Save:
+1. Select Deadline Funnel: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c9539560428633d2cf3f498/file-lQMFAgTqCT.png)
+2. Select your Deadline Funnel campaign and then press Save:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c95398f0428633d2cf3f49d/file-MOPMSBCMp3.png)
 

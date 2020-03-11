@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with ActiveCampaign \(newimport/API\)
+# How to Integrate Deadline Funnel with ActiveCampaign \(API\)
 
 The API integration with ActiveCampaign is the easiest and most flexible way to integrate Deadline Funnel with your ActiveCampaign account. Each Deadline Funnel campaign gets its own API integration.
 
@@ -10,7 +10,7 @@ The API integration with ActiveCampaign is the easiest and most flexible way to 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4679c72c7d3a099f2e7344/file-7MF13PLmCB.png)
 
-2. Enter your ActiveCampaign API URL and API Key into the correct boxes. You can find these in your ActiveCampaign account by clicking on 'Settings' in the left navigation and then on 'Developer':
+1. Enter your ActiveCampaign API URL and API Key into the correct boxes. You can find these in your ActiveCampaign account by clicking on 'Settings' in the left navigation and then on 'Developer':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b08689d0428635ba8b2c1cc/file-d4RVMrXpDA.png)
 
@@ -22,7 +22,7 @@ Once you've pasted both values in Deadline Funnel, click on 'Connect ActiveCampa
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b467e9a2c7d3a099f2e736b/file-3vSn3MpYg0.png)
 
-3. Select or create a custom field to store each lead's deadline:
+1. Select or create a custom field to store each lead's deadline:
 
 We call this the "deadline text" field, and it's just a field in ActiveCampaign that stores each lead's unique deadline. You can create this field from Deadline Funnel if you need to while you're setting up the integration.
 
@@ -32,11 +32,11 @@ Go ahead and name it "deadlinetext" if you're not sure what to call it. You can 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b467fc42c7d3a099f2e7370/file-lbqLR783BL.png)
 
-4. Copy your Deadline Funnel webhook:
+1. Copy your Deadline Funnel webhook:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4680590428630abc0bf8f8/file-GKWus6PvLV.png)
 
-5. Add a webhook action to your automation in ActiveCampaign:
+1. Add a webhook action to your automation in ActiveCampaign:
 
 You can add this webhook anywhere in your automation where you want the deadline to be triggered.
 

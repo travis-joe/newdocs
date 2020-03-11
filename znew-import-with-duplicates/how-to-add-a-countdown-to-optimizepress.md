@@ -10,19 +10,19 @@ You can easily add your Deadline Funnel Tracking Code globally to your OptimizeP
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c65c2862c7d3a66e32e7873/file-p3lBofFRVd.png)
 
-2. In the OptimizePress Dashboard navigate to &gt;&gt; Analytics and Tracking &gt;&gt; Other Tracking Codes':
+1. In the OptimizePress Dashboard navigate to &gt;&gt; Analytics and Tracking &gt;&gt; Other Tracking Codes':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b716b0428634b4a333068/file-JkKZMtv6fG.png)
 
-3. Paste your Deadline Funnel tracking code into the 'Other Tracking Codes' box and click 'Save Settings':
+1. Paste your Deadline Funnel tracking code into the 'Other Tracking Codes' box and click 'Save Settings':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b71c22c7d3a057f8924ca/file-rEMLiOIZdp.png)
 
-4. Navigate back to Deadline Funnel and in your Funnel Steps add the URL of your page, select 'Display a floating bar', select your redirect URL, and click 'Save':
+1. Navigate back to Deadline Funnel and in your Funnel Steps add the URL of your page, select 'Display a floating bar', select your redirect URL, and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-5. Your floating bar countdown timer will appear on your page. Here's an example of what it will look like:
+1. Your floating bar countdown timer will appear on your page. Here's an example of what it will look like:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c65c0a12c7d3a66e32e783a/file-r2622Bfum3.png)
 
@@ -32,17 +32,16 @@ You can easily add your Deadline Funnel Tracking Code globally to your OptimizeP
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. In your OptimizePress LiveEditor, click 'Add Element, select 'Custom HTML/Shortcode' and click the next arrow:
+1. In your OptimizePress LiveEditor, click 'Add Element, select 'Custom HTML/Shortcode' and click the next arrow:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b747c0428634b4a333084/file-txNO5CjBo7.png)
 
-3. Paste your Deadline Funnel HTML snippet into the Custom HTML/Shortcode box and click 'Insert':
+1. Paste your Deadline Funnel HTML snippet into the Custom HTML/Shortcode box and click 'Insert':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b753a2c7d3a057f8924e3/file-lkzxcPq8i6.png)
 
-4. Save all changes for your page
-
-5. When you view your page, you will see your inline countdown timer:
+1. Save all changes for your page
+2. When you view your page, you will see your inline countdown timer:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/591b764b2c7d3a057f8924e8/file-TDwXsGl4LX.png)
 

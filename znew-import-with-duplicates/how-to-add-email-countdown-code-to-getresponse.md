@@ -4,21 +4,21 @@
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c0ad07c6979156e4f1e43f/file-fD9v3GA5Pg.png)
 
-3. Edit the contents of the box to include placeholder text, i.e., EMAIL TIMER:
+1. Edit the contents of the box to include placeholder text, i.e., EMAIL TIMER:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c0ad60c6979156e4f1e443/file-SHbdjnH9zP.png)
 
-4. Switch to the HTML Editor by clicking the link at the bottom of your email editor and clicking 'Yes, continue' on the next screen:
+1. Switch to the HTML Editor by clicking the link at the bottom of your email editor and clicking 'Yes, continue' on the next screen:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c0ad9a903360342852e8bd/file-hWXPTdOLyJ.png)
 
-5. In the HTML code look for the words, 'EMAIL TIMER', highlight those words, then copy and paste the Deadline Funnel HTML Image Code into the GetResponse HTML Code so it replaces the words, 'EMAIL TIMER':
+1. In the HTML code look for the words, 'EMAIL TIMER', highlight those words, then copy and paste the Deadline Funnel HTML Image Code into the GetResponse HTML Code so it replaces the words, 'EMAIL TIMER':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c0b05e903360342852e8d3/file-vcw2rHoph2.png)
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/57c0b067c6979156e4f1e45b/file-EIvbCih7be.png)
 
-6. Click 'Hide the Editor HTML' to preview your email countdown timer in your email editor:
+1. Click 'Hide the Editor HTML' to preview your email countdown timer in your email editor:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/58ae1792dd8c8e56bfa7ee2d/file-ZhfOz0y9MC.png)
 

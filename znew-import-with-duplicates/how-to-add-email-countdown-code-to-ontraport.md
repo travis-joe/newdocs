@@ -7,16 +7,15 @@
 ## Video Tutorial:
 
 1. In the Deadline Funnel admin, navigate to Edit your campaign &gt; Email Setup &gt; Email Timer Code and click to copy the HTML Code you'll need to add the email countdown to your emails: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a81e0df0428634376d00b07/file-8pvrkTx0WA.png)
-
 2. In the Ontraport HTML Email editor, click 'Source' to edit your raw HTML:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205e0a0428637405653655/file-3vCdz3RjOH.png)
 
-3. Copy and paste the Deadline Funnel HTML Code into the Ontraport Source box where you want the animated countdown to appear and click 'Save':
+1. Copy and paste the Deadline Funnel HTML Code into the Ontraport Source box where you want the animated countdown to appear and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205ece0428637405653657/file-VFbanNoS5b.png)
 
-4. Click 'Preview' to see a preview of your email with the animated countdown timer:
+1. Click 'Preview' to see a preview of your email with the animated countdown timer:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a205f202c7d3a71c72be24d/file-b6v7kwUOSJ.png)
 

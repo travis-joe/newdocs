@@ -1,2 +1,2 @@
-# How to Deploy a Survey on ClickFunnels \(newimport/New Editor\)
+# How to Deploy a Survey on ClickFunnels \(New Editor\)
 

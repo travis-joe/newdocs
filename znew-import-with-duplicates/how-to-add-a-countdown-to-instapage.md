@@ -6,11 +6,11 @@ Navigate to 'Tracking Code' in your Deadline Funnel dashboard to copy the Deadli
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a98682d2c7d3a754951409b/file-vTse6vu94q.png)
 
-3. Click on 'HTML/CSS':
+1. Click on 'HTML/CSS':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a98688d2c7d3a75495140a2/file-E3zTsHbXyi.png)
 
-4. Paste your Deadline Funnel tracking code into the 'Head' section:
+1. Paste your Deadline Funnel tracking code into the 'Head' section:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a9868d22c7d3a75495140a4/file-54Gxwh10PN.png)Click 'Save' to save your changes and 'Update' to copy your published page URL:
 

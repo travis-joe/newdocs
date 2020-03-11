@@ -11,16 +11,16 @@ If you want to add an animated countdown timer into your ConvertKit email you ca
 2
 
 ```text
-Scroll down the merge fields to select your 'deadlinetext' custom field: 
+Scroll down the merge fields to select your 'deadlinetext' custom field:
 ```
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/58827d1b2c7d3a4a60b95b1e/file-VwtFl1Avzv.png)
 
-3. This will insert your custom field placeholder into your email:
+1. This will insert your custom field placeholder into your email:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b6c7a660428631d7a89d165/file-xrnmrO9cjo.png)
 
-4. When you send yourself the broadcast email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. **NOTE** : **You must send the actual broadcast after the deadline has been triggered so there is an actual deadline to display. The placeholder will not be replaced in a test message**. **You can send the broadcast to yourself first to test the delivery.**
+1. When you send yourself the broadcast email, you will see that the placeholder has been replaced with the deadline text format you chose in your setup. **NOTE** : **You must send the actual broadcast after the deadline has been triggered so there is an actual deadline to display. The placeholder will not be replaced in a test message**. **You can send the broadcast to yourself first to test the delivery.**
 
 If you have any questions, please let us know at [help@deadlinefunnel.com](mailto:mailto:help@deadlinefunnel.com).
 

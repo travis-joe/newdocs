@@ -1,2 +1,2 @@
-# How to Test an Evergreen/Hybrid Campaign \(newimport/page trigger\)
+# How to Test an Evergreen/Hybrid Campaign \(page trigger\)
 

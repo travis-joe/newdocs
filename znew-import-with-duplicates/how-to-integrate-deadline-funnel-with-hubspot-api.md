@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with HubSpot \(newimport/API\)
+# How to Integrate Deadline Funnel with HubSpot \(API\)
 
 Our API integration allows you to create a connection with HubSpot that triggers a Deadline Funnel campaign when a new contact is added to HubSpot.
 
@@ -22,15 +22,15 @@ Our API integration allows you to create a connection with HubSpot that triggers
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e15bc0428631d7a8904ed/file-sRpGxcEwS2.png)
 
-2. Click the 'plus' sign to 'Add an action':
+1. Click the 'plus' sign to 'Add an action':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e17532c7d3a03f89caff5/file-fK80EahyI3.png)
 
-3. Select 'Trigger a webhook' for the action:
+1. Select 'Trigger a webhook' for the action:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e17cd0428631d7a8904ff/file-i4X8a96fa8.png)
 
-4. Select, 'Post' for the method, paste your Deadline Funnel webhook URL into the box and click 'Save':
+1. Select, 'Post' for the method, paste your Deadline Funnel webhook URL into the box and click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4e187e2c7d3a03f89cb00a/file-YRLzIMg2BB.png)
 

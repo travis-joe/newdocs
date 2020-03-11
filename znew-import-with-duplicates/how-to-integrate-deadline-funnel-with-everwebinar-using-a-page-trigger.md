@@ -7,7 +7,6 @@ As you saw in the video, the Everwebinar integration with Deadline Funnel has mo
 ## Option 1 - Registration Thank You Page:
 
 1. Copy the Deadline Funnel tracking pixel from Edit your campaign &gt;&gt; Settings &gt;&gt; What you will do is get the pixel from the Settings section in our admin.
-
 2. Add this tracking pixel to your EverWebinar thank you page under Integrations &gt;&gt; Integrate a 3rd party tracking system
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edcb12c7d3a7e9ae810f5/file-YBebyEPM0p.jpg)
@@ -19,7 +18,6 @@ Be sure to go through your registration process and verify that your tracking ha
 ## Option 2 - Webinar Page
 
 1. You will set up your evergreen campaign so that the deadline is triggered ONLY for those people who attend the webinar. \(You can reach out to those who didn't attend and encourage them to re-register, as explained in the video.\)
-
 2. You'll trigger the deadline on the webinar page using a Deadline Funnel "pixel". Copy your Deadline Funnel tracking pixel and add it to your webpage page in EverWebinar under Integrations &gt;&gt; Integrate a 3rd party tracking system
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5e4edccc2c7d3a7e9ae810f7/file-qCaL5eM8p6.jpg)

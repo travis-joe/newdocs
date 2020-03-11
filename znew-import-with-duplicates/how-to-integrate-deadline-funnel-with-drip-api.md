@@ -1,4 +1,4 @@
-# How to Integrate Deadline Funnel with Drip \(newimport/API\)
+# How to Integrate Deadline Funnel with Drip \(API\)
 
 Our API Integration allows you to create an automation in Drip and start a lead's Deadline Funnel tracking based on when a webhook is triggered in that automation.
 
@@ -14,25 +14,25 @@ Each Deadline Funnel campaign gets its own API integration
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4915962c7d3a099f2e89ae/file-s3xzcauaTU.png)
 
-2. To get your Account ID, navigate inside Drip to account settings and scroll down to copy your Account ID and paste it into the Drip Account ID box in Deadline Funnel:
+1. To get your Account ID, navigate inside Drip to account settings and scroll down to copy your Account ID and paste it into the Drip Account ID box in Deadline Funnel:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6262d80428632faf61fdb7/file-Rv0r8Kkuz5.png)
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62633e2c7d3a39e6262f32/file-o61FzwL9sZ.png)
 
-3. Click on 'User Settings' in your Drip account to get your Token credentials:
+1. Click on 'User Settings' in your Drip account to get your Token credentials:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6261052c7d3a39e6262f21/file-oeBtWC2C8l.png)
 
-4. Scroll to the bottom to the API Token, and copy the API Token:
+1. Scroll to the bottom to the API Token, and copy the API Token:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a62622f0428632faf61fdb0/file-NfUlOsdS0C.png)
 
-5. Paste the API token into the Drip Token ID box in Deadline Funnel, then hit 'Connect Drip':
+1. Paste the API token into the Drip Token ID box in Deadline Funnel, then hit 'Connect Drip':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b49188c0428630abc0c0e06/file-1uVLIWn5m2.png)
 
-6. Select the custom field from the dropdown that you want to use store each lead's deadline. If you want to create a new field, just start typing into the box to create the new custom field:
+1. Select the custom field from the dropdown that you want to use store each lead's deadline. If you want to create a new field, just start typing into the box to create the new custom field:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b4919220428630abc0c0e08/file-DjkWkHNmNu.png)
 
@@ -58,13 +58,12 @@ You can either create a new Drip automation or edit an existing one.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6265b90428632faf61fdcc/file-n1ALEU9jKc.png)
 
-2. Then select 'Action' from the list of options: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59567f2e2c7d3a707d7b58e3/file-zyZ5tsKUID.png)
-
-3. Select 'Send an HTTP post' from the options given:
+1. Then select 'Action' from the list of options: ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59567f2e2c7d3a707d7b58e3/file-zyZ5tsKUID.png)
+2. Select 'Send an HTTP post' from the options given:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6266222c7d3a39e6262f53/file-u3oaSDCZr7.png)
 
-4. Paste the Webhook URL from Deadline Funnel into the 'Endpoint URL' box and click 'Update Action':
+1. Paste the Webhook URL from Deadline Funnel into the 'Endpoint URL' box and click 'Update Action':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a6266ae2c7d3a39e6262f5a/file-9Z5OnUfZNr.png)
 

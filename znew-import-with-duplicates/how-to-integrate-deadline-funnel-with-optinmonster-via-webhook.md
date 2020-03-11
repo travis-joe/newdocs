@@ -20,19 +20,19 @@
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a2017b7042863319924e39d/file-eirPnvh8MJ.png)
 
-2. Add a Webhook account name \(we've used Deadline Funnel\) and paste your Deadline Funnel Webhook URL for OptinMonster into the 'Webhook URL' box and click 'Connect to Webhook:
+1. Add a Webhook account name \(we've used Deadline Funnel\) and paste your Deadline Funnel Webhook URL for OptinMonster into the 'Webhook URL' box and click 'Connect to Webhook:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/59c431d52c7d3a73488d0d75/file-Ru2tinqzCq.png)
 
-3. In the OptinMonster Campaigns dashboard, navigate to the Campaign that you want to use with your new Deadline Funnel Webhook and click 'Integrations':
+1. In the OptinMonster Campaigns dashboard, navigate to the Campaign that you want to use with your new Deadline Funnel Webhook and click 'Integrations':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b2d21292c7d3a0fa9a3574b/file-x4kT6zleqr.png)
 
-4. Click 'Add New Integration':
+1. Click 'Add New Integration':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b2d21780428632c466b3bda/file-N1UuH9uOsV.png)
 
-5. Select Webhook for 'Email Provider', Select the name of your webhook as the 'Email Provider Account' and click 'Connect to Webhook':
+1. Select Webhook for 'Email Provider', Select the name of your webhook as the 'Email Provider Account' and click 'Connect to Webhook':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5b2d22042c7d3a0fa9a35757/file-T7UK0DEqyB.png)
 

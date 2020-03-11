@@ -27,15 +27,15 @@ We're here to help! Contact us on live chat \(bottom right corner of the screen\
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dc1864f2c7d3a7e9ae385de/file-nJmkot4R63.jpg)
 
-2. Navigate to Funnel Steps to add a new page, then add your MemberVault URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
+1. Navigate to Funnel Steps to add a new page, then add your MemberVault URL, select 'Display a floating bar', add a redirect URL, and then click 'Save':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783c362c7d3a0cb932155e/file-JDPyIgnWsG.png)
 
-3. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
+1. Navigate to Tracking Code and copy your Deadline Funnel tracking code:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5a7b84f70428634376cfec58/file-nCV9LRDZSb.png)
 
-4. Then paste the Deadline Funnel tracking code into the 'Custom JavaScript' box under Settings &gt;&gt; General &gt;&gt; Advanced Settings in your MemberVault account and click 'Save Advanced Settings':
+1. Then paste the Deadline Funnel tracking code into the 'Custom JavaScript' box under Settings &gt;&gt; General &gt;&gt; Advanced Settings in your MemberVault account and click 'Save Advanced Settings':
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dc181362c7d3a7e9ae38581/file-7LqcpIl3i3.jpg)
 
@@ -49,15 +49,15 @@ Complete the steps in the section above, and then:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5c783cd22c7d3a0cb9321570/file-hMgAYWDhqC.png)
 
-2. Navigate to the MemberVault Products &gt;&gt; Edit Product and locate the box you want to insert an inline timer in. Click the HTML icon to open up a little box where you can add your HTML:
+1. Navigate to the MemberVault Products &gt;&gt; Edit Product and locate the box you want to insert an inline timer in. Click the HTML icon to open up a little box where you can add your HTML:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dc1839204286364bc9159cb/file-F2bGYPgpD7.jpg)
 
-3. Paste the Inline code from Deadline Funnel here and hit 'Ok'. Then Click 'Save' to update your MemberVault page:
+1. Paste the Inline code from Deadline Funnel here and hit 'Ok'. Then Click 'Save' to update your MemberVault page:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dc183a72c7d3a7e9ae385a9/file-XBvhtfyQje.jpg)
 
-4. Preview your page and you will see your countdown:
+1. Preview your page and you will see your countdown:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/53974d6ce4b0c76107b109d1/images/5dc183f904286364bc9159d9/file-6C3bWaaj67.jpg)
 

@@ -1,2 +1,2 @@
-# How to Test an Evergreen/Hybrid Campaign \(newimport/direct integration\)
+# How to Test an Evergreen/Hybrid Campaign \(direct integration\)
 
